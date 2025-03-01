@@ -1,0 +1,2095 @@
+Cluster,Cluster Name,Emissions per capita (MTCO2e),msa,Variable,Value
+3,Sparse Auto,8.521780192812306,"Abilene, TX",Population Density (/sq km),24.019916626761898
+7,Dense Active,5.224953343032942,"Akron, OH",Population Density (/sq km),294.0189103599454
+3,Sparse Auto,6.560072038030802,"Albany, GA",Population Density (/sq km),35.33337800474568
+1,Sparse Active,6.8956968499881794,"Albany-Lebanon, OR",Population Density (/sq km),21.285742632943784
+3,Sparse Auto,4.563193172897371,"Albany-Schenectady-Troy, NY",Population Density (/sq km),118.2068952815043
+4,Auto Large,7.038307492087349,"Albuquerque, NM",Population Density (/sq km),38.041480875247686
+3,Sparse Auto,4.661572413217785,"Allentown-Bethlehem-Easton, PA-NJ",Population Density (/sq km),220.30410307894107
+5,Auto Small,4.693678102809026,"Altoona, PA",Population Density (/sq km),89.69337656284897
+3,Sparse Auto,9.762586464058558,"Amarillo, TX",Population Density (/sq km),19.671521734799427
+1,Sparse Active,6.588536340832919,"Ames, IA",Population Density (/sq km),41.63637185218104
+7,Dense Active,4.402935620842415,"Ann Arbor, MI",Population Density (/sq km),196.7818868804965
+5,Auto Small,6.64554937950233,"Anniston-Oxford, AL",Population Density (/sq km),72.06392345438152
+5,Auto Small,5.39452754882885,"Appleton, WI",Population Density (/sq km),87.88818811476172
+3,Sparse Auto,5.7107441421080205,"Asheville, NC",Population Density (/sq km),86.91226767470962
+5,Auto Small,5.370655597161981,"Athens-Clarke County, GA",Population Density (/sq km),78.84134898876648
+4,Auto Large,5.789558925442073,"Atlanta-Sandy Springs-Alpharetta, GA",Population Density (/sq km),259.6890682764706
+5,Auto Small,4.510060212334464,"Atlantic City-Hammonton, NJ",Population Density (/sq km),150.28644841530428
+5,Auto Small,6.289928297636136,"Auburn-Opelika, AL",Population Density (/sq km),102.1451230805168
+4,Auto Large,5.969913473634678,"Augusta-Richmond County, GA-SC",Population Density (/sq km),65.2432381134883
+4,Auto Large,4.331190339513039,"Austin-Round Rock-Georgetown, TX",Population Density (/sq km),196.17147819451
+4,Auto Large,6.556526134153044,"Bakersfield, CA",Population Density (/sq km),42.235000522356685
+4,Auto Large,5.042565645376257,"Baltimore-Columbia-Towson, MD",Population Density (/sq km),347.37875111637976
+1,Sparse Active,5.787938338174279,"Bangor, ME",Population Density (/sq km),16.479003138393946
+1,Sparse Active,6.5569086788700774,"Barnstable Town, MA",Population Density (/sq km),76.16694886119089
+5,Auto Small,5.718416953304107,"Battle Creek, MI",Population Density (/sq km),71.99516908178414
+5,Auto Small,5.806592106921938,"Bay City, MI",Population Density (/sq km),88.17586139186507
+3,Sparse Auto,7.23804529158365,"Beaumont-Port Arthur, TX",Population Density (/sq km),58.0944899535836
+5,Auto Small,6.354726056662507,"Beckley, WV",Population Density (/sq km),35.53467046151838
+1,Sparse Active,4.160915236395564,"Bellingham, WA",Population Density (/sq km),34.649946229034875
+1,Sparse Active,4.244615460866778,"Bend, OR",Population Density (/sq km),24.24670842986644
+3,Sparse Auto,6.818462426750208,"Billings, MT",Population Density (/sq km),10.70195297466404
+5,Auto Small,5.625499323594822,"Binghamton, NY",Population Density (/sq km),75.01232036164497
+4,Auto Large,7.819034591152687,"Birmingham-Hoover, AL",Population Density (/sq km),92.10413397803032
+1,Sparse Active,8.620673178483822,"Bismarck, ND",Population Density (/sq km),11.42796808696752
+3,Sparse Auto,5.936537030801337,"Bloomington, IL",Population Density (/sq km),56.04555170328219
+5,Auto Small,4.999595890399523,"Bloomington, IN",Population Density (/sq km),81.29696401019486
+5,Auto Small,6.719566195091469,"Bloomsburg-Berwick, PA",Population Density (/sq km),51.65126228907561
+4,Auto Large,4.910866644404342,"Boise City, ID",Population Density (/sq km),23.85812387099005
+4,Auto Large,4.016309705704,"Boston-Cambridge-Newton, MA-NH",Population Density (/sq km),437.9370092659749
+3,Sparse Auto,6.660842572305076,"Bowling Green, KY",Population Density (/sq km),41.662797184493705
+4,Auto Large,3.773433361377403,"Bremerton-Silverdale-Port Orchard, WA",Population Density (/sq km),185.4159062442205
+7,Dense Active,4.132225329902902,"Bridgeport-Stamford-Norwalk, CT",Population Density (/sq km),506.574924714387
+3,Sparse Auto,4.05226043435715,"Brownsville-Harlingen, TX",Population Density (/sq km),108.9827914595714
+3,Sparse Auto,9.935164751675893,"Brunswick, GA",Population Density (/sq km),28.42731795502436
+1,Sparse Active,3.65299609243732,"Buffalo-Cheektowaga, NY",Population Density (/sq km),184.877352689389
+5,Auto Small,4.82296733211575,"Burlington, NC",Population Density (/sq km),147.76860397723482
+1,Sparse Active,5.851998579706925,"Burlington-South Burlington, VT",Population Density (/sq km),56.45694514544764
+5,Auto Small,4.490797852429514,"Canton-Massillon, OH",Population Density (/sq km),157.3062435369515
+7,Dense Active,5.169660208099404,"Cape Coral-Fort Myers, FL",Population Density (/sq km),241.08517193160787
+3,Sparse Auto,7.421326825857359,"Cape Girardeau, MO-IL",Population Density (/sq km),25.6728448470136
+3,Sparse Auto,6.499204605337879,"Carbondale-Marion, IL",Population Density (/sq km),37.8081062369194
+1,Sparse Active,7.971315774518812,"Casper, WY",Population Density (/sq km),5.753814931670731
+3,Sparse Auto,5.511328261678552,"Cedar Rapids, IA",Population Density (/sq km),52.00196191399487
+5,Auto Small,6.027676645697928,"Chambersburg-Waynesboro, PA",Population Density (/sq km),77.34472274367741
+1,Sparse Active,5.58011971503012,"Champaign-Urbana, IL",Population Density (/sq km),60.78002605151604
+3,Sparse Auto,6.360166397497082,"Charleston, WV",Population Density (/sq km),37.77958217758838
+3,Sparse Auto,5.6585131547993575,"Charleston-North Charleston, SC",Population Density (/sq km),100.3682015084836
+4,Auto Large,5.236051321118476,"Charlotte-Concord-Gastonia, NC-SC",Population Density (/sq km),175.55900360012637
+3,Sparse Auto,6.714462149284141,"Chattanooga, TN-GA",Population Density (/sq km),100.8839139409005
+1,Sparse Active,10.416946381906817,"Cheyenne, WY",Population Density (/sq km),14.285792350238234
+4,Auto Large,3.9342845352152835,"Chicago-Naperville-Elgin, IL-IN-WI",Population Density (/sq km),382.108984465966
+3,Sparse Auto,4.819672050556448,"Chico, CA",Population Density (/sq km),51.4466621023879
+4,Auto Large,5.198681661586621,"Cincinnati, OH-KY-IN",Population Density (/sq km),184.49209914807025
+3,Sparse Auto,5.8835001531734035,"Clarksville, TN-KY",Population Density (/sq km),52.4750832092292
+5,Auto Small,6.450301817295837,"Cleveland, TN",Population Density (/sq km),61.73167459823626
+4,Auto Large,5.239030933228603,"Cleveland-Elyria, OH",Population Density (/sq km),199.44861542721256
+3,Sparse Auto,6.620857090863089,"Coeur d'Alene, ID",Population Density (/sq km),47.40904484059794
+3,Sparse Auto,5.735068116774824,"College Station-Bryan, TX",Population Density (/sq km),47.24815601661159
+3,Sparse Auto,4.0650330202961555,"Colorado Springs, CO",Population Density (/sq km),105.67812735952796
+3,Sparse Auto,6.9474179207980296,"Columbia, MO",Population Density (/sq km),46.269851495110935
+4,Auto Large,6.189623940247864,"Columbia, SC",Population Density (/sq km),83.86727905145486
+3,Sparse Auto,6.038034603580465,"Columbus, GA-AL",Population Density (/sq km),43.832585938719625
+5,Auto Small,8.092349363775686,"Columbus, IN",Population Density (/sq km),78.36628460378907
+4,Auto Large,5.018529835475418,"Columbus, OH",Population Density (/sq km),167.28730619533275
+3,Sparse Auto,6.196104052943694,"Corpus Christi, TX",Population Density (/sq km),82.36824962573328
+1,Sparse Active,3.2568044344773206,"Corvallis, OR",Population Density (/sq km),52.41165039396516
+3,Sparse Auto,7.720934569786481,"Crestview-Fort Walton Beach-Destin, FL",Population Density (/sq km),46.34063653511838
+5,Auto Small,4.833162484605701,"Cumberland, MD-WV",Population Density (/sq km),50.05683761438599
+4,Auto Large,4.665452039086198,"Dallas-Fort Worth-Arlington, TX",Population Density (/sq km),319.54679427395257
+5,Auto Small,6.713757328033229,"Dalton, GA",Population Density (/sq km),87.11289816471808
+5,Auto Small,5.729877881090719,"Danville, IL",Population Density (/sq km),32.88450155594533
+3,Sparse Auto,9.654314156515747,"Daphne-Fairhope-Foley, AL",Population Density (/sq km),41.59061585556429
+1,Sparse Active,5.574919113799141,"Davenport-Moline-Rock Island, IA-IL",Population Density (/sq km),63.416427500269855
+3,Sparse Auto,4.942568688982381,"Dayton-Kettering, OH",Population Density (/sq km),240.9442874113365
+5,Auto Small,7.73070300442992,"Decatur, AL",Population Density (/sq km),44.737721441952566
+5,Auto Small,5.6670187986381215,"Decatur, IL",Population Density (/sq km),68.99529049518883
+3,Sparse Auto,6.111431445666809,"Deltona-Daytona Beach-Ormond Beach, FL",Population Density (/sq km),127.16881900090608
+4,Auto Large,5.387551266032284,"Des Moines-West Des Moines, IA",Population Density (/sq km),73.1864666905719
+4,Auto Large,3.9872664188339844,"Detroit-Warren-Dearborn, MI",Population Density (/sq km),397.0547430827836
+3,Sparse Auto,6.873509854278803,"Dothan, AL",Population Density (/sq km),33.22417212163141
+4,Auto Large,4.830602945612652,"Dover, DE",Population Density (/sq km),86.67029040185363
+5,Auto Small,5.22075903239457,"Dubuque, IA",Population Density (/sq km),60.95213960777294
+4,Auto Large,7.701986078209474,"Duluth, MN-WI",Population Density (/sq km),9.93282043847055
+3,Sparse Auto,5.353667753997634,"Durham-Chapel Hill, NC",Population Density (/sq km),104.59755954253694
+5,Auto Small,4.830968100529345,"East Stroudsburg, PA",Population Density (/sq km),105.60480934634695
+3,Sparse Auto,7.743743487337159,"Eau Claire, WI",Population Density (/sq km),38.54363704554275
+3,Sparse Auto,9.039659053730142,"El Centro, CA",Population Density (/sq km),15.55507212517112
+4,Auto Large,5.349598826800237,"El Paso, TX",Population Density (/sq km),58.23718551303062
+5,Auto Small,6.794204161989231,"Elizabethtown-Fort Knox, KY",Population Density (/sq km),48.37748427321521
+5,Auto Small,6.952711291250893,"Elkhart-Goshen, IN",Population Density (/sq km),169.5896183747346
+5,Auto Small,5.104260393181227,"Elmira, NY",Population Density (/sq km),79.02055052160007
+3,Sparse Auto,5.5737281201315065,"Enid, OK",Population Density (/sq km),22.43046030084688
+1,Sparse Active,4.307969648379507,"Erie, PA",Population Density (/sq km),67.59893265156164
+1,Sparse Active,5.026956204611711,"Eugene-Springfield, OR",Population Density (/sq km),30.910262564391413
+3,Sparse Auto,7.118906492100415,"Evansville, IN-KY",Population Density (/sq km),80.5647544585119
+3,Sparse Auto,8.012731670845499,"Fargo, ND-MN",Population Density (/sq km),33.334274369773226
+3,Sparse Auto,6.32440637612793,"Farmington, NM",Population Density (/sq km),8.721460614019577
+3,Sparse Auto,4.329363490882602,"Fayetteville, NC",Population Density (/sq km),122.0956061700435
+3,Sparse Auto,4.9190378947445055,"Fayetteville-Springdale-Rogers, AR",Population Density (/sq km),76.08379300456579
+1,Sparse Active,13.056576781339958,"Flagstaff, AZ",Population Density (/sq km),2.945933628604638
+7,Dense Active,4.3771015421960335,"Flint, MI",Population Density (/sq km),241.7002325675828
+3,Sparse Auto,6.729650647115809,"Florence, SC",Population Density (/sq km),57.760710103465954
+5,Auto Small,6.6107105895565885,"Florence-Muscle Shoals, AL",Population Density (/sq km),42.532495685324
+5,Auto Small,7.478514979823569,"Fond du Lac, WI",Population Density (/sq km),51.75255242311941
+1,Sparse Active,4.605955170213604,"Fort Collins, CO",Population Density (/sq km),51.40091537599224
+3,Sparse Auto,7.438802066656409,"Fort Smith, AR-OK",Population Density (/sq km),38.90689036263397
+5,Auto Small,6.581911696270895,"Fort Wayne, IN",Population Density (/sq km),158.4263985053856
+4,Auto Large,5.298647007777657,"Fresno, CA",Population Density (/sq km),63.57081398271399
+5,Auto Small,6.461529321035506,"Gadsden, AL",Population Density (/sq km),72.30924128994279
+3,Sparse Auto,6.87983051948396,"Gainesville, FL",Population Density (/sq km),46.18807473538653
+5,Auto Small,6.14147007866239,"Gainesville, GA",Population Density (/sq km),181.0115268617642
+5,Auto Small,5.038324654644315,"Gettysburg, PA",Population Density (/sq km),75.93686288359632
+1,Sparse Active,5.52198665067417,"Glens Falls, NY",Population Density (/sq km),27.27368903629888
+5,Auto Small,4.606188837792648,"Goldsboro, NC",Population Density (/sq km),85.69141540893048
+1,Sparse Active,9.883473253442334,"Grand Forks, ND-MN",Population Density (/sq km),11.423017642895578
+3,Sparse Auto,10.690637098922567,"Grand Island, NE",Population Density (/sq km),17.9790574993952
+1,Sparse Active,4.721965840989233,"Grand Junction, CO",Population Density (/sq km),17.660169444753016
+3,Sparse Auto,4.612096790793935,"Grand Rapids-Kentwood, MI",Population Density (/sq km),150.2409232578639
+1,Sparse Active,5.54995413979656,"Grants Pass, OR",Population Density (/sq km),20.507216904555182
+1,Sparse Active,5.6130099461611715,"Great Falls, MT",Population Density (/sq km),11.617940172416644
+3,Sparse Auto,5.531836783748051,"Green Bay, WI",Population Density (/sq km),65.04500374526744
+3,Sparse Auto,5.332766818962245,"Greensboro-High Point, NC",Population Density (/sq km),146.7578528031462
+5,Auto Small,4.123972683795411,"Greenville, NC",Population Density (/sq km),105.97800703996828
+4,Auto Large,5.309442740547294,"Greenville-Anderson, SC",Population Density (/sq km),125.80890996607268
+3,Sparse Auto,7.515494463286443,"Gulfport-Biloxi, MS",Population Density (/sq km),52.78021623964089
+5,Auto Small,6.174254098149316,"Hagerstown-Martinsburg, MD-WV",Population Density (/sq km),108.3942530968723
+1,Sparse Active,6.347121697586409,"Hanford-Corcoran, CA",Population Density (/sq km),41.87866056733508
+3,Sparse Auto,5.9673538352136575,"Harrisburg-Carlisle, PA",Population Density (/sq km),133.12674179073343
+3,Sparse Auto,4.563979142380444,"Hartford-East Hartford-Middletown, CT",Population Density (/sq km),297.2420529767038
+3,Sparse Auto,7.471478610192212,"Hattiesburg, MS",Population Density (/sq km),31.967952188956485
+3,Sparse Auto,5.499577472573777,"Hickory-Lenoir-Morganton, NC",Population Density (/sq km),85.17040420746788
+3,Sparse Auto,7.198667567428218,"Hilton Head Island-Bluffton, SC",Population Density (/sq km),53.265995967939055
+3,Sparse Auto,7.0264810438690395,"Hinesville, GA",Population Density (/sq km),31.214713789204207
+7,Dense Active,5.091160691255167,"Homosassa Springs, FL",Population Density (/sq km),73.87684635947072
+5,Auto Small,4.9175546671767725,"Hot Springs, AR",Population Density (/sq km),52.09749110873331
+4,Auto Large,4.7749743707774535,"Houston-The Woodlands-Sugar Land, TX",Population Density (/sq km),269.75578483994764
+3,Sparse Auto,5.066502888486467,"Huntington-Ashland, WV-KY-OH",Population Density (/sq km),54.75487416584492
+3,Sparse Auto,6.69200761875749,"Huntsville, AL",Population Density (/sq km),126.5167663352283
+3,Sparse Auto,6.766059974417556,"Idaho Falls, ID",Population Density (/sq km),10.974404512426512
+4,Auto Large,6.627093410123633,"Indianapolis-Carmel-Anderson, IN",Population Density (/sq km),182.5482131949751
+1,Sparse Active,6.319585647538596,"Iowa City, IA",Population Density (/sq km),55.90378055859368
+7,Dense Active,3.2474157477929055,"Ithaca, NY",Population Density (/sq km),80.30211438114947
+7,Dense Active,4.878016116062459,"Jackson, MI",Population Density (/sq km),99.2530840494888
+4,Auto Large,7.494294727899515,"Jackson, MS",Population Density (/sq km),41.86159783016956
+3,Sparse Auto,7.041224184684516,"Jackson, TN",Population Density (/sq km),40.23745086883781
+4,Auto Large,6.390870313467058,"Jacksonville, FL",Population Density (/sq km),160.23028421004688
+5,Auto Small,4.153461734572535,"Jacksonville, NC",Population Density (/sq km),84.5767838224397
+5,Auto Small,6.469200722778697,"Janesville-Beloit, WI",Population Density (/sq km),86.41930064167671
+3,Sparse Auto,8.44693409277478,"Jefferson City, MO",Population Density (/sq km),25.727340760057004
+5,Auto Small,5.12198168669729,"Johnson City, TN",Population Density (/sq km),90.75812132056926
+5,Auto Small,4.315615616611618,"Johnstown, PA",Population Density (/sq km),73.24710799954049
+3,Sparse Auto,7.036088029071533,"Jonesboro, AR",Population Density (/sq km),34.71822268894788
+3,Sparse Auto,7.928398184582309,"Joplin, MO",Population Density (/sq km),54.44395559033272
+5,Auto Small,5.1773541212677,"Kankakee, IL",Population Density (/sq km),62.296031441731294
+4,Auto Large,6.0564024793265885,"Kansas City, MO-KS",Population Density (/sq km),112.57608564989252
+1,Sparse Active,5.417903540258031,"Kennewick-Richland, WA",Population Density (/sq km),87.4274073205879
+3,Sparse Auto,5.575046300408085,"Killeen-Temple, TX",Population Density (/sq km),61.1478662567452
+5,Auto Small,5.232441587578223,"Kingston, NY",Population Density (/sq km),59.305906446034186
+4,Auto Large,7.154161862868689,"Knoxville, TN",Population Density (/sq km),99.42989862402922
+5,Auto Small,5.409910377213027,"Kokomo, IN",Population Density (/sq km),108.45715281744566
+5,Auto Small,5.80417549986919,"La Crosse-Onalaska, WI-MN",Population Density (/sq km),50.38236766066253
+3,Sparse Auto,6.9527252652987945,"Lafayette-West Lafayette, IN",Population Density (/sq km),53.92595232228284
+3,Sparse Auto,8.851246763495178,"Lake Havasu City-Kingman, AZ",Population Density (/sq km),6.043442908195583
+3,Sparse Auto,5.759052890469897,"Lakeland-Winter Haven, FL",Population Density (/sq km),135.63103900680576
+5,Auto Small,4.618823856636247,"Lancaster, PA",Population Density (/sq km),213.20420764665224
+3,Sparse Auto,4.772400254048819,"Lansing-East Lansing, MI",Population Density (/sq km),100.59842174086536
+3,Sparse Auto,5.088235082185966,"Laredo, TX",Population Density (/sq km),31.472389561709186
+4,Auto Large,4.872242041270587,"Las Vegas-Henderson-Paradise, NV",Population Density (/sq km),106.92353255933848
+5,Auto Small,4.859687588199185,"Lawrence, KS",Population Density (/sq km),98.63861722439545
+3,Sparse Auto,5.067774285188241,"Lawton, OK",Population Density (/sq km),28.41546319776242
+5,Auto Small,5.265368068147336,"Lebanon, PA",Population Density (/sq km),149.63042406698918
+1,Sparse Active,5.748910398365674,"Lewiston, ID-WA",Population Density (/sq km),16.267723275628278
+5,Auto Small,4.3994666308089565,"Lewiston-Auburn, ME",Population Density (/sq km),83.89271765467652
+1,Sparse Active,6.179770309039858,"Lexington-Fayette, KY",Population Density (/sq km),133.82064989131553
+5,Auto Small,6.237848058151753,"Lima, OH",Population Density (/sq km),97.41814792000618
+3,Sparse Auto,5.953505990401925,"Lincoln, NE",Population Density (/sq km),90.43918515905249
+4,Auto Large,6.641361536174808,"Little Rock-North Little Rock-Conway, AR",Population Density (/sq km),68.12997627448073
+1,Sparse Active,4.760631507499267,"Logan, UT-ID",Population Density (/sq km),29.4035508539632
+3,Sparse Auto,7.516795211759245,"Longview, TX",Population Density (/sq km),40.50364659790372
+5,Auto Small,7.547837891460836,"Longview, WA",Population Density (/sq km),36.116897709366725
+6,Heavyweight Eco-Transit,4.052668537615863,"Los Angeles-Long Beach-Anaheim, CA",Population Density (/sq km),895.3893121874814
+4,Auto Large,6.06952489168617,"Louisville/Jefferson County, KY-IN",Population Density (/sq km),148.1260377739728
+3,Sparse Auto,5.466046556887146,"Lubbock, TX",Population Density (/sq km),45.80794341707495
+3,Sparse Auto,9.410538545450617,"Macon-Bibb County, GA",Population Density (/sq km),50.976633060754935
+1,Sparse Active,6.982162693562118,"Madera, CA",Population Density (/sq km),27.94858528773865
+4,Auto Large,5.733491610720816,"Madison, WI",Population Density (/sq km),75.23702607448617
+5,Auto Small,4.020706867580701,"Manchester-Nashua, NH",Population Density (/sq km),179.63767799580611
+3,Sparse Auto,5.39096925929131,"Manhattan, KS",Population Density (/sq km),26.9012717004606
+1,Sparse Active,6.559275842872304,"Mankato, MN",Population Density (/sq km),31.802695807805915
+5,Auto Small,5.860390502849895,"Mansfield, OH",Population Density (/sq km),93.4559537945449
+3,Sparse Auto,3.6532902397690146,"McAllen-Edinburg-Mission, TX",Population Density (/sq km),210.1074960562704
+1,Sparse Active,4.996720404986703,"Medford, OR",Population Density (/sq km),30.174824672582208
+4,Auto Large,6.340096563936063,"Memphis, TN-MS-AR",Population Density (/sq km),110.35622905616812
+3,Sparse Auto,6.835252035406728,"Merced, CA",Population Density (/sq km),53.41889528534873
+4,Auto Large,4.792419639857512,"Miami-Fort Lauderdale-Pompano Beach, FL",Population Density (/sq km),385.92874693399335
+1,Sparse Active,5.309768590058087,"Midland, MI",Population Density (/sq km),35.6842275660915
+3,Sparse Auto,8.34117814763209,"Midland, TX",Population Density (/sq km),37.53437530969369
+4,Auto Large,5.017084947461276,"Minneapolis-St. Paul-Bloomington, MN-WI",Population Density (/sq km),185.40034149399168
+1,Sparse Active,5.978612627735451,"Missoula, MT",Population Density (/sq km),17.56948355870034
+3,Sparse Auto,7.43271774967463,"Mobile, AL",Population Density (/sq km),60.816957375739946
+5,Auto Small,4.023324539527527,"Modesto, CA",Population Density (/sq km),139.1270787603302
+5,Auto Small,5.690672745077784,"Monroe, MI",Population Density (/sq km),103.27281063121757
+3,Sparse Auto,7.857778654373011,"Montgomery, AL",Population Density (/sq km),51.81653385076557
+5,Auto Small,4.798734014289785,"Morgantown, WV",Population Density (/sq km),53.1109290736895
+1,Sparse Active,8.018325790104306,"Morristown, TN",Population Density (/sq km),19.633359026750018
+1,Sparse Active,6.643112041653492,"Mount Vernon-Anacortes, WA",Population Density (/sq km),25.804233155235803
+5,Auto Small,6.913773708485843,"Muncie, IN",Population Density (/sq km),111.43382995906758
+5,Auto Small,4.104826339346003,"Muskegon, MI",Population Density (/sq km),127.15469792196278
+3,Sparse Auto,5.498726662778029,"Myrtle Beach-Conway-North Myrtle Beach, SC-NC",Population Density (/sq km),83.57812972282876
+1,Sparse Active,4.176548089478618,"Napa, CA",Population Density (/sq km),67.73958388080355
+3,Sparse Auto,5.849616425108023,"Naples-Marco Island, FL",Population Density (/sq km),63.595293391067386
+4,Auto Large,7.3189682700795915,"Nashville-Davidson--Murfreesboro--Franklin, TN",Population Density (/sq km),127.6136331230372
+5,Auto Small,5.637274012279934,"New Bern, NC",Population Density (/sq km),26.57936786636737
+7,Dense Active,4.244874329395097,"New Haven-Milford, CT",Population Density (/sq km),524.5625009247468
+2,Heavyweight Transit,2.8499220122782414,"New York-Newark-Jersey City, NY-NJ-PA",Population Density (/sq km),813.7142865417046
+5,Auto Small,6.483841676444908,"Niles, MI",Population Density (/sq km),102.40025392378784
+3,Sparse Auto,5.6768462885212,"North Port-Sarasota-Bradenton, FL",Population Density (/sq km),196.11861609034463
+5,Auto Small,5.107018834692801,"Norwich-New London, CT",Population Density (/sq km),139.5637146379481
+3,Sparse Auto,6.652215055271797,"Ocala, FL",Population Density (/sq km),83.69530277975109
+1,Sparse Active,7.085187495037601,"Ocean City, NJ",Population Density (/sq km),57.15471725813084
+5,Auto Small,6.1534497779287936,"Odessa, TX",Population Density (/sq km),69.24832508057902
+1,Sparse Active,5.1272945195555195,"Ogden-Clearfield, UT",Population Density (/sq km),30.101183465021883
+4,Auto Large,6.8054690807539755,"Oklahoma City, OK",Population Density (/sq km),96.6651886210218
+5,Auto Small,4.487710977365074,"Olympia-Lacey-Tumwater, WA",Population Density (/sq km),141.62176605757077
+4,Auto Large,5.787172591210157,"Omaha-Council Bluffs, NE-IA",Population Density (/sq km),82.35569713037579
+4,Auto Large,5.897086156772827,"Orlando-Kissimmee-Sanford, FL",Population Density (/sq km),246.5276510485347
+5,Auto Small,6.881687344925628,"Oshkosh-Neenah, WI",Population Density (/sq km),114.06868643458132
+5,Auto Small,5.00580710216788,"Owensboro, KY",Population Density (/sq km),49.375852022920455
+1,Sparse Active,3.7858414642226905,"Oxnard-Thousand Oaks-Ventura, CA",Population Density (/sq km),144.98620327780029
+3,Sparse Auto,6.256612125306231,"Palm Bay-Melbourne-Titusville, FL",Population Density (/sq km),147.38878612716135
+3,Sparse Auto,6.375523767086635,"Panama City, FL",Population Density (/sq km),67.33685412984453
+5,Auto Small,4.542870734497769,"Parkersburg-Vienna, WV",Population Density (/sq km),57.02496317269837
+3,Sparse Auto,5.986106088772011,"Pensacola-Ferry Pass-Brent, FL",Population Density (/sq km),93.59756804493983
+3,Sparse Auto,5.935310596421382,"Peoria, IL",Population Density (/sq km),45.811115910981314
+4,Auto Large,3.6057238570274834,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",Population Density (/sq km),483.4400151188478
+4,Auto Large,5.035403239554386,"Phoenix-Mesa-Chandler, AZ",Population Density (/sq km),128.67349200336255
+3,Sparse Auto,7.925242608654885,"Pine Bluff, AR",Population Density (/sq km),16.55127099188367
+4,Auto Large,4.221033439981065,"Pittsburgh, PA",Population Density (/sq km),168.0130591356579
+5,Auto Small,4.212509812490091,"Pittsfield, MA",Population Density (/sq km),51.389771087394
+1,Sparse Active,7.800445152024431,"Pocatello, ID",Population Density (/sq km),14.073490593723676
+3,Sparse Auto,6.513700045467889,"Port St. Lucie, FL",Population Density (/sq km),129.05857070619916
+3,Sparse Auto,5.526886321090759,"Portland-South Portland, ME",Population Density (/sq km),72.3810427926497
+4,Auto Large,4.334763974074535,"Portland-Vancouver-Hillsboro, OR-WA",Population Density (/sq km),140.0045571452699
+3,Sparse Auto,4.695465471903193,"Poughkeepsie-Newburgh-Middletown, NY",Population Density (/sq km),156.99059936625682
+3,Sparse Auto,8.767307677261687,"Prescott Valley-Prescott, AZ",Population Density (/sq km),11.037081295061352
+1,Sparse Active,4.609985854342272,"Provo-Orem, UT",Population Density (/sq km),44.064475518830015
+1,Sparse Active,4.775314008793338,"Pueblo, CO",Population Density (/sq km),26.88709211577687
+3,Sparse Auto,5.845805413879713,"Punta Gorda, FL",Population Density (/sq km),83.6836870487871
+5,Auto Small,4.04664829760416,"Racine, WI",Population Density (/sq km),220.1375118623866
+4,Auto Large,4.754841854510094,"Raleigh-Cary, NC",Population Density (/sq km),244.94010590664783
+1,Sparse Active,6.137004142552739,"Rapid City, SD",Population Density (/sq km),8.671871438710996
+5,Auto Small,4.471790988865926,"Reading, PA",Population Density (/sq km),187.04691398447827
+3,Sparse Auto,5.729710311243077,"Redding, CA",Population Density (/sq km),17.97996301724515
+4,Auto Large,4.641729718981716,"Reno, NV",Population Density (/sq km),26.547888373754983
+4,Auto Large,5.129832949765807,"Riverside-San Bernardino-Ontario, CA",Population Density (/sq km),64.83946529973714
+3,Sparse Auto,6.14407714575323,"Rochester, MN",Population Density (/sq km),33.87656036839088
+4,Auto Large,4.401336046047008,"Rochester, NY",Population Density (/sq km),78.54552215215806
+5,Auto Small,4.662237057047692,"Rockford, IL",Population Density (/sq km),162.31747247111971
+5,Auto Small,6.895664198851254,"Rocky Mount, NC",Population Density (/sq km),54.14940246102359
+5,Auto Small,6.298004617782156,"Rome, GA",Population Density (/sq km),72.72085374872204
+4,Auto Large,4.426636901442291,"Sacramento-Roseville-Folsom, CA",Population Density (/sq km),170.21115814775382
+5,Auto Small,5.199660962124546,"Saginaw, MI",Population Density (/sq km),90.40085731681027
+1,Sparse Active,5.103628899408256,"Salem, OR",Population Density (/sq km),85.57121950382368
+1,Sparse Active,3.708575089595074,"Salinas, CA",Population Density (/sq km),44.1482296822081
+3,Sparse Auto,5.826882766400676,"Salisbury, MD-DE",Population Density (/sq km),54.88117002238822
+1,Sparse Active,4.8671541982546,"Salt Lake City, UT",Population Density (/sq km),57.99088861449175
+3,Sparse Auto,5.545518151345691,"San Angelo, TX",Population Density (/sq km),13.340865694972164
+4,Auto Large,4.7190890952555025,"San Antonio-New Braunfels, TX",Population Density (/sq km),131.60366136266867
+4,Auto Large,4.581765135352589,"San Diego-Chula Vista-Carlsbad, CA",Population Density (/sq km),284.0795077329648
+4,Auto Large,3.7701718036018974,"San Francisco-Oakland-Berkeley, CA",Population Density (/sq km),571.6702913807925
+4,Auto Large,3.7690953266778178,"San Jose-Sunnyvale-Santa Clara, CA",Population Density (/sq km),284.56423388454306
+1,Sparse Active,4.045880628884985,"San Luis Obispo-Paso Robles, CA",Population Density (/sq km),30.150021965527525
+4,Auto Large,2.7383181298689667,"Santa Cruz-Watsonville, CA",Population Density (/sq km),178.46326140865526
+1,Sparse Active,7.5908238633223695,"Santa Fe, NM",Population Density (/sq km),30.406156314273044
+1,Sparse Active,4.4817820130529125,"Santa Maria-Santa Barbara, CA",Population Density (/sq km),45.27510795210118
+1,Sparse Active,3.9019720501382857,"Santa Rosa-Petaluma, CA",Population Density (/sq km),107.9270320928928
+3,Sparse Auto,7.477711917618203,"Savannah, GA",Population Density (/sq km),96.04635958522373
+3,Sparse Auto,4.935904516306623,"Scranton--Wilkes-Barre, PA",Population Density (/sq km),120.49029839007063
+4,Auto Large,4.016145491034696,"Seattle-Tacoma-Bellevue, WA",Population Density (/sq km),240.5224016968008
+7,Dense Active,6.171416522191772,"Sebastian-Vero Beach, FL",Population Density (/sq km),98.31897858210463
+3,Sparse Auto,4.933259374200938,"Sebring-Avon Park, FL",Population Density (/sq km),36.53331814195013
+5,Auto Small,5.17806469696228,"Sheboygan, WI",Population Density (/sq km),85.66367238684407
+3,Sparse Auto,7.761637473094067,"Sherman-Denison, TX",Population Density (/sq km),52.3690680346788
+3,Sparse Auto,8.378529719544437,"Sierra Vista-Douglas, AZ",Population Density (/sq km),7.867157001422521
+3,Sparse Auto,6.886893822693476,"Sioux City, IA-NE-SD",Population Density (/sq km),26.5508849079876
+3,Sparse Auto,5.799980096371984,"Sioux Falls, SD",Population Density (/sq km),39.484609028070416
+1,Sparse Active,5.467465274251144,"South Bend-Mishawaka, IN-MI",Population Density (/sq km),43.34829221589927
+5,Auto Small,6.276125083266998,"Spartanburg, SC",Population Density (/sq km),148.02663924982429
+3,Sparse Auto,4.426849882297688,"Spokane-Spokane Valley, WA",Population Density (/sq km),49.9986380521641
+5,Auto Small,5.824346483841725,"Springfield, IL",Population Density (/sq km),67.45394762440456
+1,Sparse Active,4.235993310915118,"Springfield, MA",Population Density (/sq km),146.2124610118019
+4,Auto Large,6.47887258388941,"Springfield, MO",Population Density (/sq km),59.52223964657568
+5,Auto Small,6.284457485136258,"Springfield, OH",Population Density (/sq km),129.18929475801588
+3,Sparse Auto,7.129655516556662,"St. Cloud, MN",Population Density (/sq km),42.8932883500632
+1,Sparse Active,6.464416155466091,"St. George, UT",Population Density (/sq km),27.3369659839237
+3,Sparse Auto,8.197444662274727,"St. Joseph, MO-KS",Population Density (/sq km),28.87544855938424
+4,Auto Large,7.853257951103703,"St. Louis, MO-IL",Population Density (/sq km),134.0326010317649
+1,Sparse Active,5.151074614680243,"State College, PA",Population Density (/sq km),56.21912303143181
+4,Auto Large,4.868642128229999,"Stockton, CA",Population Density (/sq km),203.56400841303795
+3,Sparse Auto,7.333344775936028,"Sumter, SC",Population Density (/sq km),39.461318261535766
+3,Sparse Auto,4.578972069283096,"Syracuse, NY",Population Density (/sq km),87.59834376971837
+3,Sparse Auto,6.067544880918141,"Tallahassee, FL",Population Density (/sq km),57.03232509667163
+4,Auto Large,5.016409330703997,"Tampa-St. Petersburg-Clearwater, FL",Population Density (/sq km),365.5447818273523
+3,Sparse Auto,7.644165070464751,"Terre Haute, IN",Population Density (/sq km),37.22730126099309
+3,Sparse Auto,9.612002934697832,"Texarkana, TX-AR",Population Density (/sq km),27.05301708822176
+7,Dense Active,8.814653934638596,"The Villages, FL",Population Density (/sq km),86.56276262068029
+3,Sparse Auto,5.9118254008047355,"Toledo, OH",Population Density (/sq km),112.48389430055478
+3,Sparse Auto,6.70375305677546,"Topeka, KS",Population Density (/sq km),27.235694612883115
+7,Dense Active,4.336879099474519,"Trenton-Princeton, NJ",Population Density (/sq km),621.2204279890575
+4,Auto Large,4.355028155707587,"Tucson, AZ",Population Density (/sq km),43.65723477760413
+4,Auto Large,6.339577637637868,"Tulsa, OK",Population Density (/sq km),59.44559119107348
+3,Sparse Auto,8.70507916553966,"Tuscaloosa, AL",Population Density (/sq km),27.28423421763153
+3,Sparse Auto,6.949742382139691,"Twin Falls, ID",Population Density (/sq km),16.82148145273248
+5,Auto Small,6.2007482816460024,"Tyler, TX",Population Density (/sq km),93.58305977719694
+3,Sparse Auto,5.057418883558467,"Utica-Rome, NY",Population Density (/sq km),41.377509816106574
+3,Sparse Auto,7.439757348021337,"Valdosta, GA",Population Density (/sq km),34.70815473448044
+3,Sparse Auto,9.890181156838809,"Victoria, TX",Population Density (/sq km),22.01096602429632
+5,Auto Small,3.971891953277705,"Vineland-Bridgeton, NJ",Population Density (/sq km),86.67291936687754
+3,Sparse Auto,4.488096268716279,"Visalia, CA",Population Density (/sq km),36.99489840903081
+3,Sparse Auto,7.367966041177016,"Waco, TX",Population Density (/sq km),57.11541602637847
+1,Sparse Active,5.234842239487217,"Walla Walla, WA",Population Density (/sq km),18.08795257172672
+5,Auto Small,6.169884435593638,"Warner Robins, GA",Population Density (/sq km),132.7260536546794
+3,Sparse Auto,5.630949721169618,"Waterloo-Cedar Falls, IA",Population Density (/sq km),43.1610552632177
+1,Sparse Active,5.841225490215319,"Watertown-Fort Drum, NY",Population Density (/sq km),24.5473959912252
+3,Sparse Auto,7.8403777971121515,"Wausau-Weston, WI",Population Density (/sq km),25.36342862061208
+5,Auto Small,3.753406078646004,"Weirton-Steubenville, WV-OH",Population Density (/sq km),76.59948118395211
+1,Sparse Active,5.54903872345699,"Wenatchee, WA",Population Density (/sq km),9.499345358152208
+5,Auto Small,6.066200395776506,"Wheeling, WV-OH",Population Density (/sq km),56.271527569676856
+3,Sparse Auto,6.799822203000577,"Wichita Falls, TX",Population Density (/sq km),22.027944058308787
+4,Auto Large,5.676112120059677,"Wichita, KS",Population Density (/sq km),59.05948245966125
+5,Auto Small,4.861627230597881,"Williamsport, PA",Population Density (/sq km),35.35949290111191
+5,Auto Small,4.6117208538858465,"Wilmington, NC",Population Density (/sq km),89.62198226225854
+3,Sparse Auto,5.512735457830683,"Winston-Salem, NC",Population Density (/sq km),127.110784034066
+3,Sparse Auto,4.52818621846808,"Worcester, MA-CT",Population Density (/sq km),173.27583207907315
+3,Sparse Auto,4.88595041494122,"Yakima, WA",Population Density (/sq km),22.45982493580511
+5,Auto Small,4.242958869040292,"York-Hanover, PA",Population Density (/sq km),189.84774784955323
+3,Sparse Auto,5.224639584543608,"Youngstown-Warren-Boardman, OH-PA",Population Density (/sq km),119.18210226305152
+5,Auto Small,3.036598816830966,"Yuba City, CA",Population Density (/sq km),53.63145894871725
+3,Sparse Auto,5.533761312024776,"Yuma, AZ",Population Density (/sq km),14.768092643932912
+3,Sparse Auto,8.521780192812306,"Abilene, TX",Cooling Degree Days (°Df),2383.0
+7,Dense Active,5.224953343032942,"Akron, OH",Cooling Degree Days (°Df),823.0
+3,Sparse Auto,6.560072038030802,"Albany, GA",Cooling Degree Days (°Df),2546.75
+1,Sparse Active,6.8956968499881794,"Albany-Lebanon, OR",Cooling Degree Days (°Df),163.0
+3,Sparse Auto,4.563193172897371,"Albany-Schenectady-Troy, NY",Cooling Degree Days (°Df),529.4
+4,Auto Large,7.038307492087349,"Albuquerque, NM",Cooling Degree Days (°Df),938.75
+3,Sparse Auto,4.661572413217785,"Allentown-Bethlehem-Easton, PA-NJ",Cooling Degree Days (°Df),730.75
+5,Auto Small,4.693678102809026,"Altoona, PA",Cooling Degree Days (°Df),662.0
+3,Sparse Auto,9.762586464058558,"Amarillo, TX",Cooling Degree Days (°Df),1769.2
+1,Sparse Active,6.588536340832919,"Ames, IA",Cooling Degree Days (°Df),941.5
+7,Dense Active,4.402935620842415,"Ann Arbor, MI",Cooling Degree Days (°Df),683.0
+5,Auto Small,6.64554937950233,"Anniston-Oxford, AL",Cooling Degree Days (°Df),1798.0
+5,Auto Small,5.39452754882885,"Appleton, WI",Cooling Degree Days (°Df),605.0
+3,Sparse Auto,5.7107441421080205,"Asheville, NC",Cooling Degree Days (°Df),609.25
+5,Auto Small,5.370655597161981,"Athens-Clarke County, GA",Cooling Degree Days (°Df),1799.25
+4,Auto Large,5.789558925442073,"Atlanta-Sandy Springs-Alpharetta, GA",Cooling Degree Days (°Df),1714.2068965517242
+5,Auto Small,4.510060212334464,"Atlantic City-Hammonton, NJ",Cooling Degree Days (°Df),1155.0
+5,Auto Small,6.289928297636136,"Auburn-Opelika, AL",Cooling Degree Days (°Df),1936.0
+4,Auto Large,5.969913473634678,"Augusta-Richmond County, GA-SC",Cooling Degree Days (°Df),2169.714285714286
+4,Auto Large,4.331190339513039,"Austin-Round Rock-Georgetown, TX",Cooling Degree Days (°Df),3060.4
+4,Auto Large,6.556526134153044,"Bakersfield, CA",Cooling Degree Days (°Df),2036.0
+4,Auto Large,5.042565645376257,"Baltimore-Columbia-Towson, MD",Cooling Degree Days (°Df),1218.3333333333333
+1,Sparse Active,5.787938338174279,"Bangor, ME",Cooling Degree Days (°Df),310.0
+1,Sparse Active,6.5569086788700774,"Barnstable Town, MA",Cooling Degree Days (°Df),656.0
+5,Auto Small,5.718416953304107,"Battle Creek, MI",Cooling Degree Days (°Df),710.0
+5,Auto Small,5.806592106921938,"Bay City, MI",Cooling Degree Days (°Df),709.0
+3,Sparse Auto,7.23804529158365,"Beaumont-Port Arthur, TX",Cooling Degree Days (°Df),2990.0
+5,Auto Small,6.354726056662507,"Beckley, WV",Cooling Degree Days (°Df),678.5
+1,Sparse Active,4.160915236395564,"Bellingham, WA",Cooling Degree Days (°Df),33.0
+1,Sparse Active,4.244615460866778,"Bend, OR",Cooling Degree Days (°Df),140.0
+3,Sparse Auto,6.818462426750208,"Billings, MT",Cooling Degree Days (°Df),375.3333333333333
+5,Auto Small,5.625499323594822,"Binghamton, NY",Cooling Degree Days (°Df),501.5
+4,Auto Large,7.819034591152687,"Birmingham-Hoover, AL",Cooling Degree Days (°Df),1898.0
+1,Sparse Active,8.620673178483822,"Bismarck, ND",Cooling Degree Days (°Df),578.0
+3,Sparse Auto,5.936537030801337,"Bloomington, IL",Cooling Degree Days (°Df),974.0
+5,Auto Small,4.999595890399523,"Bloomington, IN",Cooling Degree Days (°Df),976.0
+5,Auto Small,6.719566195091469,"Bloomsburg-Berwick, PA",Cooling Degree Days (°Df),742.0
+4,Auto Large,4.910866644404342,"Boise City, ID",Cooling Degree Days (°Df),563.6
+4,Auto Large,4.016309705704,"Boston-Cambridge-Newton, MA-NH",Cooling Degree Days (°Df),696.5714285714286
+3,Sparse Auto,6.660842572305076,"Bowling Green, KY",Cooling Degree Days (°Df),1382.75
+4,Auto Large,3.773433361377403,"Bremerton-Silverdale-Port Orchard, WA",Cooling Degree Days (°Df),181.0
+7,Dense Active,4.132225329902902,"Bridgeport-Stamford-Norwalk, CT",Cooling Degree Days (°Df),866.0
+3,Sparse Auto,4.05226043435715,"Brownsville-Harlingen, TX",Cooling Degree Days (°Df),4558.0
+3,Sparse Auto,9.935164751675893,"Brunswick, GA",Cooling Degree Days (°Df),2840.333333333333
+1,Sparse Active,3.65299609243732,"Buffalo-Cheektowaga, NY",Cooling Degree Days (°Df),639.0
+5,Auto Small,4.82296733211575,"Burlington, NC",Cooling Degree Days (°Df),1367.0
+1,Sparse Active,5.851998579706925,"Burlington-South Burlington, VT",Cooling Degree Days (°Df),473.0
+5,Auto Small,4.490797852429514,"Canton-Massillon, OH",Cooling Degree Days (°Df),812.5
+7,Dense Active,5.169660208099404,"Cape Coral-Fort Myers, FL",Cooling Degree Days (°Df),4457.0
+3,Sparse Auto,7.421326825857359,"Cape Girardeau, MO-IL",Cooling Degree Days (°Df),1380.6666666666667
+3,Sparse Auto,6.499204605337879,"Carbondale-Marion, IL",Cooling Degree Days (°Df),1297.6666666666667
+1,Sparse Active,7.971315774518812,"Casper, WY",Cooling Degree Days (°Df),440.0
+3,Sparse Auto,5.511328261678552,"Cedar Rapids, IA",Cooling Degree Days (°Df),774.3333333333334
+5,Auto Small,6.027676645697928,"Chambersburg-Waynesboro, PA",Cooling Degree Days (°Df),934.0
+1,Sparse Active,5.58011971503012,"Champaign-Urbana, IL",Cooling Degree Days (°Df),994.5
+3,Sparse Auto,6.360166397497082,"Charleston, WV",Cooling Degree Days (°Df),1068.8
+3,Sparse Auto,5.6585131547993575,"Charleston-North Charleston, SC",Cooling Degree Days (°Df),2427.0
+4,Auto Large,5.236051321118476,"Charlotte-Concord-Gastonia, NC-SC",Cooling Degree Days (°Df),1551.909090909091
+3,Sparse Auto,6.714462149284141,"Chattanooga, TN-GA",Cooling Degree Days (°Df),1459.6666666666667
+1,Sparse Active,10.416946381906817,"Cheyenne, WY",Cooling Degree Days (°Df),492.0
+4,Auto Large,3.9342845352152835,"Chicago-Naperville-Elgin, IL-IN-WI",Cooling Degree Days (°Df),884.8571428571429
+3,Sparse Auto,4.819672050556448,"Chico, CA",Cooling Degree Days (°Df),1730.0
+4,Auto Large,5.198681661586621,"Cincinnati, OH-KY-IN",Cooling Degree Days (°Df),1092.4375
+3,Sparse Auto,5.8835001531734035,"Clarksville, TN-KY",Cooling Degree Days (°Df),1471.75
+5,Auto Small,6.450301817295837,"Cleveland, TN",Cooling Degree Days (°Df),1463.0
+4,Auto Large,5.239030933228603,"Cleveland-Elyria, OH",Cooling Degree Days (°Df),749.2
+3,Sparse Auto,6.620857090863089,"Coeur d'Alene, ID",Cooling Degree Days (°Df),223.0
+3,Sparse Auto,5.735068116774824,"College Station-Bryan, TX",Cooling Degree Days (°Df),2880.333333333333
+3,Sparse Auto,4.0650330202961555,"Colorado Springs, CO",Cooling Degree Days (°Df),328.5
+3,Sparse Auto,6.9474179207980296,"Columbia, MO",Cooling Degree Days (°Df),1260.6666666666667
+4,Auto Large,6.189623940247864,"Columbia, SC",Cooling Degree Days (°Df),1917.6666666666667
+3,Sparse Auto,6.038034603580465,"Columbus, GA-AL",Cooling Degree Days (°Df),2073.428571428572
+5,Auto Small,8.092349363775686,"Columbus, IN",Cooling Degree Days (°Df),1002.0
+4,Auto Large,5.018529835475418,"Columbus, OH",Cooling Degree Days (°Df),906.4
+3,Sparse Auto,6.196104052943694,"Corpus Christi, TX",Cooling Degree Days (°Df),3966.5
+1,Sparse Active,3.2568044344773206,"Corvallis, OR",Cooling Degree Days (°Df),293.0
+3,Sparse Auto,7.720934569786481,"Crestview-Fort Walton Beach-Destin, FL",Cooling Degree Days (°Df),2790.5
+5,Auto Small,4.833162484605701,"Cumberland, MD-WV",Cooling Degree Days (°Df),879.0
+4,Auto Large,4.665452039086198,"Dallas-Fort Worth-Arlington, TX",Cooling Degree Days (°Df),2447.6363636363635
+5,Auto Small,6.713757328033229,"Dalton, GA",Cooling Degree Days (°Df),1575.5
+5,Auto Small,5.729877881090719,"Danville, IL",Cooling Degree Days (°Df),919.0
+3,Sparse Auto,9.654314156515747,"Daphne-Fairhope-Foley, AL",Cooling Degree Days (°Df),2728.0
+1,Sparse Active,5.574919113799141,"Davenport-Moline-Rock Island, IA-IL",Cooling Degree Days (°Df),963.25
+3,Sparse Auto,4.942568688982381,"Dayton-Kettering, OH",Cooling Degree Days (°Df),1041.6666666666667
+5,Auto Small,7.73070300442992,"Decatur, AL",Cooling Degree Days (°Df),1631.5
+5,Auto Small,5.6670187986381215,"Decatur, IL",Cooling Degree Days (°Df),1063.0
+3,Sparse Auto,6.111431445666809,"Deltona-Daytona Beach-Ormond Beach, FL",Cooling Degree Days (°Df),3721.5
+4,Auto Large,5.387551266032284,"Des Moines-West Des Moines, IA",Cooling Degree Days (°Df),1002.6666666666666
+4,Auto Large,3.9872664188339844,"Detroit-Warren-Dearborn, MI",Cooling Degree Days (°Df),762.8333333333334
+3,Sparse Auto,6.873509854278803,"Dothan, AL",Cooling Degree Days (°Df),2604.0
+4,Auto Large,4.830602945612652,"Dover, DE",Cooling Degree Days (°Df),1291.0
+5,Auto Small,5.22075903239457,"Dubuque, IA",Cooling Degree Days (°Df),735.0
+4,Auto Large,7.701986078209474,"Duluth, MN-WI",Cooling Degree Days (°Df),284.25
+3,Sparse Auto,5.353667753997634,"Durham-Chapel Hill, NC",Cooling Degree Days (°Df),1428.8
+5,Auto Small,4.830968100529345,"East Stroudsburg, PA",Cooling Degree Days (°Df),457.0
+3,Sparse Auto,7.743743487337159,"Eau Claire, WI",Cooling Degree Days (°Df),542.5
+3,Sparse Auto,9.039659053730142,"El Centro, CA",Cooling Degree Days (°Df),4746.0
+4,Auto Large,5.349598826800237,"El Paso, TX",Cooling Degree Days (°Df),2429.0
+5,Auto Small,6.794204161989231,"Elizabethtown-Fort Knox, KY",Cooling Degree Days (°Df),1146.6666666666667
+5,Auto Small,6.952711291250893,"Elkhart-Goshen, IN",Cooling Degree Days (°Df),810.0
+5,Auto Small,5.104260393181227,"Elmira, NY",Cooling Degree Days (°Df),559.0
+3,Sparse Auto,5.5737281201315065,"Enid, OK",Cooling Degree Days (°Df),1747.0
+1,Sparse Active,4.307969648379507,"Erie, PA",Cooling Degree Days (°Df),566.0
+1,Sparse Active,5.026956204611711,"Eugene-Springfield, OR",Cooling Degree Days (°Df),168.0
+3,Sparse Auto,7.118906492100415,"Evansville, IN-KY",Cooling Degree Days (°Df),1355.0
+3,Sparse Auto,8.012731670845499,"Fargo, ND-MN",Cooling Degree Days (°Df),621.0
+3,Sparse Auto,6.32440637612793,"Farmington, NM",Cooling Degree Days (°Df),984.0
+3,Sparse Auto,4.329363490882602,"Fayetteville, NC",Cooling Degree Days (°Df),1789.6666666666667
+3,Sparse Auto,4.9190378947445055,"Fayetteville-Springdale-Rogers, AR",Cooling Degree Days (°Df),1327.3333333333333
+1,Sparse Active,13.056576781339958,"Flagstaff, AZ",Cooling Degree Days (°Df),1108.0
+7,Dense Active,4.3771015421960335,"Flint, MI",Cooling Degree Days (°Df),725.0
+3,Sparse Auto,6.729650647115809,"Florence, SC",Cooling Degree Days (°Df),2112.0
+5,Auto Small,6.6107105895565885,"Florence-Muscle Shoals, AL",Cooling Degree Days (°Df),1670.0
+5,Auto Small,7.478514979823569,"Fond du Lac, WI",Cooling Degree Days (°Df),627.0
+1,Sparse Active,4.605955170213604,"Fort Collins, CO",Cooling Degree Days (°Df),136.0
+3,Sparse Auto,7.438802066656409,"Fort Smith, AR-OK",Cooling Degree Days (°Df),1667.75
+5,Auto Small,6.581911696270895,"Fort Wayne, IN",Cooling Degree Days (°Df),799.5
+4,Auto Large,5.298647007777657,"Fresno, CA",Cooling Degree Days (°Df),1062.0
+5,Auto Small,6.461529321035506,"Gadsden, AL",Cooling Degree Days (°Df),1752.0
+3,Sparse Auto,6.87983051948396,"Gainesville, FL",Cooling Degree Days (°Df),3386.0
+5,Auto Small,6.14147007866239,"Gainesville, GA",Cooling Degree Days (°Df),1411.0
+5,Auto Small,5.038324654644315,"Gettysburg, PA",Cooling Degree Days (°Df),1014.0
+1,Sparse Active,5.52198665067417,"Glens Falls, NY",Cooling Degree Days (°Df),409.0
+5,Auto Small,4.606188837792648,"Goldsboro, NC",Cooling Degree Days (°Df),1750.0
+1,Sparse Active,9.883473253442334,"Grand Forks, ND-MN",Cooling Degree Days (°Df),537.0
+3,Sparse Auto,10.690637098922567,"Grand Island, NE",Cooling Degree Days (°Df),1131.0
+1,Sparse Active,4.721965840989233,"Grand Junction, CO",Cooling Degree Days (°Df),648.0
+3,Sparse Auto,4.612096790793935,"Grand Rapids-Kentwood, MI",Cooling Degree Days (°Df),660.0
+1,Sparse Active,5.54995413979656,"Grants Pass, OR",Cooling Degree Days (°Df),418.0
+1,Sparse Active,5.6130099461611715,"Great Falls, MT",Cooling Degree Days (°Df),230.0
+3,Sparse Auto,5.531836783748051,"Green Bay, WI",Cooling Degree Days (°Df),478.0
+3,Sparse Auto,5.332766818962245,"Greensboro-High Point, NC",Cooling Degree Days (°Df),1342.0
+5,Auto Small,4.123972683795411,"Greenville, NC",Cooling Degree Days (°Df),1756.0
+4,Auto Large,5.309442740547294,"Greenville-Anderson, SC",Cooling Degree Days (°Df),1585.75
+3,Sparse Auto,7.515494463286443,"Gulfport-Biloxi, MS",Cooling Degree Days (°Df),2683.5
+5,Auto Small,6.174254098149316,"Hagerstown-Martinsburg, MD-WV",Cooling Degree Days (°Df),1013.3333333333334
+1,Sparse Active,6.347121697586409,"Hanford-Corcoran, CA",Cooling Degree Days (°Df),2384.0
+3,Sparse Auto,5.9673538352136575,"Harrisburg-Carlisle, PA",Cooling Degree Days (°Df),967.3333333333334
+3,Sparse Auto,4.563979142380444,"Hartford-East Hartford-Middletown, CT",Cooling Degree Days (°Df),756.3333333333334
+3,Sparse Auto,7.471478610192212,"Hattiesburg, MS",Cooling Degree Days (°Df),2443.0
+3,Sparse Auto,5.499577472573777,"Hickory-Lenoir-Morganton, NC",Cooling Degree Days (°Df),1163.75
+3,Sparse Auto,7.198667567428218,"Hilton Head Island-Bluffton, SC",Cooling Degree Days (°Df),2576.5
+3,Sparse Auto,7.0264810438690395,"Hinesville, GA",Cooling Degree Days (°Df),2783.0
+7,Dense Active,5.091160691255167,"Homosassa Springs, FL",Cooling Degree Days (°Df),3866.0
+5,Auto Small,4.9175546671767725,"Hot Springs, AR",Cooling Degree Days (°Df),1635.0
+4,Auto Large,4.7749743707774535,"Houston-The Woodlands-Sugar Land, TX",Cooling Degree Days (°Df),3328.555555555556
+3,Sparse Auto,5.066502888486467,"Huntington-Ashland, WV-KY-OH",Cooling Degree Days (°Df),1137.428571428571
+3,Sparse Auto,6.69200761875749,"Huntsville, AL",Cooling Degree Days (°Df),1592.5
+3,Sparse Auto,6.766059974417556,"Idaho Falls, ID",Cooling Degree Days (°Df),252.3333333333333
+4,Auto Large,6.627093410123633,"Indianapolis-Carmel-Anderson, IN",Cooling Degree Days (°Df),910.9090909090908
+1,Sparse Active,6.319585647538596,"Iowa City, IA",Cooling Degree Days (°Df),864.0
+7,Dense Active,3.2474157477929055,"Ithaca, NY",Cooling Degree Days (°Df),498.0
+7,Dense Active,4.878016116062459,"Jackson, MI",Cooling Degree Days (°Df),652.0
+4,Auto Large,7.494294727899515,"Jackson, MS",Cooling Degree Days (°Df),2364.8571428571427
+3,Sparse Auto,7.041224184684516,"Jackson, TN",Cooling Degree Days (°Df),1600.5
+4,Auto Large,6.390870313467058,"Jacksonville, FL",Cooling Degree Days (°Df),3240.2
+5,Auto Small,4.153461734572535,"Jacksonville, NC",Cooling Degree Days (°Df),1871.0
+5,Auto Small,6.469200722778697,"Janesville-Beloit, WI",Cooling Degree Days (°Df),754.0
+3,Sparse Auto,8.44693409277478,"Jefferson City, MO",Cooling Degree Days (°Df),1341.5
+5,Auto Small,5.12198168669729,"Johnson City, TN",Cooling Degree Days (°Df),803.3333333333334
+5,Auto Small,4.315615616611618,"Johnstown, PA",Cooling Degree Days (°Df),498.0
+3,Sparse Auto,7.036088029071533,"Jonesboro, AR",Cooling Degree Days (°Df),1753.0
+3,Sparse Auto,7.928398184582309,"Joplin, MO",Cooling Degree Days (°Df),1490.5
+5,Auto Small,5.1773541212677,"Kankakee, IL",Cooling Degree Days (°Df),947.0
+4,Auto Large,6.0564024793265885,"Kansas City, MO-KS",Cooling Degree Days (°Df),1288.857142857143
+1,Sparse Active,5.417903540258031,"Kennewick-Richland, WA",Cooling Degree Days (°Df),775.5
+3,Sparse Auto,5.575046300408085,"Killeen-Temple, TX",Cooling Degree Days (°Df),2788.6666666666665
+5,Auto Small,5.232441587578223,"Kingston, NY",Cooling Degree Days (°Df),563.0
+4,Auto Large,7.154161862868689,"Knoxville, TN",Cooling Degree Days (°Df),1250.625
+5,Auto Small,5.409910377213027,"Kokomo, IN",Cooling Degree Days (°Df),831.0
+5,Auto Small,5.80417549986919,"La Crosse-Onalaska, WI-MN",Cooling Degree Days (°Df),688.5
+3,Sparse Auto,6.9527252652987945,"Lafayette-West Lafayette, IN",Cooling Degree Days (°Df),864.75
+3,Sparse Auto,8.851246763495178,"Lake Havasu City-Kingman, AZ",Cooling Degree Days (°Df),2568.0
+3,Sparse Auto,5.759052890469897,"Lakeland-Winter Haven, FL",Cooling Degree Days (°Df),4064.0
+5,Auto Small,4.618823856636247,"Lancaster, PA",Cooling Degree Days (°Df),1056.0
+3,Sparse Auto,4.772400254048819,"Lansing-East Lansing, MI",Cooling Degree Days (°Df),703.5
+3,Sparse Auto,5.088235082185966,"Laredo, TX",Cooling Degree Days (°Df),3962.0
+4,Auto Large,4.872242041270587,"Las Vegas-Henderson-Paradise, NV",Cooling Degree Days (°Df),3025.0
+5,Auto Small,4.859687588199185,"Lawrence, KS",Cooling Degree Days (°Df),1370.0
+3,Sparse Auto,5.067774285188241,"Lawton, OK",Cooling Degree Days (°Df),2073.5
+5,Auto Small,5.265368068147336,"Lebanon, PA",Cooling Degree Days (°Df),980.0
+1,Sparse Active,5.748910398365674,"Lewiston, ID-WA",Cooling Degree Days (°Df),417.5
+5,Auto Small,4.3994666308089565,"Lewiston-Auburn, ME",Cooling Degree Days (°Df),375.0
+1,Sparse Active,6.179770309039858,"Lexington-Fayette, KY",Cooling Degree Days (°Df),1168.5
+5,Auto Small,6.237848058151753,"Lima, OH",Cooling Degree Days (°Df),954.0
+3,Sparse Auto,5.953505990401925,"Lincoln, NE",Cooling Degree Days (°Df),1106.5
+4,Auto Large,6.641361536174808,"Little Rock-North Little Rock-Conway, AR",Cooling Degree Days (°Df),1728.5
+1,Sparse Active,4.760631507499267,"Logan, UT-ID",Cooling Degree Days (°Df),304.5
+3,Sparse Auto,7.516795211759245,"Longview, TX",Cooling Degree Days (°Df),2252.25
+5,Auto Small,7.547837891460836,"Longview, WA",Cooling Degree Days (°Df),134.0
+6,Heavyweight Eco-Transit,4.052668537615863,"Los Angeles-Long Beach-Anaheim, CA",Cooling Degree Days (°Df),1556.0
+4,Auto Large,6.06952489168617,"Louisville/Jefferson County, KY-IN",Cooling Degree Days (°Df),1193.5
+3,Sparse Auto,5.466046556887146,"Lubbock, TX",Cooling Degree Days (°Df),2036.6666666666667
+3,Sparse Auto,9.410538545450617,"Macon-Bibb County, GA",Cooling Degree Days (°Df),2208.4
+1,Sparse Active,6.982162693562118,"Madera, CA",Cooling Degree Days (°Df),1122.0
+4,Auto Large,5.733491610720816,"Madison, WI",Cooling Degree Days (°Df),691.0
+5,Auto Small,4.020706867580701,"Manchester-Nashua, NH",Cooling Degree Days (°Df),560.0
+3,Sparse Auto,5.39096925929131,"Manhattan, KS",Cooling Degree Days (°Df),1365.0
+1,Sparse Active,6.559275842872304,"Mankato, MN",Cooling Degree Days (°Df),789.5
+5,Auto Small,5.860390502849895,"Mansfield, OH",Cooling Degree Days (°Df),773.0
+3,Sparse Auto,3.6532902397690146,"McAllen-Edinburg-Mission, TX",Cooling Degree Days (°Df),4672.0
+1,Sparse Active,4.996720404986703,"Medford, OR",Cooling Degree Days (°Df),446.0
+4,Auto Large,6.340096563936063,"Memphis, TN-MS-AR",Cooling Degree Days (°Df),1854.375
+3,Sparse Auto,6.835252035406728,"Merced, CA",Cooling Degree Days (°Df),1829.0
+4,Auto Large,4.792419639857512,"Miami-Fort Lauderdale-Pompano Beach, FL",Cooling Degree Days (°Df),4657.666666666667
+1,Sparse Active,5.309768590058087,"Midland, MI",Cooling Degree Days (°Df),728.0
+3,Sparse Auto,8.34117814763209,"Midland, TX",Cooling Degree Days (°Df),2576.0
+4,Auto Large,5.017084947461276,"Minneapolis-St. Paul-Bloomington, MN-WI",Cooling Degree Days (°Df),684.6
+1,Sparse Active,5.978612627735451,"Missoula, MT",Cooling Degree Days (°Df),94.0
+3,Sparse Auto,7.43271774967463,"Mobile, AL",Cooling Degree Days (°Df),2608.5
+5,Auto Small,4.023324539527527,"Modesto, CA",Cooling Degree Days (°Df),1720.0
+5,Auto Small,5.690672745077784,"Monroe, MI",Cooling Degree Days (°Df),933.0
+3,Sparse Auto,7.857778654373011,"Montgomery, AL",Cooling Degree Days (°Df),2409.0
+5,Auto Small,4.798734014289785,"Morgantown, WV",Cooling Degree Days (°Df),711.5
+1,Sparse Active,8.018325790104306,"Morristown, TN",Cooling Degree Days (°Df),1276.0
+1,Sparse Active,6.643112041653492,"Mount Vernon-Anacortes, WA",Cooling Degree Days (°Df),39.0
+5,Auto Small,6.913773708485843,"Muncie, IN",Cooling Degree Days (°Df),935.0
+5,Auto Small,4.104826339346003,"Muskegon, MI",Cooling Degree Days (°Df),649.0
+3,Sparse Auto,5.498726662778029,"Myrtle Beach-Conway-North Myrtle Beach, SC-NC",Cooling Degree Days (°Df),2009.5
+1,Sparse Active,4.176548089478618,"Napa, CA",Cooling Degree Days (°Df),1324.0
+3,Sparse Auto,5.849616425108023,"Naples-Marco Island, FL",Cooling Degree Days (°Df),4401.0
+4,Auto Large,7.3189682700795915,"Nashville-Davidson--Murfreesboro--Franklin, TN",Cooling Degree Days (°Df),1478.3076923076924
+5,Auto Small,5.637274012279934,"New Bern, NC",Cooling Degree Days (°Df),1833.6666666666667
+7,Dense Active,4.244874329395097,"New Haven-Milford, CT",Cooling Degree Days (°Df),767.0
+2,Heavyweight Transit,2.8499220122782414,"New York-Newark-Jersey City, NY-NJ-PA",Cooling Degree Days (°Df),1060.1304347826087
+5,Auto Small,6.483841676444908,"Niles, MI",Cooling Degree Days (°Df),831.0
+3,Sparse Auto,5.6768462885212,"North Port-Sarasota-Bradenton, FL",Cooling Degree Days (°Df),4014.5
+5,Auto Small,5.107018834692801,"Norwich-New London, CT",Cooling Degree Days (°Df),734.0
+3,Sparse Auto,6.652215055271797,"Ocala, FL",Cooling Degree Days (°Df),3676.0
+1,Sparse Active,7.085187495037601,"Ocean City, NJ",Cooling Degree Days (°Df),1167.0
+5,Auto Small,6.1534497779287936,"Odessa, TX",Cooling Degree Days (°Df),2629.0
+1,Sparse Active,5.1272945195555195,"Ogden-Clearfield, UT",Cooling Degree Days (°Df),600.5
+4,Auto Large,6.8054690807539755,"Oklahoma City, OK",Cooling Degree Days (°Df),1806.7142857142856
+5,Auto Small,4.487710977365074,"Olympia-Lacey-Tumwater, WA",Cooling Degree Days (°Df),155.0
+4,Auto Large,5.787172591210157,"Omaha-Council Bluffs, NE-IA",Cooling Degree Days (°Df),1157.625
+4,Auto Large,5.897086156772827,"Orlando-Kissimmee-Sanford, FL",Cooling Degree Days (°Df),4019.5
+5,Auto Small,6.881687344925628,"Oshkosh-Neenah, WI",Cooling Degree Days (°Df),661.0
+5,Auto Small,5.00580710216788,"Owensboro, KY",Cooling Degree Days (°Df),1260.0
+1,Sparse Active,3.7858414642226905,"Oxnard-Thousand Oaks-Ventura, CA",Cooling Degree Days (°Df),825.0
+3,Sparse Auto,6.256612125306231,"Palm Bay-Melbourne-Titusville, FL",Cooling Degree Days (°Df),3997.0
+3,Sparse Auto,6.375523767086635,"Panama City, FL",Cooling Degree Days (°Df),3118.0
+5,Auto Small,4.542870734497769,"Parkersburg-Vienna, WV",Cooling Degree Days (°Df),1028.0
+3,Sparse Auto,5.986106088772011,"Pensacola-Ferry Pass-Brent, FL",Cooling Degree Days (°Df),2757.0
+3,Sparse Auto,5.935310596421382,"Peoria, IL",Cooling Degree Days (°Df),1011.5
+4,Auto Large,3.6057238570274834,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",Cooling Degree Days (°Df),1179.3636363636365
+4,Auto Large,5.035403239554386,"Phoenix-Mesa-Chandler, AZ",Cooling Degree Days (°Df),4058.0
+3,Sparse Auto,7.925242608654885,"Pine Bluff, AR",Cooling Degree Days (°Df),1856.6666666666667
+4,Auto Large,4.221033439981065,"Pittsburgh, PA",Cooling Degree Days (°Df),751.2857142857143
+5,Auto Small,4.212509812490091,"Pittsfield, MA",Cooling Degree Days (°Df),417.0
+1,Sparse Active,7.800445152024431,"Pocatello, ID",Cooling Degree Days (°Df),363.5
+3,Sparse Auto,6.513700045467889,"Port St. Lucie, FL",Cooling Degree Days (°Df),4358.0
+3,Sparse Auto,5.526886321090759,"Portland-South Portland, ME",Cooling Degree Days (°Df),416.0
+4,Auto Large,4.334763974074535,"Portland-Vancouver-Hillsboro, OR-WA",Cooling Degree Days (°Df),203.0
+3,Sparse Auto,4.695465471903193,"Poughkeepsie-Newburgh-Middletown, NY",Cooling Degree Days (°Df),784.0
+3,Sparse Auto,8.767307677261687,"Prescott Valley-Prescott, AZ",Cooling Degree Days (°Df),1890.0
+1,Sparse Active,4.609985854342272,"Provo-Orem, UT",Cooling Degree Days (°Df),799.5
+1,Sparse Active,4.775314008793338,"Pueblo, CO",Cooling Degree Days (°Df),1080.0
+3,Sparse Auto,5.845805413879713,"Punta Gorda, FL",Cooling Degree Days (°Df),4310.0
+5,Auto Small,4.04664829760416,"Racine, WI",Cooling Degree Days (°Df),717.0
+4,Auto Large,4.754841854510094,"Raleigh-Cary, NC",Cooling Degree Days (°Df),1632.3333333333333
+1,Sparse Active,6.137004142552739,"Rapid City, SD",Cooling Degree Days (°Df),740.5
+5,Auto Small,4.471790988865926,"Reading, PA",Cooling Degree Days (°Df),991.0
+3,Sparse Auto,5.729710311243077,"Redding, CA",Cooling Degree Days (°Df),1152.0
+4,Auto Large,4.641729718981716,"Reno, NV",Cooling Degree Days (°Df),712.0
+4,Auto Large,5.129832949765807,"Riverside-San Bernardino-Ontario, CA",Cooling Degree Days (°Df),3319.5
+3,Sparse Auto,6.14407714575323,"Rochester, MN",Cooling Degree Days (°Df),634.75
+4,Auto Large,4.401336046047008,"Rochester, NY",Cooling Degree Days (°Df),611.8333333333334
+5,Auto Small,4.662237057047692,"Rockford, IL",Cooling Degree Days (°Df),828.5
+5,Auto Small,6.895664198851254,"Rocky Mount, NC",Cooling Degree Days (°Df),1632.0
+5,Auto Small,6.298004617782156,"Rome, GA",Cooling Degree Days (°Df),1687.0
+4,Auto Large,4.426636901442291,"Sacramento-Roseville-Folsom, CA",Cooling Degree Days (°Df),1387.75
+5,Auto Small,5.199660962124546,"Saginaw, MI",Cooling Degree Days (°Df),755.0
+1,Sparse Active,5.103628899408256,"Salem, OR",Cooling Degree Days (°Df),217.5
+1,Sparse Active,3.708575089595074,"Salinas, CA",Cooling Degree Days (°Df),876.0
+3,Sparse Auto,5.826882766400676,"Salisbury, MD-DE",Cooling Degree Days (°Df),1437.0
+1,Sparse Active,4.8671541982546,"Salt Lake City, UT",Cooling Degree Days (°Df),968.5
+3,Sparse Auto,5.545518151345691,"San Angelo, TX",Cooling Degree Days (°Df),2690.6666666666665
+4,Auto Large,4.7190890952555025,"San Antonio-New Braunfels, TX",Cooling Degree Days (°Df),3134.875
+4,Auto Large,4.581765135352589,"San Diego-Chula Vista-Carlsbad, CA",Cooling Degree Days (°Df),1752.0
+4,Auto Large,3.7701718036018974,"San Francisco-Oakland-Berkeley, CA",Cooling Degree Days (°Df),684.8
+4,Auto Large,3.7690953266778178,"San Jose-Sunnyvale-Santa Clara, CA",Cooling Degree Days (°Df),1107.0
+1,Sparse Active,4.045880628884985,"San Luis Obispo-Paso Robles, CA",Cooling Degree Days (°Df),1078.0
+4,Auto Large,2.7383181298689667,"Santa Cruz-Watsonville, CA",Cooling Degree Days (°Df),456.0
+1,Sparse Active,7.5908238633223695,"Santa Fe, NM",Cooling Degree Days (°Df),579.0
+1,Sparse Active,4.4817820130529125,"Santa Maria-Santa Barbara, CA",Cooling Degree Days (°Df),708.0
+1,Sparse Active,3.9019720501382857,"Santa Rosa-Petaluma, CA",Cooling Degree Days (°Df),588.0
+3,Sparse Auto,7.477711917618203,"Savannah, GA",Cooling Degree Days (°Df),2760.6666666666665
+3,Sparse Auto,4.935904516306623,"Scranton--Wilkes-Barre, PA",Cooling Degree Days (°Df),570.3333333333334
+4,Auto Large,4.016145491034696,"Seattle-Tacoma-Bellevue, WA",Cooling Degree Days (°Df),63.0
+7,Dense Active,6.171416522191772,"Sebastian-Vero Beach, FL",Cooling Degree Days (°Df),3989.0
+3,Sparse Auto,4.933259374200938,"Sebring-Avon Park, FL",Cooling Degree Days (°Df),4056.0
+5,Auto Small,5.17806469696228,"Sheboygan, WI",Cooling Degree Days (°Df),547.0
+3,Sparse Auto,7.761637473094067,"Sherman-Denison, TX",Cooling Degree Days (°Df),2216.0
+3,Sparse Auto,8.378529719544437,"Sierra Vista-Douglas, AZ",Cooling Degree Days (°Df),1990.0
+3,Sparse Auto,6.886893822693476,"Sioux City, IA-NE-SD",Cooling Degree Days (°Df),1023.5
+3,Sparse Auto,5.799980096371984,"Sioux Falls, SD",Cooling Degree Days (°Df),901.5
+1,Sparse Active,5.467465274251144,"South Bend-Mishawaka, IN-MI",Cooling Degree Days (°Df),792.5
+5,Auto Small,6.276125083266998,"Spartanburg, SC",Cooling Degree Days (°Df),1572.0
+3,Sparse Auto,4.426849882297688,"Spokane-Spokane Valley, WA",Cooling Degree Days (°Df),310.5
+5,Auto Small,5.824346483841725,"Springfield, IL",Cooling Degree Days (°Df),1057.5
+1,Sparse Active,4.235993310915118,"Springfield, MA",Cooling Degree Days (°Df),612.6666666666666
+4,Auto Large,6.47887258388941,"Springfield, MO",Cooling Degree Days (°Df),1258.4
+5,Auto Small,6.284457485136258,"Springfield, OH",Cooling Degree Days (°Df),927.0
+3,Sparse Auto,7.129655516556662,"St. Cloud, MN",Cooling Degree Days (°Df),593.5
+1,Sparse Active,6.464416155466091,"St. George, UT",Cooling Degree Days (°Df),1544.0
+3,Sparse Auto,8.197444662274727,"St. Joseph, MO-KS",Cooling Degree Days (°Df),1193.75
+4,Auto Large,7.853257951103703,"St. Louis, MO-IL",Cooling Degree Days (°Df),1287.0666666666666
+1,Sparse Active,5.151074614680243,"State College, PA",Cooling Degree Days (°Df),625.0
+4,Auto Large,4.868642128229999,"Stockton, CA",Cooling Degree Days (°Df),1872.0
+3,Sparse Auto,7.333344775936028,"Sumter, SC",Cooling Degree Days (°Df),2056.0
+3,Sparse Auto,4.578972069283096,"Syracuse, NY",Cooling Degree Days (°Df),537.6666666666666
+3,Sparse Auto,6.067544880918141,"Tallahassee, FL",Cooling Degree Days (°Df),2974.0
+4,Auto Large,5.016409330703997,"Tampa-St. Petersburg-Clearwater, FL",Cooling Degree Days (°Df),4098.5
+3,Sparse Auto,7.644165070464751,"Terre Haute, IN",Cooling Degree Days (°Df),1056.4
+3,Sparse Auto,9.612002934697832,"Texarkana, TX-AR",Cooling Degree Days (°Df),2019.3333333333333
+7,Dense Active,8.814653934638596,"The Villages, FL",Cooling Degree Days (°Df),3880.0
+3,Sparse Auto,5.9118254008047355,"Toledo, OH",Cooling Degree Days (°Df),1009.75
+3,Sparse Auto,6.70375305677546,"Topeka, KS",Cooling Degree Days (°Df),1345.2
+7,Dense Active,4.336879099474519,"Trenton-Princeton, NJ",Cooling Degree Days (°Df),1114.0
+4,Auto Large,4.355028155707587,"Tucson, AZ",Cooling Degree Days (°Df),3436.0
+4,Auto Large,6.339577637637868,"Tulsa, OK",Cooling Degree Days (°Df),1773.142857142857
+3,Sparse Auto,8.70507916553966,"Tuscaloosa, AL",Cooling Degree Days (°Df),2086.75
+3,Sparse Auto,6.949742382139691,"Twin Falls, ID",Cooling Degree Days (°Df),580.5
+5,Auto Small,6.2007482816460024,"Tyler, TX",Cooling Degree Days (°Df),2289.0
+3,Sparse Auto,5.057418883558467,"Utica-Rome, NY",Cooling Degree Days (°Df),395.5
+3,Sparse Auto,7.439757348021337,"Valdosta, GA",Cooling Degree Days (°Df),2610.75
+3,Sparse Auto,9.890181156838809,"Victoria, TX",Cooling Degree Days (°Df),3793.0
+5,Auto Small,3.971891953277705,"Vineland-Bridgeton, NJ",Cooling Degree Days (°Df),1194.0
+3,Sparse Auto,4.488096268716279,"Visalia, CA",Cooling Degree Days (°Df),896.0
+3,Sparse Auto,7.367966041177016,"Waco, TX",Cooling Degree Days (°Df),2716.0
+1,Sparse Active,5.234842239487217,"Walla Walla, WA",Cooling Degree Days (°Df),744.0
+5,Auto Small,6.169884435593638,"Warner Robins, GA",Cooling Degree Days (°Df),2326.5
+3,Sparse Auto,5.630949721169618,"Waterloo-Cedar Falls, IA",Cooling Degree Days (°Df),825.3333333333334
+1,Sparse Active,5.841225490215319,"Watertown-Fort Drum, NY",Cooling Degree Days (°Df),516.0
+3,Sparse Auto,7.8403777971121515,"Wausau-Weston, WI",Cooling Degree Days (°Df),414.0
+5,Auto Small,3.753406078646004,"Weirton-Steubenville, WV-OH",Cooling Degree Days (°Df),795.0
+1,Sparse Active,5.54903872345699,"Wenatchee, WA",Cooling Degree Days (°Df),316.5
+5,Auto Small,6.066200395776506,"Wheeling, WV-OH",Cooling Degree Days (°Df),822.3333333333334
+3,Sparse Auto,6.799822203000577,"Wichita Falls, TX",Cooling Degree Days (°Df),2293.6666666666665
+4,Auto Large,5.676112120059677,"Wichita, KS",Cooling Degree Days (°Df),1589.0
+5,Auto Small,4.861627230597881,"Williamsport, PA",Cooling Degree Days (°Df),610.0
+5,Auto Small,4.6117208538858465,"Wilmington, NC",Cooling Degree Days (°Df),1953.5
+3,Sparse Auto,5.512735457830683,"Winston-Salem, NC",Cooling Degree Days (°Df),1261.8
+3,Sparse Auto,4.52818621846808,"Worcester, MA-CT",Cooling Degree Days (°Df),654.0
+3,Sparse Auto,4.88595041494122,"Yakima, WA",Cooling Degree Days (°Df),254.0
+5,Auto Small,4.242958869040292,"York-Hanover, PA",Cooling Degree Days (°Df),1050.0
+3,Sparse Auto,5.224639584543608,"Youngstown-Warren-Boardman, OH-PA",Cooling Degree Days (°Df),643.0
+5,Auto Small,3.036598816830966,"Yuba City, CA",Cooling Degree Days (°Df),1969.5
+3,Sparse Auto,5.533761312024776,"Yuma, AZ",Cooling Degree Days (°Df),4526.0
+3,Sparse Auto,8.521780192812306,"Abilene, TX",Transit Mode Share,0.591948486538559
+7,Dense Active,5.224953343032942,"Akron, OH",Transit Mode Share,1.0604207400865189
+3,Sparse Auto,6.560072038030802,"Albany, GA",Transit Mode Share,0.9270275629585564
+1,Sparse Active,6.8956968499881794,"Albany-Lebanon, OR",Transit Mode Share,0.1279671250653353
+3,Sparse Auto,4.563193172897371,"Albany-Schenectady-Troy, NY",Transit Mode Share,3.3399137735420923
+4,Auto Large,7.038307492087349,"Albuquerque, NM",Transit Mode Share,1.348909627379934
+3,Sparse Auto,4.661572413217785,"Allentown-Bethlehem-Easton, PA-NJ",Transit Mode Share,1.568762923980047
+5,Auto Small,4.693678102809026,"Altoona, PA",Transit Mode Share,1.2114078768673608
+3,Sparse Auto,9.762586464058558,"Amarillo, TX",Transit Mode Share,0.2643711513041235
+1,Sparse Active,6.588536340832919,"Ames, IA",Transit Mode Share,4.3766371460646125
+7,Dense Active,4.402935620842415,"Ann Arbor, MI",Transit Mode Share,4.684010840108401
+5,Auto Small,6.64554937950233,"Anniston-Oxford, AL",Transit Mode Share,0.6103613592684112
+5,Auto Small,5.39452754882885,"Appleton, WI",Transit Mode Share,0.4123450743722006
+3,Sparse Auto,5.7107441421080205,"Asheville, NC",Transit Mode Share,0.4924132398301451
+5,Auto Small,5.370655597161981,"Athens-Clarke County, GA",Transit Mode Share,2.063149796013404
+4,Auto Large,5.789558925442073,"Atlanta-Sandy Springs-Alpharetta, GA",Transit Mode Share,2.784164346788626
+5,Auto Small,4.510060212334464,"Atlantic City-Hammonton, NJ",Transit Mode Share,4.486844682379056
+5,Auto Small,6.289928297636136,"Auburn-Opelika, AL",Transit Mode Share,0.625671321160043
+4,Auto Large,5.969913473634678,"Augusta-Richmond County, GA-SC",Transit Mode Share,0.7299159593910934
+4,Auto Large,4.331190339513039,"Austin-Round Rock-Georgetown, TX",Transit Mode Share,1.7046152291850474
+4,Auto Large,6.556526134153044,"Bakersfield, CA",Transit Mode Share,0.6666058700147972
+4,Auto Large,5.042565645376257,"Baltimore-Columbia-Towson, MD",Transit Mode Share,5.707111791495058
+1,Sparse Active,5.787938338174279,"Bangor, ME",Transit Mode Share,0.4190544909598013
+1,Sparse Active,6.5569086788700774,"Barnstable Town, MA",Transit Mode Share,1.2668219710825743
+5,Auto Small,5.718416953304107,"Battle Creek, MI",Transit Mode Share,1.080469232352336
+5,Auto Small,5.806592106921938,"Bay City, MI",Transit Mode Share,0.5538354193013825
+3,Sparse Auto,7.23804529158365,"Beaumont-Port Arthur, TX",Transit Mode Share,0.4587774929159357
+5,Auto Small,6.354726056662507,"Beckley, WV",Transit Mode Share,0.1391272086444372
+1,Sparse Active,4.160915236395564,"Bellingham, WA",Transit Mode Share,2.35395060807282
+1,Sparse Active,4.244615460866778,"Bend, OR",Transit Mode Share,0.5155753474999459
+3,Sparse Auto,6.818462426750208,"Billings, MT",Transit Mode Share,0.8732219337372122
+5,Auto Small,5.625499323594822,"Binghamton, NY",Transit Mode Share,2.488915564676954
+4,Auto Large,7.819034591152687,"Birmingham-Hoover, AL",Transit Mode Share,0.5123405294321118
+1,Sparse Active,8.620673178483822,"Bismarck, ND",Transit Mode Share,0.1690033212826617
+3,Sparse Auto,5.936537030801337,"Bloomington, IL",Transit Mode Share,1.1261816687217423
+5,Auto Small,4.999595890399523,"Bloomington, IN",Transit Mode Share,2.549211017336612
+5,Auto Small,6.719566195091469,"Bloomsburg-Berwick, PA",Transit Mode Share,0.3089414287902772
+4,Auto Large,4.910866644404342,"Boise City, ID",Transit Mode Share,0.2750515545349654
+4,Auto Large,4.016309705704,"Boston-Cambridge-Newton, MA-NH",Transit Mode Share,12.26816441185615
+3,Sparse Auto,6.660842572305076,"Bowling Green, KY",Transit Mode Share,0.1936962891223596
+4,Auto Large,3.773433361377403,"Bremerton-Silverdale-Port Orchard, WA",Transit Mode Share,8.31102742071026
+7,Dense Active,4.132225329902902,"Bridgeport-Stamford-Norwalk, CT",Transit Mode Share,9.274474366697856
+3,Sparse Auto,4.05226043435715,"Brownsville-Harlingen, TX",Transit Mode Share,0.5902816328041153
+3,Sparse Auto,9.935164751675893,"Brunswick, GA",Transit Mode Share,0.45129010104974
+1,Sparse Active,3.65299609243732,"Buffalo-Cheektowaga, NY",Transit Mode Share,2.876851295860482
+5,Auto Small,4.82296733211575,"Burlington, NC",Transit Mode Share,0.1697482502872662
+1,Sparse Active,5.851998579706925,"Burlington-South Burlington, VT",Transit Mode Share,2.1493403515875427
+5,Auto Small,4.490797852429514,"Canton-Massillon, OH",Transit Mode Share,1.0205401211285212
+7,Dense Active,5.169660208099404,"Cape Coral-Fort Myers, FL",Transit Mode Share,0.6574896023798471
+3,Sparse Auto,7.421326825857359,"Cape Girardeau, MO-IL",Transit Mode Share,0.3685062016897357
+3,Sparse Auto,6.499204605337879,"Carbondale-Marion, IL",Transit Mode Share,0.9505568560686672
+1,Sparse Active,7.971315774518812,"Casper, WY",Transit Mode Share,0.3859589124752668
+3,Sparse Auto,5.511328261678552,"Cedar Rapids, IA",Transit Mode Share,0.3346572782629085
+5,Auto Small,6.027676645697928,"Chambersburg-Waynesboro, PA",Transit Mode Share,0.2617944570848981
+1,Sparse Active,5.58011971503012,"Champaign-Urbana, IL",Transit Mode Share,4.986337545159456
+3,Sparse Auto,6.360166397497082,"Charleston, WV",Transit Mode Share,1.779641366517236
+3,Sparse Auto,5.6585131547993575,"Charleston-North Charleston, SC",Transit Mode Share,0.7840186541483909
+4,Auto Large,5.236051321118476,"Charlotte-Concord-Gastonia, NC-SC",Transit Mode Share,1.4331417357269711
+3,Sparse Auto,6.714462149284141,"Chattanooga, TN-GA",Transit Mode Share,0.6841953192718867
+1,Sparse Active,10.416946381906817,"Cheyenne, WY",Transit Mode Share,0.1786185479123957
+4,Auto Large,3.9342845352152835,"Chicago-Naperville-Elgin, IL-IN-WI",Transit Mode Share,11.297802908401884
+3,Sparse Auto,4.819672050556448,"Chico, CA",Transit Mode Share,1.0895008791516996
+4,Auto Large,5.198681661586621,"Cincinnati, OH-KY-IN",Transit Mode Share,1.604596337236006
+3,Sparse Auto,5.8835001531734035,"Clarksville, TN-KY",Transit Mode Share,0.6154200926733302
+5,Auto Small,6.450301817295837,"Cleveland, TN",Transit Mode Share,0.1324621856260628
+4,Auto Large,5.239030933228603,"Cleveland-Elyria, OH",Transit Mode Share,2.782506219719785
+3,Sparse Auto,6.620857090863089,"Coeur d'Alene, ID",Transit Mode Share,0.2984467204775147
+3,Sparse Auto,5.735068116774824,"College Station-Bryan, TX",Transit Mode Share,1.3736918688292792
+3,Sparse Auto,4.0650330202961555,"Colorado Springs, CO",Transit Mode Share,0.669187767181848
+3,Sparse Auto,6.9474179207980296,"Columbia, MO",Transit Mode Share,0.7083455816114625
+4,Auto Large,6.189623940247864,"Columbia, SC",Transit Mode Share,0.6459236708493146
+3,Sparse Auto,6.038034603580465,"Columbus, GA-AL",Transit Mode Share,0.717177981249772
+5,Auto Small,8.092349363775686,"Columbus, IN",Transit Mode Share,0.2986585674512781
+4,Auto Large,5.018529835475418,"Columbus, OH",Transit Mode Share,1.478539419782547
+3,Sparse Auto,6.196104052943694,"Corpus Christi, TX",Transit Mode Share,1.262863955823293
+1,Sparse Active,3.2568044344773206,"Corvallis, OR",Transit Mode Share,2.146690518783542
+3,Sparse Auto,7.720934569786481,"Crestview-Fort Walton Beach-Destin, FL",Transit Mode Share,0.4215902565807368
+5,Auto Small,4.833162484605701,"Cumberland, MD-WV",Transit Mode Share,0.6630988121655137
+4,Auto Large,4.665452039086198,"Dallas-Fort Worth-Arlington, TX",Transit Mode Share,1.1762168748424695
+5,Auto Small,6.713757328033229,"Dalton, GA",Transit Mode Share,0.0418740985437119
+5,Auto Small,5.729877881090719,"Danville, IL",Transit Mode Share,0.8754143735315889
+3,Sparse Auto,9.654314156515747,"Daphne-Fairhope-Foley, AL",Transit Mode Share,0.0308966199097818
+1,Sparse Active,5.574919113799141,"Davenport-Moline-Rock Island, IA-IL",Transit Mode Share,0.8107670760491705
+3,Sparse Auto,4.942568688982381,"Dayton-Kettering, OH",Transit Mode Share,1.5923856375157073
+5,Auto Small,7.73070300442992,"Decatur, AL",Transit Mode Share,0.1502065339842283
+5,Auto Small,5.6670187986381215,"Decatur, IL",Transit Mode Share,1.1354134577300532
+3,Sparse Auto,6.111431445666809,"Deltona-Daytona Beach-Ormond Beach, FL",Transit Mode Share,0.8360268748865082
+4,Auto Large,5.387551266032284,"Des Moines-West Des Moines, IA",Transit Mode Share,0.9025471268453618
+4,Auto Large,3.9872664188339844,"Detroit-Warren-Dearborn, MI",Transit Mode Share,1.324663952452606
+3,Sparse Auto,6.873509854278803,"Dothan, AL",Transit Mode Share,0.0374928682044176
+4,Auto Large,4.830602945612652,"Dover, DE",Transit Mode Share,0.8184181395290986
+5,Auto Small,5.22075903239457,"Dubuque, IA",Transit Mode Share,0.8719007436210939
+4,Auto Large,7.701986078209474,"Duluth, MN-WI",Transit Mode Share,1.4812193519033416
+3,Sparse Auto,5.353667753997634,"Durham-Chapel Hill, NC",Transit Mode Share,3.082004901501771
+5,Auto Small,4.830968100529345,"East Stroudsburg, PA",Transit Mode Share,3.486315575178451
+3,Sparse Auto,7.743743487337159,"Eau Claire, WI",Transit Mode Share,0.4835768529418554
+3,Sparse Auto,9.039659053730142,"El Centro, CA",Transit Mode Share,0.743653303701171
+4,Auto Large,5.349598826800237,"El Paso, TX",Transit Mode Share,1.29322855343501
+5,Auto Small,6.794204161989231,"Elizabethtown-Fort Knox, KY",Transit Mode Share,0.2861662352602818
+5,Auto Small,6.952711291250893,"Elkhart-Goshen, IN",Transit Mode Share,0.2891041914926688
+5,Auto Small,5.104260393181227,"Elmira, NY",Transit Mode Share,1.4422547616426291
+3,Sparse Auto,5.5737281201315065,"Enid, OK",Transit Mode Share,0.3666427030913012
+1,Sparse Active,4.307969648379507,"Erie, PA",Transit Mode Share,1.4903345994725763
+1,Sparse Active,5.026956204611711,"Eugene-Springfield, OR",Transit Mode Share,2.876253795895831
+3,Sparse Auto,7.118906492100415,"Evansville, IN-KY",Transit Mode Share,0.8922838184931506
+3,Sparse Auto,8.012731670845499,"Fargo, ND-MN",Transit Mode Share,0.9259729610089912
+3,Sparse Auto,6.32440637612793,"Farmington, NM",Transit Mode Share,0.3420801019866142
+3,Sparse Auto,4.329363490882602,"Fayetteville, NC",Transit Mode Share,0.4716879998284771
+3,Sparse Auto,4.9190378947445055,"Fayetteville-Springdale-Rogers, AR",Transit Mode Share,0.3629409772713691
+1,Sparse Active,13.056576781339958,"Flagstaff, AZ",Transit Mode Share,1.6472267030648964
+7,Dense Active,4.3771015421960335,"Flint, MI",Transit Mode Share,1.4629584403052198
+3,Sparse Auto,6.729650647115809,"Florence, SC",Transit Mode Share,0.2448376218413637
+5,Auto Small,6.6107105895565885,"Florence-Muscle Shoals, AL",Transit Mode Share,0.0297716980836428
+5,Auto Small,7.478514979823569,"Fond du Lac, WI",Transit Mode Share,0.1672526845956476
+1,Sparse Active,4.605955170213604,"Fort Collins, CO",Transit Mode Share,1.4037411205849195
+3,Sparse Auto,7.438802066656409,"Fort Smith, AR-OK",Transit Mode Share,0.1942718107830285
+5,Auto Small,6.581911696270895,"Fort Wayne, IN",Transit Mode Share,0.7614831661454737
+4,Auto Large,5.298647007777657,"Fresno, CA",Transit Mode Share,0.942060745285918
+5,Auto Small,6.461529321035506,"Gadsden, AL",Transit Mode Share,0.0545709065888438
+3,Sparse Auto,6.87983051948396,"Gainesville, FL",Transit Mode Share,2.7168582793003866
+5,Auto Small,6.14147007866239,"Gainesville, GA",Transit Mode Share,0.4760494245091402
+5,Auto Small,5.038324654644315,"Gettysburg, PA",Transit Mode Share,0.3715829433386225
+1,Sparse Active,5.52198665067417,"Glens Falls, NY",Transit Mode Share,0.5645106440862409
+5,Auto Small,4.606188837792648,"Goldsboro, NC",Transit Mode Share,0.3996204518083281
+1,Sparse Active,9.883473253442334,"Grand Forks, ND-MN",Transit Mode Share,0.944273021301907
+3,Sparse Auto,10.690637098922567,"Grand Island, NE",Transit Mode Share,0.2771691787873188
+1,Sparse Active,4.721965840989233,"Grand Junction, CO",Transit Mode Share,0.460036974934434
+3,Sparse Auto,4.612096790793935,"Grand Rapids-Kentwood, MI",Transit Mode Share,1.4253280226249698
+1,Sparse Active,5.54995413979656,"Grants Pass, OR",Transit Mode Share,0.3726013786251009
+1,Sparse Active,5.6130099461611715,"Great Falls, MT",Transit Mode Share,0.7845675815639565
+3,Sparse Auto,5.531836783748051,"Green Bay, WI",Transit Mode Share,0.5679488725431087
+3,Sparse Auto,5.332766818962245,"Greensboro-High Point, NC",Transit Mode Share,1.0758682828624122
+5,Auto Small,4.123972683795411,"Greenville, NC",Transit Mode Share,0.9716986776760606
+4,Auto Large,5.309442740547294,"Greenville-Anderson, SC",Transit Mode Share,0.3981515572044899
+3,Sparse Auto,7.515494463286443,"Gulfport-Biloxi, MS",Transit Mode Share,0.1602133251397751
+5,Auto Small,6.174254098149316,"Hagerstown-Martinsburg, MD-WV",Transit Mode Share,1.0554761245312114
+1,Sparse Active,6.347121697586409,"Hanford-Corcoran, CA",Transit Mode Share,0.2634370579915134
+3,Sparse Auto,5.9673538352136575,"Harrisburg-Carlisle, PA",Transit Mode Share,1.1858095551986985
+3,Sparse Auto,4.563979142380444,"Hartford-East Hartford-Middletown, CT",Transit Mode Share,2.629435409619586
+3,Sparse Auto,7.471478610192212,"Hattiesburg, MS",Transit Mode Share,0.3146641750027481
+3,Sparse Auto,5.499577472573777,"Hickory-Lenoir-Morganton, NC",Transit Mode Share,0.2864102030574901
+3,Sparse Auto,7.198667567428218,"Hilton Head Island-Bluffton, SC",Transit Mode Share,0.6262678803641093
+3,Sparse Auto,7.0264810438690395,"Hinesville, GA",Transit Mode Share,0.5507474429583006
+7,Dense Active,5.091160691255167,"Homosassa Springs, FL",Transit Mode Share,0.116224011019758
+5,Auto Small,4.9175546671767725,"Hot Springs, AR",Transit Mode Share,0.2494896801995917
+4,Auto Large,4.7749743707774535,"Houston-The Woodlands-Sugar Land, TX",Transit Mode Share,1.929058592144212
+3,Sparse Auto,5.066502888486467,"Huntington-Ashland, WV-KY-OH",Transit Mode Share,0.4909855340981971
+3,Sparse Auto,6.69200761875749,"Huntsville, AL",Transit Mode Share,0.169460206146538
+3,Sparse Auto,6.766059974417556,"Idaho Falls, ID",Transit Mode Share,2.6057555037944247
+4,Auto Large,6.627093410123633,"Indianapolis-Carmel-Anderson, IN",Transit Mode Share,0.7860916311871439
+1,Sparse Active,6.319585647538596,"Iowa City, IA",Transit Mode Share,4.193993786675872
+7,Dense Active,3.2474157477929055,"Ithaca, NY",Transit Mode Share,6.311482019029188
+7,Dense Active,4.878016116062459,"Jackson, MI",Transit Mode Share,0.376667155210318
+4,Auto Large,7.494294727899515,"Jackson, MS",Transit Mode Share,0.3329782587037988
+3,Sparse Auto,7.041224184684516,"Jackson, TN",Transit Mode Share,0.2642692093171496
+4,Auto Large,6.390870313467058,"Jacksonville, FL",Transit Mode Share,1.1227619835096048
+5,Auto Small,4.153461734572535,"Jacksonville, NC",Transit Mode Share,0.4902538709423877
+5,Auto Small,6.469200722778697,"Janesville-Beloit, WI",Transit Mode Share,0.5294767449242608
+3,Sparse Auto,8.44693409277478,"Jefferson City, MO",Transit Mode Share,0.5039361111506541
+5,Auto Small,5.12198168669729,"Johnson City, TN",Transit Mode Share,0.4012633613955423
+5,Auto Small,4.315615616611618,"Johnstown, PA",Transit Mode Share,0.95709216044736
+3,Sparse Auto,7.036088029071533,"Jonesboro, AR",Transit Mode Share,0.1481306916693319
+3,Sparse Auto,7.928398184582309,"Joplin, MO",Transit Mode Share,0.1878235941033277
+5,Auto Small,5.1773541212677,"Kankakee, IL",Transit Mode Share,1.6129355828836238
+4,Auto Large,6.0564024793265885,"Kansas City, MO-KS",Transit Mode Share,0.8376339744192521
+1,Sparse Active,5.417903540258031,"Kennewick-Richland, WA",Transit Mode Share,0.6351237476982616
+3,Sparse Auto,5.575046300408085,"Killeen-Temple, TX",Transit Mode Share,0.4529330420666573
+5,Auto Small,5.232441587578223,"Kingston, NY",Transit Mode Share,2.432396844587558
+4,Auto Large,7.154161862868689,"Knoxville, TN",Transit Mode Share,0.4457581404226038
+5,Auto Small,5.409910377213027,"Kokomo, IN",Transit Mode Share,0.1588170865279299
+5,Auto Small,5.80417549986919,"La Crosse-Onalaska, WI-MN",Transit Mode Share,0.7428249859313449
+3,Sparse Auto,6.9527252652987945,"Lafayette-West Lafayette, IN",Transit Mode Share,2.4251568623843083
+3,Sparse Auto,8.851246763495178,"Lake Havasu City-Kingman, AZ",Transit Mode Share,0.8843107052481021
+3,Sparse Auto,5.759052890469897,"Lakeland-Winter Haven, FL",Transit Mode Share,0.392498013535359
+5,Auto Small,4.618823856636247,"Lancaster, PA",Transit Mode Share,1.050752264231649
+3,Sparse Auto,4.772400254048819,"Lansing-East Lansing, MI",Transit Mode Share,2.0194621346105674
+3,Sparse Auto,5.088235082185966,"Laredo, TX",Transit Mode Share,1.003317200500299
+4,Auto Large,4.872242041270587,"Las Vegas-Henderson-Paradise, NV",Transit Mode Share,3.045816723371737
+5,Auto Small,4.859687588199185,"Lawrence, KS",Transit Mode Share,1.9802423446546888
+3,Sparse Auto,5.067774285188241,"Lawton, OK",Transit Mode Share,1.2474412582885734
+5,Auto Small,5.265368068147336,"Lebanon, PA",Transit Mode Share,0.5926059621574467
+1,Sparse Active,5.748910398365674,"Lewiston, ID-WA",Transit Mode Share,0.521813212168542
+5,Auto Small,4.3994666308089565,"Lewiston-Auburn, ME",Transit Mode Share,0.1376761028233031
+1,Sparse Active,6.179770309039858,"Lexington-Fayette, KY",Transit Mode Share,1.1907462009525969
+5,Auto Small,6.237848058151753,"Lima, OH",Transit Mode Share,0.7206243985886881
+3,Sparse Auto,5.953505990401925,"Lincoln, NE",Transit Mode Share,0.9837592736006824
+4,Auto Large,6.641361536174808,"Little Rock-North Little Rock-Conway, AR",Transit Mode Share,0.4361971252091257
+1,Sparse Active,4.760631507499267,"Logan, UT-ID",Transit Mode Share,1.6312333203394405
+3,Sparse Auto,7.516795211759245,"Longview, TX",Transit Mode Share,0.108221531954266
+5,Auto Small,7.547837891460836,"Longview, WA",Transit Mode Share,0.3677221654749744
+6,Heavyweight Eco-Transit,4.052668537615863,"Los Angeles-Long Beach-Anaheim, CA",Transit Mode Share,4.505567796631558
+4,Auto Large,6.06952489168617,"Louisville/Jefferson County, KY-IN",Transit Mode Share,1.7375227443615142
+3,Sparse Auto,5.466046556887146,"Lubbock, TX",Transit Mode Share,0.673122035135276
+3,Sparse Auto,9.410538545450617,"Macon-Bibb County, GA",Transit Mode Share,0.8301677408340091
+1,Sparse Active,6.982162693562118,"Madera, CA",Transit Mode Share,0.3967621375560161
+4,Auto Large,5.733491610720816,"Madison, WI",Transit Mode Share,3.803371534637993
+5,Auto Small,4.020706867580701,"Manchester-Nashua, NH",Transit Mode Share,0.8290611983338674
+3,Sparse Auto,5.39096925929131,"Manhattan, KS",Transit Mode Share,0.1911691276125258
+1,Sparse Active,6.559275842872304,"Mankato, MN",Transit Mode Share,1.3170731707317074
+5,Auto Small,5.860390502849895,"Mansfield, OH",Transit Mode Share,0.6600594648166502
+3,Sparse Auto,3.6532902397690146,"McAllen-Edinburg-Mission, TX",Transit Mode Share,0.2488355178657093
+1,Sparse Active,4.996720404986703,"Medford, OR",Transit Mode Share,0.7157654858089911
+4,Auto Large,6.340096563936063,"Memphis, TN-MS-AR",Transit Mode Share,0.6719798176710051
+3,Sparse Auto,6.835252035406728,"Merced, CA",Transit Mode Share,0.924156755702866
+4,Auto Large,4.792419639857512,"Miami-Fort Lauderdale-Pompano Beach, FL",Transit Mode Share,3.0235771602492822
+1,Sparse Active,5.309768590058087,"Midland, MI",Transit Mode Share,0.76088973726769
+3,Sparse Auto,8.34117814763209,"Midland, TX",Transit Mode Share,0.152989624312697
+4,Auto Large,5.017084947461276,"Minneapolis-St. Paul-Bloomington, MN-WI",Transit Mode Share,4.20981148871605
+1,Sparse Active,5.978612627735451,"Missoula, MT",Transit Mode Share,1.9264825908187937
+3,Sparse Auto,7.43271774967463,"Mobile, AL",Transit Mode Share,0.5011045552417438
+5,Auto Small,4.023324539527527,"Modesto, CA",Transit Mode Share,0.7562991404472535
+5,Auto Small,5.690672745077784,"Monroe, MI",Transit Mode Share,0.2274406408900607
+3,Sparse Auto,7.857778654373011,"Montgomery, AL",Transit Mode Share,0.3401255753482898
+5,Auto Small,4.798734014289785,"Morgantown, WV",Transit Mode Share,2.016073267052876
+1,Sparse Active,8.018325790104306,"Morristown, TN",Transit Mode Share,0.3045804866556726
+1,Sparse Active,6.643112041653492,"Mount Vernon-Anacortes, WA",Transit Mode Share,0.659619004063253
+5,Auto Small,6.913773708485843,"Muncie, IN",Transit Mode Share,1.3835794539421342
+5,Auto Small,4.104826339346003,"Muskegon, MI",Transit Mode Share,0.3085516691049342
+3,Sparse Auto,5.498726662778029,"Myrtle Beach-Conway-North Myrtle Beach, SC-NC",Transit Mode Share,0.4599185457435183
+1,Sparse Active,4.176548089478618,"Napa, CA",Transit Mode Share,1.3594226792196336
+3,Sparse Auto,5.849616425108023,"Naples-Marco Island, FL",Transit Mode Share,1.0708920248077145
+4,Auto Large,7.3189682700795915,"Nashville-Davidson--Murfreesboro--Franklin, TN",Transit Mode Share,0.8763675343059839
+5,Auto Small,5.637274012279934,"New Bern, NC",Transit Mode Share,0.2954621473965882
+7,Dense Active,4.244874329395097,"New Haven-Milford, CT",Transit Mode Share,3.450995671407054
+2,Heavyweight Transit,2.8499220122782414,"New York-Newark-Jersey City, NY-NJ-PA",Transit Mode Share,29.835681831489342
+5,Auto Small,6.483841676444908,"Niles, MI",Transit Mode Share,0.6340644680026969
+3,Sparse Auto,5.6768462885212,"North Port-Sarasota-Bradenton, FL",Transit Mode Share,0.6316129940372619
+5,Auto Small,5.107018834692801,"Norwich-New London, CT",Transit Mode Share,1.5120633962930534
+3,Sparse Auto,6.652215055271797,"Ocala, FL",Transit Mode Share,0.4004572270254927
+1,Sparse Active,7.085187495037601,"Ocean City, NJ",Transit Mode Share,1.378527799908259
+5,Auto Small,6.1534497779287936,"Odessa, TX",Transit Mode Share,0.2987967374626504
+1,Sparse Active,5.1272945195555195,"Ogden-Clearfield, UT",Transit Mode Share,1.5283687833838882
+4,Auto Large,6.8054690807539755,"Oklahoma City, OK",Transit Mode Share,0.3955267452131084
+5,Auto Small,4.487710977365074,"Olympia-Lacey-Tumwater, WA",Transit Mode Share,1.847995049878511
+4,Auto Large,5.787172591210157,"Omaha-Council Bluffs, NE-IA",Transit Mode Share,0.8107015075045085
+4,Auto Large,5.897086156772827,"Orlando-Kissimmee-Sanford, FL",Transit Mode Share,1.4232092965775938
+5,Auto Small,6.881687344925628,"Oshkosh-Neenah, WI",Transit Mode Share,0.546354202460312
+5,Auto Small,5.00580710216788,"Owensboro, KY",Transit Mode Share,0.4450562920776209
+1,Sparse Active,3.7858414642226905,"Oxnard-Thousand Oaks-Ventura, CA",Transit Mode Share,0.9892195359724067
+3,Sparse Auto,6.256612125306231,"Palm Bay-Melbourne-Titusville, FL",Transit Mode Share,0.5907828552562584
+3,Sparse Auto,6.375523767086635,"Panama City, FL",Transit Mode Share,0.7588011417697431
+5,Auto Small,4.542870734497769,"Parkersburg-Vienna, WV",Transit Mode Share,0.7861084937407458
+3,Sparse Auto,5.986106088772011,"Pensacola-Ferry Pass-Brent, FL",Transit Mode Share,0.5940485890776998
+3,Sparse Auto,5.935310596421382,"Peoria, IL",Transit Mode Share,0.8180719015873368
+4,Auto Large,3.6057238570274834,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",Transit Mode Share,8.753012486279975
+4,Auto Large,5.035403239554386,"Phoenix-Mesa-Chandler, AZ",Transit Mode Share,1.6538899919923225
+3,Sparse Auto,7.925242608654885,"Pine Bluff, AR",Transit Mode Share,0.4152850658339503
+4,Auto Large,4.221033439981065,"Pittsburgh, PA",Transit Mode Share,5.344168352665434
+5,Auto Small,4.212509812490091,"Pittsfield, MA",Transit Mode Share,1.0628397903707696
+1,Sparse Active,7.800445152024431,"Pocatello, ID",Transit Mode Share,0.8677780315140443
+3,Sparse Auto,6.513700045467889,"Port St. Lucie, FL",Transit Mode Share,0.3162388919227523
+3,Sparse Auto,5.526886321090759,"Portland-South Portland, ME",Transit Mode Share,0.9282296318658628
+4,Auto Large,4.334763974074535,"Portland-Vancouver-Hillsboro, OR-WA",Transit Mode Share,5.792158505237042
+3,Sparse Auto,4.695465471903193,"Poughkeepsie-Newburgh-Middletown, NY",Transit Mode Share,4.991592481141794
+3,Sparse Auto,8.767307677261687,"Prescott Valley-Prescott, AZ",Transit Mode Share,0.206309441490869
+1,Sparse Active,4.609985854342272,"Provo-Orem, UT",Transit Mode Share,2.1595416483032173
+1,Sparse Active,4.775314008793338,"Pueblo, CO",Transit Mode Share,0.7583351492699935
+3,Sparse Auto,5.845805413879713,"Punta Gorda, FL",Transit Mode Share,0.2480840641542229
+5,Auto Small,4.04664829760416,"Racine, WI",Transit Mode Share,1.0475578406169666
+4,Auto Large,4.754841854510094,"Raleigh-Cary, NC",Transit Mode Share,0.8540135627330154
+1,Sparse Active,6.137004142552739,"Rapid City, SD",Transit Mode Share,0.7149316152368034
+5,Auto Small,4.471790988865926,"Reading, PA",Transit Mode Share,1.449002354690792
+3,Sparse Auto,5.729710311243077,"Redding, CA",Transit Mode Share,0.5674426329338168
+4,Auto Large,4.641729718981716,"Reno, NV",Transit Mode Share,2.08226397016049
+4,Auto Large,5.129832949765807,"Riverside-San Bernardino-Ontario, CA",Transit Mode Share,1.1595278892174872
+3,Sparse Auto,6.14407714575323,"Rochester, MN",Transit Mode Share,3.6547063862187112
+4,Auto Large,4.401336046047008,"Rochester, NY",Transit Mode Share,1.8719627482538244
+5,Auto Small,4.662237057047692,"Rockford, IL",Transit Mode Share,0.8715727218489794
+5,Auto Small,6.895664198851254,"Rocky Mount, NC",Transit Mode Share,0.7042139515306536
+5,Auto Small,6.298004617782156,"Rome, GA",Transit Mode Share,0.4013054514686329
+4,Auto Large,4.426636901442291,"Sacramento-Roseville-Folsom, CA",Transit Mode Share,2.1128000911729
+5,Auto Small,5.199660962124546,"Saginaw, MI",Transit Mode Share,0.4238911477192679
+1,Sparse Active,5.103628899408256,"Salem, OR",Transit Mode Share,1.4426624814210431
+1,Sparse Active,3.708575089595074,"Salinas, CA",Transit Mode Share,1.2818423197244933
+3,Sparse Auto,5.826882766400676,"Salisbury, MD-DE",Transit Mode Share,0.7405772308371502
+1,Sparse Active,4.8671541982546,"Salt Lake City, UT",Transit Mode Share,3.2716963906751766
+3,Sparse Auto,5.545518151345691,"San Angelo, TX",Transit Mode Share,0.2549199551340879
+4,Auto Large,4.7190890952555025,"San Antonio-New Braunfels, TX",Transit Mode Share,1.7342490697217268
+4,Auto Large,4.581765135352589,"San Diego-Chula Vista-Carlsbad, CA",Transit Mode Share,2.637132031477704
+4,Auto Large,3.7701718036018974,"San Francisco-Oakland-Berkeley, CA",Transit Mode Share,16.0066863198365
+4,Auto Large,3.7690953266778178,"San Jose-Sunnyvale-Santa Clara, CA",Transit Mode Share,3.9231568224037714
+1,Sparse Active,4.045880628884985,"San Luis Obispo-Paso Robles, CA",Transit Mode Share,0.9793370641411968
+4,Auto Large,2.7383181298689667,"Santa Cruz-Watsonville, CA",Transit Mode Share,2.2351286082920185
+1,Sparse Active,7.5908238633223695,"Santa Fe, NM",Transit Mode Share,0.9164121077478478
+1,Sparse Active,4.4817820130529125,"Santa Maria-Santa Barbara, CA",Transit Mode Share,2.9444764096662834
+1,Sparse Active,3.9019720501382857,"Santa Rosa-Petaluma, CA",Transit Mode Share,1.582758175836935
+3,Sparse Auto,7.477711917618203,"Savannah, GA",Transit Mode Share,1.7170503585494237
+3,Sparse Auto,4.935904516306623,"Scranton--Wilkes-Barre, PA",Transit Mode Share,0.87899800439499
+4,Auto Large,4.016145491034696,"Seattle-Tacoma-Bellevue, WA",Transit Mode Share,9.107189191760993
+7,Dense Active,6.171416522191772,"Sebastian-Vero Beach, FL",Transit Mode Share,0.4451666412769343
+3,Sparse Auto,4.933259374200938,"Sebring-Avon Park, FL",Transit Mode Share,0.7338740826573967
+5,Auto Small,5.17806469696228,"Sheboygan, WI",Transit Mode Share,0.3901325428464343
+3,Sparse Auto,7.761637473094067,"Sherman-Denison, TX",Transit Mode Share,0.3129002448079636
+3,Sparse Auto,8.378529719544437,"Sierra Vista-Douglas, AZ",Transit Mode Share,0.4991011948820979
+3,Sparse Auto,6.886893822693476,"Sioux City, IA-NE-SD",Transit Mode Share,0.8619619633424817
+3,Sparse Auto,5.799980096371984,"Sioux Falls, SD",Transit Mode Share,0.4464565558070695
+1,Sparse Active,5.467465274251144,"South Bend-Mishawaka, IN-MI",Transit Mode Share,1.1075949367088609
+5,Auto Small,6.276125083266998,"Spartanburg, SC",Transit Mode Share,0.3317167390984862
+3,Sparse Auto,4.426849882297688,"Spokane-Spokane Valley, WA",Transit Mode Share,2.337346159622484
+5,Auto Small,5.824346483841725,"Springfield, IL",Transit Mode Share,1.0399037579267174
+1,Sparse Active,4.235993310915118,"Springfield, MA",Transit Mode Share,2.1241730713104388
+4,Auto Large,6.47887258388941,"Springfield, MO",Transit Mode Share,0.6009124967543306
+5,Auto Small,6.284457485136258,"Springfield, OH",Transit Mode Share,0.6254237288135592
+3,Sparse Auto,7.129655516556662,"St. Cloud, MN",Transit Mode Share,1.4144163866706008
+1,Sparse Active,6.464416155466091,"St. George, UT",Transit Mode Share,0.3192147598155023
+3,Sparse Auto,8.197444662274727,"St. Joseph, MO-KS",Transit Mode Share,0.502638404436097
+4,Auto Large,7.853257951103703,"St. Louis, MO-IL",Transit Mode Share,1.9353679083069737
+1,Sparse Active,5.151074614680243,"State College, PA",Transit Mode Share,5.09511139351098
+4,Auto Large,4.868642128229999,"Stockton, CA",Transit Mode Share,1.628936895778626
+3,Sparse Auto,7.333344775936028,"Sumter, SC",Transit Mode Share,0.2798704499049496
+3,Sparse Auto,4.578972069283096,"Syracuse, NY",Transit Mode Share,2.017155058894195
+3,Sparse Auto,6.067544880918141,"Tallahassee, FL",Transit Mode Share,1.4251977152899824
+4,Auto Large,5.016409330703997,"Tampa-St. Petersburg-Clearwater, FL",Transit Mode Share,1.1471362195014534
+3,Sparse Auto,7.644165070464751,"Terre Haute, IN",Transit Mode Share,0.6451375516661966
+3,Sparse Auto,9.612002934697832,"Texarkana, TX-AR",Transit Mode Share,0.3577334548277142
+7,Dense Active,8.814653934638596,"The Villages, FL",Transit Mode Share,0.1418551501300338
+3,Sparse Auto,5.9118254008047355,"Toledo, OH",Transit Mode Share,1.0737748446115871
+3,Sparse Auto,6.70375305677546,"Topeka, KS",Transit Mode Share,0.8451904852590437
+7,Dense Active,4.336879099474519,"Trenton-Princeton, NJ",Transit Mode Share,6.709951748404029
+4,Auto Large,4.355028155707587,"Tucson, AZ",Transit Mode Share,1.9665457593639992
+4,Auto Large,6.339577637637868,"Tulsa, OK",Transit Mode Share,0.3754848382785932
+3,Sparse Auto,8.70507916553966,"Tuscaloosa, AL",Transit Mode Share,0.6421131359565114
+3,Sparse Auto,6.949742382139691,"Twin Falls, ID",Transit Mode Share,0.2845871523620734
+5,Auto Small,6.2007482816460024,"Tyler, TX",Transit Mode Share,0.5233459053299419
+3,Sparse Auto,5.057418883558467,"Utica-Rome, NY",Transit Mode Share,1.0540952025851356
+3,Sparse Auto,7.439757348021337,"Valdosta, GA",Transit Mode Share,0.3071292170591979
+3,Sparse Auto,9.890181156838809,"Victoria, TX",Transit Mode Share,0.8211393028146954
+5,Auto Small,3.971891953277705,"Vineland-Bridgeton, NJ",Transit Mode Share,1.725720892274211
+3,Sparse Auto,4.488096268716279,"Visalia, CA",Transit Mode Share,0.6256948285205111
+3,Sparse Auto,7.367966041177016,"Waco, TX",Transit Mode Share,0.5901529716626265
+1,Sparse Active,5.234842239487217,"Walla Walla, WA",Transit Mode Share,1.002313030069391
+5,Auto Small,6.169884435593638,"Warner Robins, GA",Transit Mode Share,0.2339071856287425
+3,Sparse Auto,5.630949721169618,"Waterloo-Cedar Falls, IA",Transit Mode Share,0.4190743010564408
+1,Sparse Active,5.841225490215319,"Watertown-Fort Drum, NY",Transit Mode Share,0.5629974762182101
+3,Sparse Auto,7.8403777971121515,"Wausau-Weston, WI",Transit Mode Share,0.3730671880810431
+5,Auto Small,3.753406078646004,"Weirton-Steubenville, WV-OH",Transit Mode Share,0.6597284886402375
+1,Sparse Active,5.54903872345699,"Wenatchee, WA",Transit Mode Share,0.8325456264087835
+5,Auto Small,6.066200395776506,"Wheeling, WV-OH",Transit Mode Share,0.6372211106814398
+3,Sparse Auto,6.799822203000577,"Wichita Falls, TX",Transit Mode Share,0.4234887541782335
+4,Auto Large,5.676112120059677,"Wichita, KS",Transit Mode Share,0.4391324520188984
+5,Auto Small,4.861627230597881,"Williamsport, PA",Transit Mode Share,1.0748553079393155
+5,Auto Small,4.6117208538858465,"Wilmington, NC",Transit Mode Share,0.4070536895947348
+3,Sparse Auto,5.512735457830683,"Winston-Salem, NC",Transit Mode Share,0.5894605632185793
+3,Sparse Auto,4.52818621846808,"Worcester, MA-CT",Transit Mode Share,1.7551290087587037
+3,Sparse Auto,4.88595041494122,"Yakima, WA",Transit Mode Share,0.2578063374184735
+5,Auto Small,4.242958869040292,"York-Hanover, PA",Transit Mode Share,0.7687200495015966
+3,Sparse Auto,5.224639584543608,"Youngstown-Warren-Boardman, OH-PA",Transit Mode Share,0.97214223704455
+5,Auto Small,3.036598816830966,"Yuba City, CA",Transit Mode Share,0.8170119094654852
+3,Sparse Auto,5.533761312024776,"Yuma, AZ",Transit Mode Share,1.7724237524531283
+3,Sparse Auto,8.521780192812306,"Abilene, TX",Car Mode Share,89.87223039091417
+7,Dense Active,5.224953343032942,"Akron, OH",Car Mode Share,89.79236090330416
+3,Sparse Auto,6.560072038030802,"Albany, GA",Car Mode Share,91.4948112895763
+1,Sparse Active,6.8956968499881794,"Albany-Lebanon, OR",Car Mode Share,89.89420182758683
+3,Sparse Auto,4.563193172897371,"Albany-Schenectady-Troy, NY",Car Mode Share,85.45881552076241
+4,Auto Large,7.038307492087349,"Albuquerque, NM",Car Mode Share,88.43383278710583
+3,Sparse Auto,4.661572413217785,"Allentown-Bethlehem-Easton, PA-NJ",Car Mode Share,88.36915297092288
+5,Auto Small,4.693678102809026,"Altoona, PA",Car Mode Share,91.02399275690355
+3,Sparse Auto,9.762586464058558,"Amarillo, TX",Car Mode Share,93.26981977625172
+1,Sparse Active,6.588536340832919,"Ames, IA",Car Mode Share,81.13851814893351
+7,Dense Active,4.402935620842415,"Ann Arbor, MI",Car Mode Share,76.68943089430894
+5,Auto Small,6.64554937950233,"Anniston-Oxford, AL",Car Mode Share,95.02840609094171
+5,Auto Small,5.39452754882885,"Appleton, WI",Car Mode Share,90.69695796766014
+3,Sparse Auto,5.7107441421080205,"Asheville, NC",Car Mode Share,86.88419528703358
+5,Auto Small,5.370655597161981,"Athens-Clarke County, GA",Car Mode Share,84.65899312620849
+4,Auto Large,5.789558925442073,"Atlanta-Sandy Springs-Alpharetta, GA",Car Mode Share,84.11359945648572
+5,Auto Small,4.510060212334464,"Atlantic City-Hammonton, NJ",Car Mode Share,84.91055689756479
+5,Auto Small,6.289928297636136,"Auburn-Opelika, AL",Car Mode Share,91.5077873254565
+4,Auto Large,5.969913473634678,"Augusta-Richmond County, GA-SC",Car Mode Share,91.41923058003532
+4,Auto Large,4.331190339513039,"Austin-Round Rock-Georgetown, TX",Car Mode Share,81.96114362158447
+4,Auto Large,6.556526134153044,"Bakersfield, CA",Car Mode Share,92.34932971691316
+4,Auto Large,5.042565645376257,"Baltimore-Columbia-Towson, MD",Car Mode Share,82.55462821216307
+1,Sparse Active,5.787938338174279,"Bangor, ME",Car Mode Share,88.27618743669086
+1,Sparse Active,6.5569086788700774,"Barnstable Town, MA",Car Mode Share,85.51144567875089
+5,Auto Small,5.718416953304107,"Battle Creek, MI",Car Mode Share,90.48329560266173
+5,Auto Small,5.806592106921938,"Bay City, MI",Car Mode Share,91.23021237625922
+3,Sparse Auto,7.23804529158365,"Beaumont-Port Arthur, TX",Car Mode Share,95.66982740643516
+5,Auto Small,6.354726056662507,"Beckley, WV",Car Mode Share,91.97467884802673
+1,Sparse Active,4.160915236395564,"Bellingham, WA",Car Mode Share,83.82265164515407
+1,Sparse Active,4.244615460866778,"Bend, OR",Car Mode Share,81.52467627921052
+3,Sparse Auto,6.818462426750208,"Billings, MT",Car Mode Share,89.6067727403857
+5,Auto Small,5.625499323594822,"Binghamton, NY",Car Mode Share,88.49638908788167
+4,Auto Large,7.819034591152687,"Birmingham-Hoover, AL",Car Mode Share,92.00419150711132
+1,Sparse Active,8.620673178483822,"Bismarck, ND",Car Mode Share,92.57561061634776
+3,Sparse Auto,5.936537030801337,"Bloomington, IL",Car Mode Share,86.74299806235688
+5,Auto Small,4.999595890399523,"Bloomington, IN",Car Mode Share,82.01959790922683
+5,Auto Small,6.719566195091469,"Bloomsburg-Berwick, PA",Car Mode Share,88.97768472654853
+4,Auto Large,4.910866644404342,"Boise City, ID",Car Mode Share,86.39637326893835
+4,Auto Large,4.016309705704,"Boston-Cambridge-Newton, MA-NH",Car Mode Share,71.34573769868992
+3,Sparse Auto,6.660842572305076,"Bowling Green, KY",Car Mode Share,91.46265216804991
+4,Auto Large,3.773433361377403,"Bremerton-Silverdale-Port Orchard, WA",Car Mode Share,75.81468455289614
+7,Dense Active,4.132225329902902,"Bridgeport-Stamford-Norwalk, CT",Car Mode Share,77.70678185523668
+3,Sparse Auto,4.05226043435715,"Brownsville-Harlingen, TX",Car Mode Share,91.024881881993
+3,Sparse Auto,9.935164751675893,"Brunswick, GA",Car Mode Share,91.56087511036986
+1,Sparse Active,3.65299609243732,"Buffalo-Cheektowaga, NY",Car Mode Share,87.94098231035757
+5,Auto Small,4.82296733211575,"Burlington, NC",Car Mode Share,93.73498380862844
+1,Sparse Active,5.851998579706925,"Burlington-South Burlington, VT",Car Mode Share,80.8836926814455
+5,Auto Small,4.490797852429514,"Canton-Massillon, OH",Car Mode Share,90.22566114188416
+7,Dense Active,5.169660208099404,"Cape Coral-Fort Myers, FL",Car Mode Share,87.66685930290944
+3,Sparse Auto,7.421326825857359,"Cape Girardeau, MO-IL",Car Mode Share,91.81646593564624
+3,Sparse Auto,6.499204605337879,"Carbondale-Marion, IL",Car Mode Share,89.01184649216145
+1,Sparse Active,7.971315774518812,"Casper, WY",Car Mode Share,91.34279502650416
+3,Sparse Auto,5.511328261678552,"Cedar Rapids, IA",Car Mode Share,89.74783467504139
+5,Auto Small,6.027676645697928,"Chambersburg-Waynesboro, PA",Car Mode Share,90.13267907563257
+1,Sparse Active,5.58011971503012,"Champaign-Urbana, IL",Car Mode Share,78.96715509178603
+3,Sparse Auto,6.360166397497082,"Charleston, WV",Car Mode Share,89.91826402844335
+3,Sparse Auto,5.6585131547993575,"Charleston-North Charleston, SC",Car Mode Share,88.52965044015984
+4,Auto Large,5.236051321118476,"Charlotte-Concord-Gastonia, NC-SC",Car Mode Share,86.59660579119048
+3,Sparse Auto,6.714462149284141,"Chattanooga, TN-GA",Car Mode Share,90.3634787633632
+1,Sparse Active,10.416946381906817,"Cheyenne, WY",Car Mode Share,91.8099336269714
+4,Auto Large,3.9342845352152835,"Chicago-Naperville-Elgin, IL-IN-WI",Car Mode Share,76.05675014340066
+3,Sparse Auto,4.819672050556448,"Chico, CA",Car Mode Share,84.99617056621685
+4,Auto Large,5.198681661586621,"Cincinnati, OH-KY-IN",Car Mode Share,88.5624801885999
+3,Sparse Auto,5.8835001531734035,"Clarksville, TN-KY",Car Mode Share,91.9548595847716
+5,Auto Small,6.450301817295837,"Cleveland, TN",Car Mode Share,93.66150541483934
+4,Auto Large,5.239030933228603,"Cleveland-Elyria, OH",Car Mode Share,87.1814439570512
+3,Sparse Auto,6.620857090863089,"Coeur d'Alene, ID",Car Mode Share,88.75127179000204
+3,Sparse Auto,5.735068116774824,"College Station-Bryan, TX",Car Mode Share,88.76137550043981
+3,Sparse Auto,4.0650330202961555,"Colorado Springs, CO",Car Mode Share,85.38501589389456
+3,Sparse Auto,6.9474179207980296,"Columbia, MO",Car Mode Share,87.73718197938496
+4,Auto Large,6.189623940247864,"Columbia, SC",Car Mode Share,87.94551208227766
+3,Sparse Auto,6.038034603580465,"Columbus, GA-AL",Car Mode Share,88.93882464524131
+5,Auto Small,8.092349363775686,"Columbus, IN",Car Mode Share,91.36927360161984
+4,Auto Large,5.018529835475418,"Columbus, OH",Car Mode Share,87.11717665341787
+3,Sparse Auto,6.196104052943694,"Corpus Christi, TX",Car Mode Share,92.37627593708166
+1,Sparse Active,3.2568044344773206,"Corvallis, OR",Car Mode Share,71.90281017187111
+3,Sparse Auto,7.720934569786481,"Crestview-Fort Walton Beach-Destin, FL",Car Mode Share,88.91776723382392
+5,Auto Small,4.833162484605701,"Cumberland, MD-WV",Car Mode Share,91.01944915807336
+4,Auto Large,4.665452039086198,"Dallas-Fort Worth-Arlington, TX",Car Mode Share,87.88439739541002
+5,Auto Small,6.713757328033229,"Dalton, GA",Car Mode Share,95.70402766792289
+5,Auto Small,5.729877881090719,"Danville, IL",Car Mode Share,90.62791670689712
+3,Sparse Auto,9.654314156515747,"Daphne-Fairhope-Foley, AL",Car Mode Share,90.96067890172816
+1,Sparse Active,5.574919113799141,"Davenport-Moline-Rock Island, IA-IL",Car Mode Share,91.58710584611607
+3,Sparse Auto,4.942568688982381,"Dayton-Kettering, OH",Car Mode Share,89.60377509825415
+5,Auto Small,7.73070300442992,"Decatur, AL",Car Mode Share,95.98823382150456
+5,Auto Small,5.6670187986381215,"Decatur, IL",Car Mode Share,92.20613475333364
+3,Sparse Auto,6.111431445666809,"Deltona-Daytona Beach-Ormond Beach, FL",Car Mode Share,87.66515344107499
+4,Auto Large,5.387551266032284,"Des Moines-West Des Moines, IA",Car Mode Share,89.07057085411506
+4,Auto Large,3.9872664188339844,"Detroit-Warren-Dearborn, MI",Car Mode Share,89.85234541309566
+3,Sparse Auto,6.873509854278803,"Dothan, AL",Car Mode Share,95.04931127231234
+4,Auto Large,4.830602945612652,"Dover, DE",Car Mode Share,90.70883966218484
+5,Auto Small,5.22075903239457,"Dubuque, IA",Car Mode Share,88.91383215409593
+4,Auto Large,7.701986078209474,"Duluth, MN-WI",Car Mode Share,87.81298071020532
+3,Sparse Auto,5.353667753997634,"Durham-Chapel Hill, NC",Car Mode Share,82.01361958792512
+5,Auto Small,4.830968100529345,"East Stroudsburg, PA",Car Mode Share,88.08545290293029
+3,Sparse Auto,7.743743487337159,"Eau Claire, WI",Car Mode Share,88.02483669182651
+3,Sparse Auto,9.039659053730142,"El Centro, CA",Car Mode Share,88.53406274040516
+4,Auto Large,5.349598826800237,"El Paso, TX",Car Mode Share,90.58021412338108
+5,Auto Small,6.794204161989231,"Elizabethtown-Fort Knox, KY",Car Mode Share,92.39718147828587
+5,Auto Small,6.952711291250893,"Elkhart-Goshen, IN",Car Mode Share,91.69887570592198
+5,Auto Small,5.104260393181227,"Elmira, NY",Car Mode Share,90.21523725641308
+3,Sparse Auto,5.5737281201315065,"Enid, OK",Car Mode Share,92.40115025161754
+1,Sparse Active,4.307969648379507,"Erie, PA",Car Mode Share,89.24749393140267
+1,Sparse Active,5.026956204611711,"Eugene-Springfield, OR",Car Mode Share,79.90935860863163
+3,Sparse Auto,7.118906492100415,"Evansville, IN-KY",Car Mode Share,92.52729023972604
+3,Sparse Auto,8.012731670845499,"Fargo, ND-MN",Car Mode Share,89.48411114578269
+3,Sparse Auto,6.32440637612793,"Farmington, NM",Car Mode Share,93.67045575268246
+3,Sparse Auto,4.329363490882602,"Fayetteville, NC",Car Mode Share,89.85227589459917
+3,Sparse Auto,4.9190378947445055,"Fayetteville-Springdale-Rogers, AR",Car Mode Share,90.8256807633314
+1,Sparse Active,13.056576781339958,"Flagstaff, AZ",Car Mode Share,80.57761508872069
+7,Dense Active,4.3771015421960335,"Flint, MI",Car Mode Share,92.1437463887681
+3,Sparse Auto,6.729650647115809,"Florence, SC",Car Mode Share,93.49563449900678
+5,Auto Small,6.6107105895565885,"Florence-Muscle Shoals, AL",Car Mode Share,94.20548739403624
+5,Auto Small,7.478514979823569,"Fond du Lac, WI",Car Mode Share,91.20592986790838
+1,Sparse Active,4.605955170213604,"Fort Collins, CO",Car Mode Share,80.34269890437048
+3,Sparse Auto,7.438802066656409,"Fort Smith, AR-OK",Car Mode Share,93.53904769090036
+5,Auto Small,6.581911696270895,"Fort Wayne, IN",Car Mode Share,91.88715834788611
+4,Auto Large,5.298647007777657,"Fresno, CA",Car Mode Share,90.2451373040942
+5,Auto Small,6.461529321035506,"Gadsden, AL",Car Mode Share,95.58924715875388
+3,Sparse Auto,6.87983051948396,"Gainesville, FL",Car Mode Share,84.95137034817196
+5,Auto Small,6.14147007866239,"Gainesville, GA",Car Mode Share,91.24492213947192
+5,Auto Small,5.038324654644315,"Gettysburg, PA",Car Mode Share,89.48922409464318
+1,Sparse Active,5.52198665067417,"Glens Falls, NY",Car Mode Share,90.07515473032714
+5,Auto Small,4.606188837792648,"Goldsboro, NC",Car Mode Share,94.59691252144084
+1,Sparse Active,9.883473253442334,"Grand Forks, ND-MN",Car Mode Share,89.1297074240678
+3,Sparse Auto,10.690637098922567,"Grand Island, NE",Car Mode Share,94.35102816566798
+1,Sparse Active,4.721965840989233,"Grand Junction, CO",Car Mode Share,85.26878484314315
+3,Sparse Auto,4.612096790793935,"Grand Rapids-Kentwood, MI",Car Mode Share,89.06422238872958
+1,Sparse Active,5.54995413979656,"Grants Pass, OR",Car Mode Share,86.09265354281811
+1,Sparse Active,5.6130099461611715,"Great Falls, MT",Car Mode Share,90.52822371828069
+3,Sparse Auto,5.531836783748051,"Green Bay, WI",Car Mode Share,90.48052574460388
+3,Sparse Auto,5.332766818962245,"Greensboro-High Point, NC",Car Mode Share,90.439667187566
+5,Auto Small,4.123972683795411,"Greenville, NC",Car Mode Share,89.66552982708072
+4,Auto Large,5.309442740547294,"Greenville-Anderson, SC",Car Mode Share,90.75117769784852
+3,Sparse Auto,7.515494463286443,"Gulfport-Biloxi, MS",Car Mode Share,92.43211509022971
+5,Auto Small,6.174254098149316,"Hagerstown-Martinsburg, MD-WV",Car Mode Share,90.19530051126964
+1,Sparse Active,6.347121697586409,"Hanford-Corcoran, CA",Car Mode Share,91.09794908062234
+3,Sparse Auto,5.9673538352136575,"Harrisburg-Carlisle, PA",Car Mode Share,86.15246523565423
+3,Sparse Auto,4.563979142380444,"Hartford-East Hartford-Middletown, CT",Car Mode Share,86.33556240886145
+3,Sparse Auto,7.471478610192212,"Hattiesburg, MS",Car Mode Share,91.13718808398372
+3,Sparse Auto,5.499577472573777,"Hickory-Lenoir-Morganton, NC",Car Mode Share,92.77915814983903
+3,Sparse Auto,7.198667567428218,"Hilton Head Island-Bluffton, SC",Car Mode Share,88.56905071521456
+3,Sparse Auto,7.0264810438690395,"Hinesville, GA",Car Mode Share,91.35101719680792
+7,Dense Active,5.091160691255167,"Homosassa Springs, FL",Car Mode Share,88.97163273212517
+5,Auto Small,4.9175546671767725,"Hot Springs, AR",Car Mode Share,92.13225473148356
+4,Auto Large,4.7749743707774535,"Houston-The Woodlands-Sugar Land, TX",Car Mode Share,88.51657545948704
+3,Sparse Auto,5.066502888486467,"Huntington-Ashland, WV-KY-OH",Car Mode Share,92.93878714458776
+3,Sparse Auto,6.69200761875749,"Huntsville, AL",Car Mode Share,92.13902947976618
+3,Sparse Auto,6.766059974417556,"Idaho Falls, ID",Car Mode Share,87.76016229619054
+4,Auto Large,6.627093410123633,"Indianapolis-Carmel-Anderson, IN",Car Mode Share,89.05201881948692
+1,Sparse Active,6.319585647538596,"Iowa City, IA",Car Mode Share,78.5931567138419
+7,Dense Active,3.2474157477929055,"Ithaca, NY",Car Mode Share,67.37421383647799
+7,Dense Active,4.878016116062459,"Jackson, MI",Car Mode Share,92.12076799061995
+4,Auto Large,7.494294727899515,"Jackson, MS",Car Mode Share,94.17537110407774
+3,Sparse Auto,7.041224184684516,"Jackson, TN",Car Mode Share,91.98560463201508
+4,Auto Large,6.390870313467058,"Jacksonville, FL",Car Mode Share,87.00678621037663
+5,Auto Small,4.153461734572535,"Jacksonville, NC",Car Mode Share,85.02515130079384
+5,Auto Small,6.469200722778697,"Janesville-Beloit, WI",Car Mode Share,92.13530225884683
+3,Sparse Auto,8.44693409277478,"Jefferson City, MO",Car Mode Share,92.5363360712913
+5,Auto Small,5.12198168669729,"Johnson City, TN",Car Mode Share,91.66900830626398
+5,Auto Small,4.315615616611618,"Johnstown, PA",Car Mode Share,89.9290246263039
+3,Sparse Auto,7.036088029071533,"Jonesboro, AR",Car Mode Share,94.20270338512296
+3,Sparse Auto,7.928398184582309,"Joplin, MO",Car Mode Share,92.14600813078452
+5,Auto Small,5.1773541212677,"Kankakee, IL",Car Mode Share,89.65434228739944
+4,Auto Large,6.0564024793265885,"Kansas City, MO-KS",Car Mode Share,89.03912707587752
+1,Sparse Active,5.417903540258031,"Kennewick-Richland, WA",Car Mode Share,91.17458880808964
+3,Sparse Auto,5.575046300408085,"Killeen-Temple, TX",Car Mode Share,90.06353087359962
+5,Auto Small,5.232441587578223,"Kingston, NY",Car Mode Share,82.84154706185134
+4,Auto Large,7.154161862868689,"Knoxville, TN",Car Mode Share,90.44997714704743
+5,Auto Small,5.409910377213027,"Kokomo, IN",Car Mode Share,92.51642935377876
+5,Auto Small,5.80417549986919,"La Crosse-Onalaska, WI-MN",Car Mode Share,87.62239729881823
+3,Sparse Auto,6.9527252652987945,"Lafayette-West Lafayette, IN",Car Mode Share,86.2807514674223
+3,Sparse Auto,8.851246763495178,"Lake Havasu City-Kingman, AZ",Car Mode Share,90.05116074375618
+3,Sparse Auto,5.759052890469897,"Lakeland-Winter Haven, FL",Car Mode Share,91.97434035674164
+5,Auto Small,4.618823856636247,"Lancaster, PA",Car Mode Share,87.16036525264548
+3,Sparse Auto,4.772400254048819,"Lansing-East Lansing, MI",Car Mode Share,86.44444107087284
+3,Sparse Auto,5.088235082185966,"Laredo, TX",Car Mode Share,91.6861529537586
+4,Auto Large,4.872242041270587,"Las Vegas-Henderson-Paradise, NV",Car Mode Share,87.5724875759921
+5,Auto Small,4.859687588199185,"Lawrence, KS",Car Mode Share,84.10732406136215
+3,Sparse Auto,5.067774285188241,"Lawton, OK",Car Mode Share,84.43935126056301
+5,Auto Small,5.265368068147336,"Lebanon, PA",Car Mode Share,89.55870408807868
+1,Sparse Active,5.748910398365674,"Lewiston, ID-WA",Car Mode Share,88.62305207482872
+5,Auto Small,4.3994666308089565,"Lewiston-Auburn, ME",Car Mode Share,88.50876034928238
+1,Sparse Active,6.179770309039858,"Lexington-Fayette, KY",Car Mode Share,87.7034435832662
+5,Auto Small,6.237848058151753,"Lima, OH",Car Mode Share,92.25702983000107
+3,Sparse Auto,5.953505990401925,"Lincoln, NE",Car Mode Share,89.02712773718532
+4,Auto Large,6.641361536174808,"Little Rock-North Little Rock-Conway, AR",Car Mode Share,92.29520154217538
+1,Sparse Active,4.760631507499267,"Logan, UT-ID",Car Mode Share,85.32339800293862
+3,Sparse Auto,7.516795211759245,"Longview, TX",Car Mode Share,93.8511995241557
+5,Auto Small,7.547837891460836,"Longview, WA",Car Mode Share,92.00317784587448
+6,Heavyweight Eco-Transit,4.052668537615863,"Los Angeles-Long Beach-Anaheim, CA",Car Mode Share,82.6203695290593
+4,Auto Large,6.06952489168617,"Louisville/Jefferson County, KY-IN",Car Mode Share,88.78764008736438
+3,Sparse Auto,5.466046556887146,"Lubbock, TX",Car Mode Share,91.89386435906792
+3,Sparse Auto,9.410538545450617,"Macon-Bibb County, GA",Car Mode Share,91.885056980665
+1,Sparse Active,6.982162693562118,"Madera, CA",Car Mode Share,88.65862514834298
+4,Auto Large,5.733491610720816,"Madison, WI",Car Mode Share,80.13468745498868
+5,Auto Small,4.020706867580701,"Manchester-Nashua, NH",Car Mode Share,87.75410302965574
+3,Sparse Auto,5.39096925929131,"Manhattan, KS",Car Mode Share,85.06455524645125
+1,Sparse Active,6.559275842872304,"Mankato, MN",Car Mode Share,85.76513098464318
+5,Auto Small,5.860390502849895,"Mansfield, OH",Car Mode Share,93.7601585728444
+3,Sparse Auto,3.6532902397690146,"McAllen-Edinburg-Mission, TX",Car Mode Share,88.42141099642531
+1,Sparse Active,4.996720404986703,"Medford, OR",Car Mode Share,85.55521027553345
+4,Auto Large,6.340096563936063,"Memphis, TN-MS-AR",Car Mode Share,93.1961633916797
+3,Sparse Auto,6.835252035406728,"Merced, CA",Car Mode Share,88.26671865860791
+4,Auto Large,4.792419639857512,"Miami-Fort Lauderdale-Pompano Beach, FL",Car Mode Share,85.87409258191694
+1,Sparse Active,5.309768590058087,"Midland, MI",Car Mode Share,91.76542326148626
+3,Sparse Auto,8.34117814763209,"Midland, TX",Car Mode Share,93.19598776083004
+4,Auto Large,5.017084947461276,"Minneapolis-St. Paul-Bloomington, MN-WI",Car Mode Share,82.80706789921246
+1,Sparse Active,5.978612627735451,"Missoula, MT",Car Mode Share,81.90399926082202
+3,Sparse Auto,7.43271774967463,"Mobile, AL",Car Mode Share,92.61653756885994
+5,Auto Small,4.023324539527527,"Modesto, CA",Car Mode Share,90.9270922264785
+5,Auto Small,5.690672745077784,"Monroe, MI",Car Mode Share,92.56544350924972
+3,Sparse Auto,7.857778654373011,"Montgomery, AL",Car Mode Share,92.83702932350748
+5,Auto Small,4.798734014289785,"Morgantown, WV",Car Mode Share,84.88559706194201
+1,Sparse Active,8.018325790104306,"Morristown, TN",Car Mode Share,93.37663648907886
+1,Sparse Active,6.643112041653492,"Mount Vernon-Anacortes, WA",Car Mode Share,87.33707410599638
+5,Auto Small,6.913773708485843,"Muncie, IN",Car Mode Share,87.52449886480508
+5,Auto Small,4.104826339346003,"Muskegon, MI",Car Mode Share,94.56975661657135
+3,Sparse Auto,5.498726662778029,"Myrtle Beach-Conway-North Myrtle Beach, SC-NC",Car Mode Share,89.9771530744015
+1,Sparse Active,4.176548089478618,"Napa, CA",Car Mode Share,85.3992219474453
+3,Sparse Auto,5.849616425108023,"Naples-Marco Island, FL",Car Mode Share,86.08032974229253
+4,Auto Large,7.3189682700795915,"Nashville-Davidson--Murfreesboro--Franklin, TN",Car Mode Share,87.80286230964987
+5,Auto Small,5.637274012279934,"New Bern, NC",Car Mode Share,91.82554725536106
+7,Dense Active,4.244874329395097,"New Haven-Milford, CT",Car Mode Share,85.1582953611358
+2,Heavyweight Transit,2.8499220122782414,"New York-Newark-Jersey City, NY-NJ-PA",Car Mode Share,54.741959048691335
+5,Auto Small,6.483841676444908,"Niles, MI",Car Mode Share,90.22364400579552
+3,Sparse Auto,5.6768462885212,"North Port-Sarasota-Bradenton, FL",Car Mode Share,87.43003291335611
+5,Auto Small,5.107018834692801,"Norwich-New London, CT",Car Mode Share,87.31926979478614
+3,Sparse Auto,6.652215055271797,"Ocala, FL",Car Mode Share,90.39746530521438
+1,Sparse Active,7.085187495037601,"Ocean City, NJ",Car Mode Share,87.03556167161585
+5,Auto Small,6.1534497779287936,"Odessa, TX",Car Mode Share,93.94465530700693
+1,Sparse Active,5.1272945195555195,"Ogden-Clearfield, UT",Car Mode Share,87.95881149501189
+4,Auto Large,6.8054690807539755,"Oklahoma City, OK",Car Mode Share,91.23942692037068
+5,Auto Small,4.487710977365074,"Olympia-Lacey-Tumwater, WA",Car Mode Share,86.33962662803157
+4,Auto Large,5.787172591210157,"Omaha-Council Bluffs, NE-IA",Car Mode Share,89.9298863903665
+4,Auto Large,5.897086156772827,"Orlando-Kissimmee-Sanford, FL",Car Mode Share,87.52123303881032
+5,Auto Small,6.881687344925628,"Oshkosh-Neenah, WI",Car Mode Share,89.97892470162418
+5,Auto Small,5.00580710216788,"Owensboro, KY",Car Mode Share,93.74092443472192
+1,Sparse Active,3.7858414642226905,"Oxnard-Thousand Oaks-Ventura, CA",Car Mode Share,87.89777240032957
+3,Sparse Auto,6.256612125306231,"Palm Bay-Melbourne-Titusville, FL",Car Mode Share,88.78172884581772
+3,Sparse Auto,6.375523767086635,"Panama City, FL",Car Mode Share,91.4581351094196
+5,Auto Small,4.542870734497769,"Parkersburg-Vienna, WV",Car Mode Share,92.04738188181452
+3,Sparse Auto,5.986106088772011,"Pensacola-Ferry Pass-Brent, FL",Car Mode Share,86.0646670824248
+3,Sparse Auto,5.935310596421382,"Peoria, IL",Car Mode Share,91.2202859646593
+4,Auto Large,3.6057238570274834,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",Car Mode Share,77.92132104605362
+4,Auto Large,5.035403239554386,"Phoenix-Mesa-Chandler, AZ",Car Mode Share,84.71853499231457
+3,Sparse Auto,7.925242608654885,"Pine Bluff, AR",Car Mode Share,94.6560216334546
+4,Auto Large,4.221033439981065,"Pittsburgh, PA",Car Mode Share,82.80695233372471
+5,Auto Small,4.212509812490091,"Pittsfield, MA",Car Mode Share,84.81167654405643
+1,Sparse Active,7.800445152024431,"Pocatello, ID",Car Mode Share,87.64050645758799
+3,Sparse Auto,6.513700045467889,"Port St. Lucie, FL",Car Mode Share,89.19922553740753
+3,Sparse Auto,5.526886321090759,"Portland-South Portland, ME",Car Mode Share,84.47097851018277
+4,Auto Large,4.334763974074535,"Portland-Vancouver-Hillsboro, OR-WA",Car Mode Share,77.41357922064634
+3,Sparse Auto,4.695465471903193,"Poughkeepsie-Newburgh-Middletown, NY",Car Mode Share,82.59909756166297
+3,Sparse Auto,8.767307677261687,"Prescott Valley-Prescott, AZ",Car Mode Share,86.37677545144359
+1,Sparse Active,4.609985854342272,"Provo-Orem, UT",Car Mode Share,82.25492909146193
+1,Sparse Active,4.775314008793338,"Pueblo, CO",Car Mode Share,92.70865112224884
+3,Sparse Auto,5.845805413879713,"Punta Gorda, FL",Car Mode Share,85.98404045192383
+5,Auto Small,4.04664829760416,"Racine, WI",Car Mode Share,91.19965724078834
+4,Auto Large,4.754841854510094,"Raleigh-Cary, NC",Car Mode Share,84.66817745937415
+1,Sparse Active,6.137004142552739,"Rapid City, SD",Car Mode Share,88.89736633887193
+5,Auto Small,4.471790988865926,"Reading, PA",Car Mode Share,87.24302887594497
+3,Sparse Auto,5.729710311243077,"Redding, CA",Car Mode Share,89.55490353475241
+4,Auto Large,4.641729718981716,"Reno, NV",Car Mode Share,86.90714505697566
+4,Auto Large,5.129832949765807,"Riverside-San Bernardino-Ontario, CA",Car Mode Share,89.62304660147787
+3,Sparse Auto,6.14407714575323,"Rochester, MN",Car Mode Share,83.75022712131306
+4,Auto Large,4.401336046047008,"Rochester, NY",Car Mode Share,87.05954966639061
+5,Auto Small,4.662237057047692,"Rockford, IL",Car Mode Share,91.90293377603696
+5,Auto Small,6.895664198851254,"Rocky Mount, NC",Car Mode Share,92.34916060934742
+5,Auto Small,6.298004617782156,"Rome, GA",Car Mode Share,90.98996736371328
+4,Auto Large,4.426636901442291,"Sacramento-Roseville-Folsom, CA",Car Mode Share,83.76792729526362
+5,Auto Small,5.199660962124546,"Saginaw, MI",Car Mode Share,92.10178330882262
+1,Sparse Active,5.103628899408256,"Salem, OR",Car Mode Share,86.7468376796832
+1,Sparse Active,3.708575089595074,"Salinas, CA",Car Mode Share,82.37755987276216
+3,Sparse Auto,5.826882766400676,"Salisbury, MD-DE",Car Mode Share,89.44539484575907
+1,Sparse Active,4.8671541982546,"Salt Lake City, UT",Car Mode Share,83.95784449551937
+3,Sparse Auto,5.545518151345691,"San Angelo, TX",Car Mode Share,88.29407566024268
+4,Auto Large,4.7190890952555025,"San Antonio-New Braunfels, TX",Car Mode Share,88.16787772401688
+4,Auto Large,4.581765135352589,"San Diego-Chula Vista-Carlsbad, CA",Car Mode Share,82.52091610547791
+4,Auto Large,3.7701718036018974,"San Francisco-Oakland-Berkeley, CA",Car Mode Share,64.64920264003302
+4,Auto Large,3.7690953266778178,"San Jose-Sunnyvale-Santa Clara, CA",Car Mode Share,81.47034736232347
+1,Sparse Active,4.045880628884985,"San Luis Obispo-Paso Robles, CA",Car Mode Share,82.77012483857081
+4,Auto Large,2.7383181298689667,"Santa Cruz-Watsonville, CA",Car Mode Share,76.7068152238514
+1,Sparse Active,7.5908238633223695,"Santa Fe, NM",Car Mode Share,85.98050249199784
+1,Sparse Active,4.4817820130529125,"Santa Maria-Santa Barbara, CA",Car Mode Share,81.20492903720752
+1,Sparse Active,3.9019720501382857,"Santa Rosa-Petaluma, CA",Car Mode Share,84.65619557504999
+3,Sparse Auto,7.477711917618203,"Savannah, GA",Car Mode Share,88.24248824141071
+3,Sparse Auto,4.935904516306623,"Scranton--Wilkes-Barre, PA",Car Mode Share,89.69778619848893
+4,Auto Large,4.016145491034696,"Seattle-Tacoma-Bellevue, WA",Car Mode Share,74.66279434219452
+7,Dense Active,6.171416522191772,"Sebastian-Vero Beach, FL",Car Mode Share,88.01266101321959
+3,Sparse Auto,4.933259374200938,"Sebring-Avon Park, FL",Car Mode Share,89.70199364173872
+5,Auto Small,5.17806469696228,"Sheboygan, WI",Car Mode Share,90.863402500937
+3,Sparse Auto,7.761637473094067,"Sherman-Denison, TX",Car Mode Share,90.41844328075096
+3,Sparse Auto,8.378529719544437,"Sierra Vista-Douglas, AZ",Car Mode Share,87.71280532938565
+3,Sparse Auto,6.886893822693476,"Sioux City, IA-NE-SD",Car Mode Share,91.96789364078944
+3,Sparse Auto,5.799980096371984,"Sioux Falls, SD",Car Mode Share,90.9427128678391
+1,Sparse Active,5.467465274251144,"South Bend-Mishawaka, IN-MI",Car Mode Share,88.38089033081587
+5,Auto Small,6.276125083266998,"Spartanburg, SC",Car Mode Share,93.27328840461044
+3,Sparse Auto,4.426849882297688,"Spokane-Spokane Valley, WA",Car Mode Share,85.57042470615204
+5,Auto Small,5.824346483841725,"Springfield, IL",Car Mode Share,89.35729869706176
+1,Sparse Active,4.235993310915118,"Springfield, MA",Car Mode Share,85.28492557641793
+4,Auto Large,6.47887258388941,"Springfield, MO",Car Mode Share,91.0419525946808
+5,Auto Small,6.284457485136258,"Springfield, OH",Car Mode Share,90.92372881355932
+3,Sparse Auto,7.129655516556662,"St. Cloud, MN",Car Mode Share,87.31974757521822
+1,Sparse Active,6.464416155466091,"St. George, UT",Car Mode Share,86.79688378895264
+3,Sparse Auto,8.197444662274727,"St. Joseph, MO-KS",Car Mode Share,92.494410160093
+4,Auto Large,7.853257951103703,"St. Louis, MO-IL",Car Mode Share,88.27308964439933
+1,Sparse Active,5.151074614680243,"State College, PA",Car Mode Share,77.08192684960883
+4,Auto Large,4.868642128229999,"Stockton, CA",Car Mode Share,90.77369621595942
+3,Sparse Auto,7.333344775936028,"Sumter, SC",Car Mode Share,93.54889812011548
+3,Sparse Auto,4.578972069283096,"Syracuse, NY",Car Mode Share,86.71555539420662
+3,Sparse Auto,6.067544880918141,"Tallahassee, FL",Car Mode Share,88.43365553602813
+4,Auto Large,5.016409330703997,"Tampa-St. Petersburg-Clearwater, FL",Car Mode Share,85.60264907953845
+3,Sparse Auto,7.644165070464751,"Terre Haute, IN",Car Mode Share,91.1054419682828
+3,Sparse Auto,9.612002934697832,"Texarkana, TX-AR",Car Mode Share,95.22122101852788
+7,Dense Active,8.814653934638596,"The Villages, FL",Car Mode Share,78.57987233036489
+3,Sparse Auto,5.9118254008047355,"Toledo, OH",Car Mode Share,91.16532124738237
+3,Sparse Auto,6.70375305677546,"Topeka, KS",Car Mode Share,91.1291273317554
+7,Dense Active,4.336879099474519,"Trenton-Princeton, NJ",Car Mode Share,79.10453748381107
+4,Auto Large,4.355028155707587,"Tucson, AZ",Car Mode Share,85.06597882524474
+4,Auto Large,6.339577637637868,"Tulsa, OK",Car Mode Share,91.39361806151608
+3,Sparse Auto,8.70507916553966,"Tuscaloosa, AL",Car Mode Share,93.15565770991807
+3,Sparse Auto,6.949742382139691,"Twin Falls, ID",Car Mode Share,91.79407666189084
+5,Auto Small,6.2007482816460024,"Tyler, TX",Car Mode Share,91.4296016918594
+3,Sparse Auto,5.057418883558467,"Utica-Rome, NY",Car Mode Share,88.59759507829978
+3,Sparse Auto,7.439757348021337,"Valdosta, GA",Car Mode Share,92.0337364735837
+3,Sparse Auto,9.890181156838809,"Victoria, TX",Car Mode Share,91.09052669262093
+5,Auto Small,3.971891953277705,"Vineland-Bridgeton, NJ",Car Mode Share,91.99367519042436
+3,Sparse Auto,4.488096268716279,"Visalia, CA",Car Mode Share,92.187194484947
+3,Sparse Auto,7.367966041177016,"Waco, TX",Car Mode Share,91.86909638050656
+1,Sparse Active,5.234842239487217,"Walla Walla, WA",Car Mode Share,81.5420200462606
+5,Auto Small,6.169884435593638,"Warner Robins, GA",Car Mode Share,93.98624625748504
+3,Sparse Auto,5.630949721169618,"Waterloo-Cedar Falls, IA",Car Mode Share,88.53557462207436
+1,Sparse Active,5.841225490215319,"Watertown-Fort Drum, NY",Car Mode Share,86.03377984857309
+3,Sparse Auto,7.8403777971121515,"Wausau-Weston, WI",Car Mode Share,89.562515744395
+5,Auto Small,3.753406078646004,"Weirton-Steubenville, WV-OH",Car Mode Share,89.36012352363191
+1,Sparse Active,5.54903872345699,"Wenatchee, WA",Car Mode Share,86.48476695993601
+5,Auto Small,6.066200395776506,"Wheeling, WV-OH",Car Mode Share,92.940128116751
+3,Sparse Auto,6.799822203000577,"Wichita Falls, TX",Car Mode Share,85.8138349102034
+4,Auto Large,5.676112120059677,"Wichita, KS",Car Mode Share,91.94531755418907
+5,Auto Small,4.861627230597881,"Williamsport, PA",Car Mode Share,90.1474801469033
+5,Auto Small,4.6117208538858465,"Wilmington, NC",Car Mode Share,87.28475873663125
+3,Sparse Auto,5.512735457830683,"Winston-Salem, NC",Car Mode Share,91.13906611339816
+3,Sparse Auto,4.52818621846808,"Worcester, MA-CT",Car Mode Share,85.95070899757738
+3,Sparse Auto,4.88595041494122,"Yakima, WA",Car Mode Share,92.85549377609328
+5,Auto Small,4.242958869040292,"York-Hanover, PA",Car Mode Share,91.06035491199464
+3,Sparse Auto,5.224639584543608,"Youngstown-Warren-Boardman, OH-PA",Car Mode Share,91.12694578867296
+5,Auto Small,3.036598816830966,"Yuba City, CA",Car Mode Share,90.79556358299938
+3,Sparse Auto,5.533761312024776,"Yuma, AZ",Car Mode Share,91.23785778644516
+3,Sparse Auto,8.521780192812306,"Abilene, TX",Street Length Total (km),8925.43612
+7,Dense Active,5.224953343032942,"Akron, OH",Street Length Total (km),8039.294972000027
+3,Sparse Auto,6.560072038030802,"Albany, GA",Street Length Total (km),4989.592978999986
+1,Sparse Active,6.8956968499881794,"Albany-Lebanon, OR",Street Length Total (km),4225.43890999999
+3,Sparse Auto,4.563193172897371,"Albany-Schenectady-Troy, NY",Street Length Total (km),14555.424690999978
+4,Auto Large,7.038307492087349,"Albuquerque, NM",Street Length Total (km),22270.600903999777
+3,Sparse Auto,4.661572413217785,"Allentown-Bethlehem-Easton, PA-NJ",Street Length Total (km),11406.213688999993
+5,Auto Small,4.693678102809026,"Altoona, PA",Street Length Total (km),2403.920069999997
+3,Sparse Auto,9.762586464058558,"Amarillo, TX",Street Length Total (km),10954.097934000052
+1,Sparse Active,6.588536340832919,"Ames, IA",Street Length Total (km),4522.072175000005
+7,Dense Active,4.402935620842415,"Ann Arbor, MI",Street Length Total (km),4447.092615000017
+5,Auto Small,6.64554937950233,"Anniston-Oxford, AL",Street Length Total (km),3334.313133000012
+5,Auto Small,5.39452754882885,"Appleton, WI",Street Length Total (km),4909.793807000009
+3,Sparse Auto,5.7107441421080205,"Asheville, NC",Street Length Total (km),11965.018655000024
+5,Auto Small,5.370655597161981,"Athens-Clarke County, GA",Street Length Total (km),4873.670081000014
+4,Auto Large,5.789558925442073,"Atlanta-Sandy Springs-Alpharetta, GA",Street Length Total (km),68248.98479499905
+5,Auto Small,4.510060212334464,"Atlantic City-Hammonton, NJ",Street Length Total (km),3732.094506999977
+5,Auto Small,6.289928297636136,"Auburn-Opelika, AL",Street Length Total (km),3006.1225040000027
+4,Auto Large,5.969913473634678,"Augusta-Richmond County, GA-SC",Street Length Total (km),15798.563057000028
+4,Auto Large,4.331190339513039,"Austin-Round Rock-Georgetown, TX",Street Length Total (km),25931.301052000323
+4,Auto Large,6.556526134153044,"Bakersfield, CA",Street Length Total (km),18978.06701999985
+4,Auto Large,5.042565645376257,"Baltimore-Columbia-Towson, MD",Street Length Total (km),23469.613137000128
+1,Sparse Active,5.787938338174279,"Bangor, ME",Street Length Total (km),6016.3683480000045
+1,Sparse Active,6.5569086788700774,"Barnstable Town, MA",Street Length Total (km),4922.310030000028
+5,Auto Small,5.718416953304107,"Battle Creek, MI",Street Length Total (km),3439.490942000014
+5,Auto Small,5.806592106921938,"Bay City, MI",Street Length Total (km),2461.823955000008
+3,Sparse Auto,7.23804529158365,"Beaumont-Port Arthur, TX",Street Length Total (km),10114.921832000004
+5,Auto Small,6.354726056662507,"Beckley, WV",Street Length Total (km),4548.089799000002
+1,Sparse Active,4.160915236395564,"Bellingham, WA",Street Length Total (km),3262.893231999994
+1,Sparse Active,4.244615460866778,"Bend, OR",Street Length Total (km),4949.627793999989
+3,Sparse Auto,6.818462426750208,"Billings, MT",Street Length Total (km),8766.506810000035
+5,Auto Small,5.625499323594822,"Binghamton, NY",Street Length Total (km),5483.928640000017
+4,Auto Large,7.819034591152687,"Birmingham-Hoover, AL",Street Length Total (km),24575.308492000226
+1,Sparse Active,8.620673178483822,"Bismarck, ND",Street Length Total (km),6520.616621000009
+3,Sparse Auto,5.936537030801337,"Bloomington, IL",Street Length Total (km),4997.883852000003
+5,Auto Small,4.999595890399523,"Bloomington, IN",Street Length Total (km),3223.635125000016
+5,Auto Small,6.719566195091469,"Bloomsburg-Berwick, PA",Street Length Total (km),3226.310005999989
+4,Auto Large,4.910866644404342,"Boise City, ID",Street Length Total (km),17426.396137999967
+4,Auto Large,4.016309705704,"Boston-Cambridge-Newton, MA-NH",Street Length Total (km),38059.163872000325
+3,Sparse Auto,6.660842572305076,"Bowling Green, KY",Street Length Total (km),5722.810554999992
+4,Auto Large,3.773433361377403,"Bremerton-Silverdale-Port Orchard, WA",Street Length Total (km),3379.4082850000214
+7,Dense Active,4.132225329902902,"Bridgeport-Stamford-Norwalk, CT",Street Length Total (km),8163.304714999944
+3,Sparse Auto,4.05226043435715,"Brownsville-Harlingen, TX",Street Length Total (km),5519.015506000018
+3,Sparse Auto,9.935164751675893,"Brunswick, GA",Street Length Total (km),4869.108120999992
+1,Sparse Active,3.65299609243732,"Buffalo-Cheektowaga, NY",Street Length Total (km),11079.167473999943
+5,Auto Small,4.82296733211575,"Burlington, NC",Street Length Total (km),2745.2659540000136
+1,Sparse Active,5.851998579706925,"Burlington-South Burlington, VT",Street Length Total (km),4727.688385000015
+5,Auto Small,4.490797852429514,"Canton-Massillon, OH",Street Length Total (km),6435.014273000001
+7,Dense Active,5.169660208099404,"Cape Coral-Fort Myers, FL",Street Length Total (km),10604.65233600008
+3,Sparse Auto,7.421326825857359,"Cape Girardeau, MO-IL",Street Length Total (km),4811.705714999984
+3,Sparse Auto,6.499204605337879,"Carbondale-Marion, IL",Street Length Total (km),5814.3062949999785
+1,Sparse Active,7.971315774518812,"Casper, WY",Street Length Total (km),4216.255106999993
+3,Sparse Auto,5.511328261678552,"Cedar Rapids, IA",Street Length Total (km),8088.96218
+5,Auto Small,6.027676645697928,"Chambersburg-Waynesboro, PA",Street Length Total (km),3456.835800000006
+1,Sparse Active,5.58011971503012,"Champaign-Urbana, IL",Street Length Total (km),6257.4146349999855
+3,Sparse Auto,6.360166397497082,"Charleston, WV",Street Length Total (km),9318.266830000011
+3,Sparse Auto,5.6585131547993575,"Charleston-North Charleston, SC",Street Length Total (km),13318.320744999995
+4,Auto Large,5.236051321118476,"Charlotte-Concord-Gastonia, NC-SC",Street Length Total (km),38486.16903800027
+3,Sparse Auto,6.714462149284141,"Chattanooga, TN-GA",Street Length Total (km),11179.346882000154
+1,Sparse Active,10.416946381906817,"Cheyenne, WY",Street Length Total (km),4472.443615999992
+4,Auto Large,3.9342845352152835,"Chicago-Naperville-Elgin, IL-IN-WI",Street Length Total (km),71755.04228499983
+3,Sparse Auto,4.819672050556448,"Chico, CA",Street Length Total (km),5410.18761600004
+4,Auto Large,5.198681661586621,"Cincinnati, OH-KY-IN",Street Length Total (km),27295.976974000067
+3,Sparse Auto,5.8835001531734035,"Clarksville, TN-KY",Street Length Total (km),8510.266797000024
+5,Auto Small,6.450301817295837,"Cleveland, TN",Street Length Total (km),3153.1721869999865
+4,Auto Large,5.239030933228603,"Cleveland-Elyria, OH",Street Length Total (km),18464.610529999805
+3,Sparse Auto,6.620857090863089,"Coeur d'Alene, ID",Street Length Total (km),4971.967374999981
+3,Sparse Auto,5.735068116774824,"College Station-Bryan, TX",Street Length Total (km),6708.741131000005
+3,Sparse Auto,4.0650330202961555,"Colorado Springs, CO",Street Length Total (km),11026.795962000017
+3,Sparse Auto,6.9474179207980296,"Columbia, MO",Street Length Total (km),6554.215299000012
+4,Auto Large,6.189623940247864,"Columbia, SC",Street Length Total (km),19622.56778400003
+3,Sparse Auto,6.038034603580465,"Columbus, GA-AL",Street Length Total (km),9247.18559799999
+5,Auto Small,8.092349363775686,"Columbus, IN",Street Length Total (km),1975.4858050000064
+4,Auto Large,5.018529835475418,"Columbus, OH",Street Length Total (km),27267.990771000183
+3,Sparse Auto,6.196104052943694,"Corpus Christi, TX",Street Length Total (km),7410.486076000015
+1,Sparse Active,3.2568044344773206,"Corvallis, OR",Street Length Total (km),1693.2065940000025
+3,Sparse Auto,7.720934569786481,"Crestview-Fort Walton Beach-Destin, FL",Street Length Total (km),6559.571916999977
+5,Auto Small,4.833162484605701,"Cumberland, MD-WV",Street Length Total (km),2831.8394179999827
+4,Auto Large,4.665452039086198,"Dallas-Fort Worth-Arlington, TX",Street Length Total (km),80187.1024009992
+5,Auto Small,6.713757328033229,"Dalton, GA",Street Length Total (km),2809.868782999991
+5,Auto Small,5.729877881090719,"Danville, IL",Street Length Total (km),3478.8375100000035
+3,Sparse Auto,9.654314156515747,"Daphne-Fairhope-Foley, AL",Street Length Total (km),5858.519173000013
+1,Sparse Active,5.574919113799141,"Davenport-Moline-Rock Island, IA-IL",Street Length Total (km),9883.48947700007
+3,Sparse Auto,4.942568688982381,"Dayton-Kettering, OH",Street Length Total (km),10306.675326999875
+5,Auto Small,7.73070300442992,"Decatur, AL",Street Length Total (km),5214.131346999992
+5,Auto Small,5.6670187986381215,"Decatur, IL",Street Length Total (km),2921.3962189999943
+3,Sparse Auto,6.111431445666809,"Deltona-Daytona Beach-Ormond Beach, FL",Street Length Total (km),9033.314176000034
+4,Auto Large,5.387551266032284,"Des Moines-West Des Moines, IA",Street Length Total (km),15998.990148000012
+4,Auto Large,3.9872664188339844,"Detroit-Warren-Dearborn, MI",Street Length Total (km),38576.989565000105
+3,Sparse Auto,6.873509854278803,"Dothan, AL",Street Length Total (km),6554.041934000014
+4,Auto Large,4.830602945612652,"Dover, DE",Street Length Total (km),2941.284628999995
+5,Auto Small,5.22075903239457,"Dubuque, IA",Street Length Total (km),2450.8743480000053
+4,Auto Large,7.701986078209474,"Duluth, MN-WI",Street Length Total (km),18848.106965000065
+3,Sparse Auto,5.353667753997634,"Durham-Chapel Hill, NC",Street Length Total (km),11684.310672999956
+5,Auto Small,4.830968100529345,"East Stroudsburg, PA",Street Length Total (km),4182.698774000016
+3,Sparse Auto,7.743743487337159,"Eau Claire, WI",Street Length Total (km),6422.2593659999775
+3,Sparse Auto,9.039659053730142,"El Centro, CA",Street Length Total (km),5633.911167999993
+4,Auto Large,5.349598826800237,"El Paso, TX",Street Length Total (km),14781.606420000096
+5,Auto Small,6.794204161989231,"Elizabethtown-Fort Knox, KY",Street Length Total (km),4643.347918000022
+5,Auto Small,6.952711291250893,"Elkhart-Goshen, IN",Street Length Total (km),3150.972786999984
+5,Auto Small,5.104260393181227,"Elmira, NY",Street Length Total (km),1904.6286559999985
+3,Sparse Auto,5.5737281201315065,"Enid, OK",Street Length Total (km),3620.384007999998
+1,Sparse Active,4.307969648379507,"Erie, PA",Street Length Total (km),4579.331558999989
+1,Sparse Active,5.026956204611711,"Eugene-Springfield, OR",Street Length Total (km),9223.722685999996
+3,Sparse Auto,7.118906492100415,"Evansville, IN-KY",Street Length Total (km),7387.666107
+3,Sparse Auto,8.012731670845499,"Fargo, ND-MN",Street Length Total (km),8791.460622999992
+3,Sparse Auto,6.32440637612793,"Farmington, NM",Street Length Total (km),10051.603546999955
+3,Sparse Auto,4.329363490882602,"Fayetteville, NC",Street Length Total (km),9147.12094599997
+3,Sparse Auto,4.9190378947445055,"Fayetteville-Springdale-Rogers, AR",Street Length Total (km),12564.657411999944
+1,Sparse Active,13.056576781339958,"Flagstaff, AZ",Street Length Total (km),13537.895313000035
+7,Dense Active,4.3771015421960335,"Flint, MI",Street Length Total (km),5125.07681100002
+3,Sparse Auto,6.729650647115809,"Florence, SC",Street Length Total (km),6751.4390170000215
+5,Auto Small,6.6107105895565885,"Florence-Muscle Shoals, AL",Street Length Total (km),5457.207193999982
+5,Auto Small,7.478514979823569,"Fond du Lac, WI",Street Length Total (km),3044.2463699999994
+1,Sparse Active,4.605955170213604,"Fort Collins, CO",Street Length Total (km),6134.766297000034
+3,Sparse Auto,7.438802066656409,"Fort Smith, AR-OK",Street Length Total (km),9191.93322200002
+5,Auto Small,6.581911696270895,"Fort Wayne, IN",Street Length Total (km),6538.892762000005
+4,Auto Large,5.298647007777657,"Fresno, CA",Street Length Total (km),15804.6648749999
+5,Auto Small,6.461529321035506,"Gadsden, AL",Street Length Total (km),3176.710941999987
+3,Sparse Auto,6.87983051948396,"Gainesville, FL",Street Length Total (km),8895.23161500005
+5,Auto Small,6.14147007866239,"Gainesville, GA",Street Length Total (km),3008.765959000008
+5,Auto Small,5.038324654644315,"Gettysburg, PA",Street Length Total (km),2659.4799680000087
+1,Sparse Active,5.52198665067417,"Glens Falls, NY",Street Length Total (km),5047.17959600001
+5,Auto Small,4.606188837792648,"Goldsboro, NC",Street Length Total (km),2778.924612000001
+1,Sparse Active,9.883473253442334,"Grand Forks, ND-MN",Street Length Total (km),9741.103157
+3,Sparse Auto,10.690637098922567,"Grand Island, NE",Street Length Total (km),5364.118911000001
+1,Sparse Active,4.721965840989233,"Grand Junction, CO",Street Length Total (km),4084.635461000001
+3,Sparse Auto,4.612096790793935,"Grand Rapids-Kentwood, MI",Street Length Total (km),16702.068583999902
+1,Sparse Active,5.54995413979656,"Grants Pass, OR",Street Length Total (km),2178.707334999996
+1,Sparse Active,5.6130099461611715,"Great Falls, MT",Street Length Total (km),3997.783119000011
+3,Sparse Auto,5.531836783748051,"Green Bay, WI",Street Length Total (km),8662.86999800004
+3,Sparse Auto,5.332766818962245,"Greensboro-High Point, NC",Street Length Total (km),13458.374257999963
+5,Auto Small,4.123972683795411,"Greenville, NC",Street Length Total (km),3058.9440040000027
+4,Auto Large,5.309442740547294,"Greenville-Anderson, SC",Street Length Total (km),18289.621239999848
+3,Sparse Auto,7.515494463286443,"Gulfport-Biloxi, MS",Street Length Total (km),10355.69474800001
+5,Auto Small,6.174254098149316,"Hagerstown-Martinsburg, MD-WV",Street Length Total (km),5483.989767999978
+1,Sparse Active,6.347121697586409,"Hanford-Corcoran, CA",Street Length Total (km),4261.316529999993
+3,Sparse Auto,5.9673538352136575,"Harrisburg-Carlisle, PA",Street Length Total (km),9933.86920100006
+3,Sparse Auto,4.563979142380444,"Hartford-East Hartford-Middletown, CT",Street Length Total (km),12837.578618000112
+3,Sparse Auto,7.471478610192212,"Hattiesburg, MS",Street Length Total (km),7236.546661000047
+3,Sparse Auto,5.499577472573777,"Hickory-Lenoir-Morganton, NC",Street Length Total (km),8953.519328000053
+3,Sparse Auto,7.198667567428218,"Hilton Head Island-Bluffton, SC",Street Length Total (km),5174.980220999996
+3,Sparse Auto,7.0264810438690395,"Hinesville, GA",Street Length Total (km),3327.1953470000003
+7,Dense Active,5.091160691255167,"Homosassa Springs, FL",Street Length Total (km),4477.026338999996
+5,Auto Small,4.9175546671767725,"Hot Springs, AR",Street Length Total (km),3785.520900999999
+4,Auto Large,4.7749743707774535,"Houston-The Woodlands-Sugar Land, TX",Street Length Total (km),67595.27299500076
+3,Sparse Auto,5.066502888486467,"Huntington-Ashland, WV-KY-OH",Street Length Total (km),10992.125009000016
+3,Sparse Auto,6.69200761875749,"Huntsville, AL",Street Length Total (km),8719.353397999988
+3,Sparse Auto,6.766059974417556,"Idaho Falls, ID",Street Length Total (km),7075.947988999999
+4,Auto Large,6.627093410123633,"Indianapolis-Carmel-Anderson, IN",Street Length Total (km),30256.16957799971
+1,Sparse Active,6.319585647538596,"Iowa City, IA",Street Length Total (km),4415.716697000008
+7,Dense Active,3.2474157477929055,"Ithaca, NY",Street Length Total (km),2053.190566000003
+7,Dense Active,4.878016116062459,"Jackson, MI",Street Length Total (km),7577.320494999975
+4,Auto Large,7.494294727899515,"Jackson, MS",Street Length Total (km),19895.085869000064
+3,Sparse Auto,7.041224184684516,"Jackson, TN",Street Length Total (km),6561.359426000038
+4,Auto Large,6.390870313467058,"Jacksonville, FL",Street Length Total (km),18583.42782800023
+5,Auto Small,4.153461734572535,"Jacksonville, NC",Street Length Total (km),3273.983650000006
+5,Auto Small,6.469200722778697,"Janesville-Beloit, WI",Street Length Total (km),3587.880943000018
+3,Sparse Auto,8.44693409277478,"Jefferson City, MO",Street Length Total (km),7336.258735000008
+5,Auto Small,5.12198168669729,"Johnson City, TN",Street Length Total (km),4502.104313000022
+5,Auto Small,4.315615616611618,"Johnstown, PA",Street Length Total (km),3401.330982000008
+3,Sparse Auto,7.036088029071533,"Jonesboro, AR",Street Length Total (km),5804.953953999999
+3,Sparse Auto,7.928398184582309,"Joplin, MO",Street Length Total (km),6368.807756000008
+5,Auto Small,5.1773541212677,"Kankakee, IL",Street Length Total (km),2955.428183999996
+4,Auto Large,6.0564024793265885,"Kansas City, MO-KS",Street Length Total (km),41028.02102600112
+1,Sparse Active,5.417903540258031,"Kennewick-Richland, WA",Street Length Total (km),2319.4096060000056
+3,Sparse Auto,5.575046300408085,"Killeen-Temple, TX",Street Length Total (km),9354.358696999923
+5,Auto Small,5.232441587578223,"Kingston, NY",Street Length Total (km),4468.101669000016
+4,Auto Large,7.154161862868689,"Knoxville, TN",Street Length Total (km),18190.168608999847
+5,Auto Small,5.409910377213027,"Kokomo, IN",Street Length Total (km),1644.1221380000072
+5,Auto Small,5.80417549986919,"La Crosse-Onalaska, WI-MN",Street Length Total (km),3575.658217999978
+3,Sparse Auto,6.9527252652987945,"Lafayette-West Lafayette, IN",Street Length Total (km),6838.874309999984
+3,Sparse Auto,8.851246763495178,"Lake Havasu City-Kingman, AZ",Street Length Total (km),5741.779951000021
+3,Sparse Auto,5.759052890469897,"Lakeland-Winter Haven, FL",Street Length Total (km),9222.221994000029
+5,Auto Small,4.618823856636247,"Lancaster, PA",Street Length Total (km),7043.562145000035
+3,Sparse Auto,4.772400254048819,"Lansing-East Lansing, MI",Street Length Total (km),8428.348505000014
+3,Sparse Auto,5.088235082185966,"Laredo, TX",Street Length Total (km),9625.12031099998
+4,Auto Large,4.872242041270587,"Las Vegas-Henderson-Paradise, NV",Street Length Total (km),15408.446662999891
+5,Auto Small,4.859687588199185,"Lawrence, KS",Street Length Total (km),2338.4304240000006
+3,Sparse Auto,5.067774285188241,"Lawton, OK",Street Length Total (km),6178.605259999995
+5,Auto Small,5.265368068147336,"Lebanon, PA",Street Length Total (km),2121.6233259999976
+1,Sparse Active,5.748910398365674,"Lewiston, ID-WA",Street Length Total (km),2609.800922000006
+5,Auto Small,4.3994666308089565,"Lewiston-Auburn, ME",Street Length Total (km),2241.1157959999978
+1,Sparse Active,6.179770309039858,"Lexington-Fayette, KY",Street Length Total (km),7164.69408200003
+5,Auto Small,6.237848058151753,"Lima, OH",Street Length Total (km),2327.932454999998
+3,Sparse Auto,5.953505990401925,"Lincoln, NE",Street Length Total (km),7082.717609000023
+4,Auto Large,6.641361536174808,"Little Rock-North Little Rock-Conway, AR",Street Length Total (km),19732.79500799997
+1,Sparse Active,4.760631507499267,"Logan, UT-ID",Street Length Total (km),3607.269712999993
+3,Sparse Auto,7.516795211759245,"Longview, TX",Street Length Total (km),9881.38529899998
+5,Auto Small,7.547837891460836,"Longview, WA",Street Length Total (km),2651.254998999997
+6,Heavyweight Eco-Transit,4.052668537615863,"Los Angeles-Long Beach-Anaheim, CA",Street Length Total (km),56606.576454
+4,Auto Large,6.06952489168617,"Louisville/Jefferson County, KY-IN",Street Length Total (km),18743.16087799994
+3,Sparse Auto,5.466046556887146,"Lubbock, TX",Street Length Total (km),11189.535907999998
+3,Sparse Auto,9.410538545450617,"Macon-Bibb County, GA",Street Length Total (km),6206.274363999996
+1,Sparse Active,6.982162693562118,"Madera, CA",Street Length Total (km),4798.574479999976
+4,Auto Large,5.733491610720816,"Madison, WI",Street Length Total (km),15228.17943899995
+5,Auto Small,4.020706867580701,"Manchester-Nashua, NH",Street Length Total (km),5652.822416000013
+3,Sparse Auto,5.39096925929131,"Manhattan, KS",Street Length Total (km),5740.120309999987
+1,Sparse Active,6.559275842872304,"Mankato, MN",Street Length Total (km),4477.425920999991
+5,Auto Small,5.860390502849895,"Mansfield, OH",Street Length Total (km),2691.266014
+3,Sparse Auto,3.6532902397690146,"McAllen-Edinburg-Mission, TX",Street Length Total (km),9822.70156699996
+1,Sparse Active,4.996720404986703,"Medford, OR",Street Length Total (km),5211.5914390000025
+4,Auto Large,6.340096563936063,"Memphis, TN-MS-AR",Street Length Total (km),22327.85117100025
+3,Sparse Auto,6.835252035406728,"Merced, CA",Street Length Total (km),5111.188956999989
+4,Auto Large,4.792419639857512,"Miami-Fort Lauderdale-Pompano Beach, FL",Street Length Total (km),35052.06451199942
+1,Sparse Active,5.309768590058087,"Midland, MI",Street Length Total (km),2753.3616339999926
+3,Sparse Auto,8.34117814763209,"Midland, TX",Street Length Total (km),4046.016996000012
+4,Auto Large,5.017084947461276,"Minneapolis-St. Paul-Bloomington, MN-WI",Street Length Total (km),50620.6226759996
+1,Sparse Active,5.978612627735451,"Missoula, MT",Street Length Total (km),4933.875463000004
+3,Sparse Auto,7.43271774967463,"Mobile, AL",Street Length Total (km),10730.103073000071
+5,Auto Small,4.023324539527527,"Modesto, CA",Street Length Total (km),5341.935508
+5,Auto Small,5.690672745077784,"Monroe, MI",Street Length Total (km),3018.5115759999967
+3,Sparse Auto,7.857778654373011,"Montgomery, AL",Street Length Total (km),10045.14590299999
+5,Auto Small,4.798734014289785,"Morgantown, WV",Street Length Total (km),4159.000343000017
+1,Sparse Active,8.018325790104306,"Morristown, TN",Street Length Total (km),2421.302941999998
+1,Sparse Active,6.643112041653492,"Mount Vernon-Anacortes, WA",Street Length Total (km),2724.125637000008
+5,Auto Small,6.913773708485843,"Muncie, IN",Street Length Total (km),2370.957429000005
+5,Auto Small,4.104826339346003,"Muskegon, MI",Street Length Total (km),3124.904287999996
+3,Sparse Auto,5.498726662778029,"Myrtle Beach-Conway-North Myrtle Beach, SC-NC",Street Length Total (km),12131.059553999796
+1,Sparse Active,4.176548089478618,"Napa, CA",Street Length Total (km),1701.1360430000032
+3,Sparse Auto,5.849616425108023,"Naples-Marco Island, FL",Street Length Total (km),4776.882913000013
+4,Auto Large,7.3189682700795915,"Nashville-Davidson--Murfreesboro--Franklin, TN",Street Length Total (km),31164.516180000075
+5,Auto Small,5.637274012279934,"New Bern, NC",Street Length Total (km),3942.983512000003
+7,Dense Active,4.244874329395097,"New Haven-Milford, CT",Street Length Total (km),7189.360819000008
+2,Heavyweight Transit,2.8499220122782414,"New York-Newark-Jersey City, NY-NJ-PA",Street Length Total (km),93513.38285200302
+5,Auto Small,6.483841676444908,"Niles, MI",Street Length Total (km),3772.2328330000046
+3,Sparse Auto,5.6768462885212,"North Port-Sarasota-Bradenton, FL",Street Length Total (km),10064.496956000152
+5,Auto Small,5.107018834692801,"Norwich-New London, CT",Street Length Total (km),4039.5704259999934
+3,Sparse Auto,6.652215055271797,"Ocala, FL",Street Length Total (km),9068.041872999996
+1,Sparse Active,7.085187495037601,"Ocean City, NJ",Street Length Total (km),1907.0731219999905
+5,Auto Small,6.1534497779287936,"Odessa, TX",Street Length Total (km),2799.212347000008
+1,Sparse Active,5.1272945195555195,"Ogden-Clearfield, UT",Street Length Total (km),8656.849706000035
+4,Auto Large,6.8054690807539755,"Oklahoma City, OK",Street Length Total (km),29406.27322799997
+5,Auto Small,4.487710977365074,"Olympia-Lacey-Tumwater, WA",Street Length Total (km),4741.359640000023
+4,Auto Large,5.787172591210157,"Omaha-Council Bluffs, NE-IA",Street Length Total (km),21133.90740000008
+4,Auto Large,5.897086156772827,"Orlando-Kissimmee-Sanford, FL",Street Length Total (km),23222.700950000133
+5,Auto Small,6.881687344925628,"Oshkosh-Neenah, WI",Street Length Total (km),2738.096216999988
+5,Auto Small,5.00580710216788,"Owensboro, KY",Street Length Total (km),3482.4293309999885
+1,Sparse Active,3.7858414642226905,"Oxnard-Thousand Oaks-Ventura, CA",Street Length Total (km),6319.022577000085
+3,Sparse Auto,6.256612125306231,"Palm Bay-Melbourne-Titusville, FL",Street Length Total (km),7020.769511000029
+3,Sparse Auto,6.375523767086635,"Panama City, FL",Street Length Total (km),3300.366952000018
+5,Auto Small,4.542870734497769,"Parkersburg-Vienna, WV",Street Length Total (km),2605.0408129999955
+3,Sparse Auto,5.986106088772011,"Pensacola-Ferry Pass-Brent, FL",Street Length Total (km),8406.297562999924
+3,Sparse Auto,5.935310596421382,"Peoria, IL",Street Length Total (km),13206.032889999897
+4,Auto Large,3.6057238570274834,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",Street Length Total (km),49939.210273
+4,Auto Large,5.035403239554386,"Phoenix-Mesa-Chandler, AZ",Street Length Total (km),46359.06659099935
+3,Sparse Auto,7.925242608654885,"Pine Bluff, AR",Street Length Total (km),6557.78028799997
+4,Auto Large,4.221033439981065,"Pittsburgh, PA",Street Length Total (km),38930.09062399896
+5,Auto Small,4.212509812490091,"Pittsfield, MA",Street Length Total (km),3462.68164199999
+1,Sparse Active,7.800445152024431,"Pocatello, ID",Street Length Total (km),5192.394217000016
+3,Sparse Auto,6.513700045467889,"Port St. Lucie, FL",Street Length Total (km),5682.76767400002
+3,Sparse Auto,5.526886321090759,"Portland-South Portland, ME",Street Length Total (km),11385.0003120001
+4,Auto Large,4.334763974074535,"Portland-Vancouver-Hillsboro, OR-WA",Street Length Total (km),25760.149770000167
+3,Sparse Auto,4.695465471903193,"Poughkeepsie-Newburgh-Middletown, NY",Street Length Total (km),10044.463541999983
+3,Sparse Auto,8.767307677261687,"Prescott Valley-Prescott, AZ",Street Length Total (km),8829.991876999979
+1,Sparse Active,4.609985854342272,"Provo-Orem, UT",Street Length Total (km),7232.049809000032
+1,Sparse Active,4.775314008793338,"Pueblo, CO",Street Length Total (km),4736.016568
+3,Sparse Auto,5.845805413879713,"Punta Gorda, FL",Street Length Total (km),4410.444423000058
+5,Auto Small,4.04664829760416,"Racine, WI",Street Length Total (km),2458.0900790000105
+4,Auto Large,4.754841854510094,"Raleigh-Cary, NC",Street Length Total (km),16980.855183000054
+1,Sparse Active,6.137004142552739,"Rapid City, SD",Street Length Total (km),6977.028717000011
+5,Auto Small,4.471790988865926,"Reading, PA",Street Length Total (km),6068.921953999989
+3,Sparse Auto,5.729710311243077,"Redding, CA",Street Length Total (km),7375.226467000028
+4,Auto Large,4.641729718981716,"Reno, NV",Street Length Total (km),5562.726442999983
+4,Auto Large,5.129832949765807,"Riverside-San Bernardino-Ontario, CA",Street Length Total (km),43533.516167001486
+3,Sparse Auto,6.14407714575323,"Rochester, MN",Street Length Total (km),9121.635908999968
+4,Auto Large,4.401336046047008,"Rochester, NY",Street Length Total (km),17341.22804899984
+5,Auto Small,4.662237057047692,"Rockford, IL",Street Length Total (km),5312.831612000037
+5,Auto Small,6.895664198851254,"Rocky Mount, NC",Street Length Total (km),4212.6058270000185
+5,Auto Small,6.298004617782156,"Rome, GA",Street Length Total (km),2274.871294999994
+4,Auto Large,4.426636901442291,"Sacramento-Roseville-Folsom, CA",Street Length Total (km),23654.663751000186
+5,Auto Small,5.199660962124546,"Saginaw, MI",Street Length Total (km),4086.735769
+1,Sparse Active,5.103628899408256,"Salem, OR",Street Length Total (km),5596.292615999986
+1,Sparse Active,3.708575089595074,"Salinas, CA",Street Length Total (km),6195.031239000022
+3,Sparse Auto,5.826882766400676,"Salisbury, MD-DE",Street Length Total (km),10243.28617200004
+1,Sparse Active,4.8671541982546,"Salt Lake City, UT",Street Length Total (km),9936.897912000006
+3,Sparse Auto,5.545518151345691,"San Angelo, TX",Street Length Total (km),7592.881081999973
+4,Auto Large,4.7190890952555025,"San Antonio-New Braunfels, TX",Street Length Total (km),32832.816019000704
+4,Auto Large,4.581765135352589,"San Diego-Chula Vista-Carlsbad, CA",Street Length Total (km),20630.66656800064
+4,Auto Large,3.7701718036018974,"San Francisco-Oakland-Berkeley, CA",Street Length Total (km),22310.87658000002
+4,Auto Large,3.7690953266778178,"San Jose-Sunnyvale-Santa Clara, CA",Street Length Total (km),11207.928637999945
+1,Sparse Active,4.045880628884985,"San Luis Obispo-Paso Robles, CA",Street Length Total (km),5875.262788999977
+4,Auto Large,2.7383181298689667,"Santa Cruz-Watsonville, CA",Street Length Total (km),2720.9444210000192
+1,Sparse Active,7.5908238633223695,"Santa Fe, NM",Street Length Total (km),4653.080778000017
+1,Sparse Active,4.4817820130529125,"Santa Maria-Santa Barbara, CA",Street Length Total (km),5287.349373000008
+1,Sparse Active,3.9019720501382857,"Santa Rosa-Petaluma, CA",Street Length Total (km),5834.801307999973
+3,Sparse Auto,7.477711917618203,"Savannah, GA",Street Length Total (km),6607.634110999951
+3,Sparse Auto,4.935904516306623,"Scranton--Wilkes-Barre, PA",Street Length Total (km),9380.114837000028
+4,Auto Large,4.016145491034696,"Seattle-Tacoma-Bellevue, WA",Street Length Total (km),31158.48466300008
+7,Dense Active,6.171416522191772,"Sebastian-Vero Beach, FL",Street Length Total (km),2323.193142999999
+3,Sparse Auto,4.933259374200938,"Sebring-Avon Park, FL",Street Length Total (km),3330.3816260000003
+5,Auto Small,5.17806469696228,"Sheboygan, WI",Street Length Total (km),2729.3024990000004
+3,Sparse Auto,7.761637473094067,"Sherman-Denison, TX",Street Length Total (km),4305.738365999995
+3,Sparse Auto,8.378529719544437,"Sierra Vista-Douglas, AZ",Street Length Total (km),8240.909755999981
+3,Sparse Auto,6.886893822693476,"Sioux City, IA-NE-SD",Street Length Total (km),7289.592407999986
+3,Sparse Auto,5.799980096371984,"Sioux Falls, SD",Street Length Total (km),10503.662351000065
+1,Sparse Active,5.467465274251144,"South Bend-Mishawaka, IN-MI",Street Length Total (km),3634.7838609999976
+5,Auto Small,6.276125083266998,"Spartanburg, SC",Street Length Total (km),6335.046419999989
+3,Sparse Auto,4.426849882297688,"Spokane-Spokane Valley, WA",Street Length Total (km),12636.567490000034
+5,Auto Small,5.824346483841725,"Springfield, IL",Street Length Total (km),5342.216674000013
+1,Sparse Active,4.235993310915118,"Springfield, MA",Street Length Total (km),7076.243313000054
+4,Auto Large,6.47887258388941,"Springfield, MO",Street Length Total (km),14774.030074000048
+5,Auto Small,6.284457485136258,"Springfield, OH",Street Length Total (km),2230.325804999995
+3,Sparse Auto,7.129655516556662,"St. Cloud, MN",Street Length Total (km),7303.372605999989
+1,Sparse Active,6.464416155466091,"St. George, UT",Street Length Total (km),3225.571503999995
+3,Sparse Auto,8.197444662274727,"St. Joseph, MO-KS",Street Length Total (km),6610.090119999968
+4,Auto Large,7.853257951103703,"St. Louis, MO-IL",Street Length Total (km),47249.25417500042
+1,Sparse Active,5.151074614680243,"State College, PA",Street Length Total (km),3376.454207999997
+4,Auto Large,4.868642128229999,"Stockton, CA",Street Length Total (km),7253.957818000016
+3,Sparse Auto,7.333344775936028,"Sumter, SC",Street Length Total (km),5923.543454000024
+3,Sparse Auto,4.578972069283096,"Syracuse, NY",Street Length Total (km),11622.812123999913
+3,Sparse Auto,6.067544880918141,"Tallahassee, FL",Street Length Total (km),7647.031639999938
+4,Auto Large,5.016409330703997,"Tampa-St. Petersburg-Clearwater, FL",Street Length Total (km),28466.824173000023
+3,Sparse Auto,7.644165070464751,"Terre Haute, IN",Street Length Total (km),8557.39263599999
+3,Sparse Auto,9.612002934697832,"Texarkana, TX-AR",Street Length Total (km),7027.334818000013
+7,Dense Active,8.814653934638596,"The Villages, FL",Street Length Total (km),2583.5687689999886
+3,Sparse Auto,5.9118254008047355,"Toledo, OH",Street Length Total (km),10565.00729300007
+3,Sparse Auto,6.70375305677546,"Topeka, KS",Street Length Total (km),11507.274757999989
+7,Dense Active,4.336879099474519,"Trenton-Princeton, NJ",Street Length Total (km),3076.6207909999985
+4,Auto Large,4.355028155707587,"Tucson, AZ",Street Length Total (km),15643.739819999792
+4,Auto Large,6.339577637637868,"Tulsa, OK",Street Length Total (km),24711.587165999965
+3,Sparse Auto,8.70507916553966,"Tuscaloosa, AL",Street Length Total (km),10756.816455999991
+3,Sparse Auto,6.949742382139691,"Twin Falls, ID",Street Length Total (km),6909.045495999978
+5,Auto Small,6.2007482816460024,"Tyler, TX",Street Length Total (km),4773.739863999976
+3,Sparse Auto,5.057418883558467,"Utica-Rome, NY",Street Length Total (km),7998.033445999928
+3,Sparse Auto,7.439757348021337,"Valdosta, GA",Street Length Total (km),5494.799977999987
+3,Sparse Auto,9.890181156838809,"Victoria, TX",Street Length Total (km),3709.5744719999966
+5,Auto Small,3.971891953277705,"Vineland-Bridgeton, NJ",Street Length Total (km),2244.348112
+3,Sparse Auto,4.488096268716279,"Visalia, CA",Street Length Total (km),9315.135918999991
+3,Sparse Auto,7.367966041177016,"Waco, TX",Street Length Total (km),7858.959237999944
+1,Sparse Active,5.234842239487217,"Walla Walla, WA",Street Length Total (km),2101.347819000001
+5,Auto Small,6.169884435593638,"Warner Robins, GA",Street Length Total (km),3156.8295679999906
+3,Sparse Auto,5.630949721169618,"Waterloo-Cedar Falls, IA",Street Length Total (km),6279.409101999985
+1,Sparse Active,5.841225490215319,"Watertown-Fort Drum, NY",Street Length Total (km),4387.307742
+3,Sparse Auto,7.8403777971121515,"Wausau-Weston, WI",Street Length Total (km),8165.941753000009
+5,Auto Small,3.753406078646004,"Weirton-Steubenville, WV-OH",Street Length Total (km),3098.508594000002
+1,Sparse Active,5.54903872345699,"Wenatchee, WA",Street Length Total (km),6879.99096099998
+5,Auto Small,6.066200395776506,"Wheeling, WV-OH",Street Length Total (km),5134.074491999983
+3,Sparse Auto,6.799822203000577,"Wichita Falls, TX",Street Length Total (km),8224.398849999929
+4,Auto Large,5.676112120059677,"Wichita, KS",Street Length Total (km),18021.43339799992
+5,Auto Small,4.861627230597881,"Williamsport, PA",Street Length Total (km),4222.530199000009
+5,Auto Small,4.6117208538858465,"Wilmington, NC",Street Length Total (km),4726.978221999987
+3,Sparse Auto,5.512735457830683,"Winston-Salem, NC",Street Length Total (km),13434.447081000051
+3,Sparse Auto,4.52818621846808,"Worcester, MA-CT",Street Length Total (km),12894.683513999977
+3,Sparse Auto,4.88595041494122,"Yakima, WA",Street Length Total (km),7249.500451999976
+5,Auto Small,4.242958869040292,"York-Hanover, PA",Street Length Total (km),6831.204673999991
+3,Sparse Auto,5.224639584543608,"Youngstown-Warren-Boardman, OH-PA",Street Length Total (km),10381.621774999974
+5,Auto Small,3.036598816830966,"Yuba City, CA",Street Length Total (km),4094.273240000004
+3,Sparse Auto,5.533761312024776,"Yuma, AZ",Street Length Total (km),4715.715694999987
+3,Sparse Auto,8.521780192812306,"Abilene, TX",Built-Up Area Proportion,5.944727283555529
+7,Dense Active,5.224953343032942,"Akron, OH",Built-Up Area Proportion,38.22202766508072
+3,Sparse Auto,6.560072038030802,"Albany, GA",Built-Up Area Proportion,9.334386944852223
+1,Sparse Active,6.8956968499881794,"Albany-Lebanon, OR",Built-Up Area Proportion,3.662438420540973
+3,Sparse Auto,4.563193172897371,"Albany-Schenectady-Troy, NY",Built-Up Area Proportion,15.46878649409046
+4,Auto Large,7.038307492087349,"Albuquerque, NM",Built-Up Area Proportion,3.9330872216915496
+3,Sparse Auto,4.661572413217785,"Allentown-Bethlehem-Easton, PA-NJ",Built-Up Area Proportion,23.81749335078185
+5,Auto Small,4.693678102809026,"Altoona, PA",Built-Up Area Proportion,13.038336636224637
+3,Sparse Auto,9.762586464058558,"Amarillo, TX",Built-Up Area Proportion,3.8080414401054266
+1,Sparse Active,6.588536340832919,"Ames, IA",Built-Up Area Proportion,9.818509999009455
+7,Dense Active,4.402935620842415,"Ann Arbor, MI",Built-Up Area Proportion,26.196243164163764
+5,Auto Small,6.64554937950233,"Anniston-Oxford, AL",Built-Up Area Proportion,16.4092034377264
+5,Auto Small,5.39452754882885,"Appleton, WI",Built-Up Area Proportion,14.81744241443241
+3,Sparse Auto,5.7107441421080205,"Asheville, NC",Built-Up Area Proportion,16.206749482556944
+5,Auto Small,5.370655597161981,"Athens-Clarke County, GA",Built-Up Area Proportion,13.215554832750934
+4,Auto Large,5.789558925442073,"Atlanta-Sandy Springs-Alpharetta, GA",Built-Up Area Proportion,27.1078867942294
+5,Auto Small,4.510060212334464,"Atlantic City-Hammonton, NJ",Built-Up Area Proportion,24.0754843044731
+5,Auto Small,6.289928297636136,"Auburn-Opelika, AL",Built-Up Area Proportion,16.086085026322685
+4,Auto Large,5.969913473634678,"Augusta-Richmond County, GA-SC",Built-Up Area Proportion,13.135191224595347
+4,Auto Large,4.331190339513039,"Austin-Round Rock-Georgetown, TX",Built-Up Area Proportion,17.398162213312748
+4,Auto Large,6.556526134153044,"Bakersfield, CA",Built-Up Area Proportion,6.654756119574097
+4,Auto Large,5.042565645376257,"Baltimore-Columbia-Towson, MD",Built-Up Area Proportion,31.075770309700808
+1,Sparse Active,5.787938338174279,"Bangor, ME",Built-Up Area Proportion,5.531980025176425
+1,Sparse Active,6.5569086788700774,"Barnstable Town, MA",Built-Up Area Proportion,38.51031133565794
+5,Auto Small,5.718416953304107,"Battle Creek, MI",Built-Up Area Proportion,17.140092201105855
+5,Auto Small,5.806592106921938,"Bay City, MI",Built-Up Area Proportion,18.77459970088924
+3,Sparse Auto,7.23804529158365,"Beaumont-Port Arthur, TX",Built-Up Area Proportion,13.81761967091183
+5,Auto Small,6.354726056662507,"Beckley, WV",Built-Up Area Proportion,8.337040051612762
+1,Sparse Active,4.160915236395564,"Bellingham, WA",Built-Up Area Proportion,5.336678560058039
+1,Sparse Active,4.244615460866778,"Bend, OR",Built-Up Area Proportion,3.948637922503994
+3,Sparse Auto,6.818462426750208,"Billings, MT",Built-Up Area Proportion,2.1120209604847515
+5,Auto Small,5.625499323594822,"Binghamton, NY",Built-Up Area Proportion,10.465471194200688
+4,Auto Large,7.819034591152687,"Birmingham-Hoover, AL",Built-Up Area Proportion,14.09146669189036
+1,Sparse Active,8.620673178483822,"Bismarck, ND",Built-Up Area Proportion,3.308403559333457
+3,Sparse Auto,5.936537030801337,"Bloomington, IL",Built-Up Area Proportion,9.000560293515857
+5,Auto Small,4.999595890399523,"Bloomington, IN",Built-Up Area Proportion,9.578247912209022
+5,Auto Small,6.719566195091469,"Bloomsburg-Berwick, PA",Built-Up Area Proportion,10.78265908026694
+4,Auto Large,4.910866644404342,"Boise City, ID",Built-Up Area Proportion,2.6806679062475056
+4,Auto Large,4.016309705704,"Boston-Cambridge-Newton, MA-NH",Built-Up Area Proportion,40.869496740261305
+3,Sparse Auto,6.660842572305076,"Bowling Green, KY",Built-Up Area Proportion,8.055735082155321
+4,Auto Large,3.773433361377403,"Bremerton-Silverdale-Port Orchard, WA",Built-Up Area Proportion,28.67502415578624
+7,Dense Active,4.132225329902902,"Bridgeport-Stamford-Norwalk, CT",Built-Up Area Proportion,46.96630161489006
+3,Sparse Auto,4.05226043435715,"Brownsville-Harlingen, TX",Built-Up Area Proportion,15.847873139272936
+3,Sparse Auto,9.935164751675893,"Brunswick, GA",Built-Up Area Proportion,10.295795855500984
+1,Sparse Active,3.65299609243732,"Buffalo-Cheektowaga, NY",Built-Up Area Proportion,26.731999664409017
+5,Auto Small,4.82296733211575,"Burlington, NC",Built-Up Area Proportion,20.70183242773188
+1,Sparse Active,5.851998579706925,"Burlington-South Burlington, VT",Built-Up Area Proportion,9.150413776518707
+5,Auto Small,4.490797852429514,"Canton-Massillon, OH",Built-Up Area Proportion,23.217102423066496
+7,Dense Active,5.169660208099404,"Cape Coral-Fort Myers, FL",Built-Up Area Proportion,63.07966617553152
+3,Sparse Auto,7.421326825857359,"Cape Girardeau, MO-IL",Built-Up Area Proportion,7.168279868965943
+3,Sparse Auto,6.499204605337879,"Carbondale-Marion, IL",Built-Up Area Proportion,11.12859781762154
+1,Sparse Active,7.971315774518812,"Casper, WY",Built-Up Area Proportion,1.227000391468897
+3,Sparse Auto,5.511328261678552,"Cedar Rapids, IA",Built-Up Area Proportion,9.628084810566564
+5,Auto Small,6.027676645697928,"Chambersburg-Waynesboro, PA",Built-Up Area Proportion,12.977154542375398
+1,Sparse Active,5.58011971503012,"Champaign-Urbana, IL",Built-Up Area Proportion,8.956481485352093
+3,Sparse Auto,6.360166397497082,"Charleston, WV",Built-Up Area Proportion,7.401491484728978
+3,Sparse Auto,5.6585131547993575,"Charleston-North Charleston, SC",Built-Up Area Proportion,18.29311903008385
+4,Auto Large,5.236051321118476,"Charlotte-Concord-Gastonia, NC-SC",Built-Up Area Proportion,23.79065793949308
+3,Sparse Auto,6.714462149284141,"Chattanooga, TN-GA",Built-Up Area Proportion,15.715664352892327
+1,Sparse Active,10.416946381906817,"Cheyenne, WY",Built-Up Area Proportion,3.0624895691772167
+4,Auto Large,3.9342845352152835,"Chicago-Naperville-Elgin, IL-IN-WI",Built-Up Area Proportion,36.57302357291618
+3,Sparse Auto,4.819672050556448,"Chico, CA",Built-Up Area Proportion,6.8470719736072745
+4,Auto Large,5.198681661586621,"Cincinnati, OH-KY-IN",Built-Up Area Proportion,21.11846919067208
+3,Sparse Auto,5.8835001531734035,"Clarksville, TN-KY",Built-Up Area Proportion,10.209139538290604
+5,Auto Small,6.450301817295837,"Cleveland, TN",Built-Up Area Proportion,11.695965980745672
+4,Auto Large,5.239030933228603,"Cleveland-Elyria, OH",Built-Up Area Proportion,40.73323364900039
+3,Sparse Auto,6.620857090863089,"Coeur d'Alene, ID",Built-Up Area Proportion,7.304801348249179
+3,Sparse Auto,5.735068116774824,"College Station-Bryan, TX",Built-Up Area Proportion,8.693866906852273
+3,Sparse Auto,4.0650330202961555,"Colorado Springs, CO",Built-Up Area Proportion,9.632166259068322
+3,Sparse Auto,6.9474179207980296,"Columbia, MO",Built-Up Area Proportion,11.97261487697572
+4,Auto Large,6.189623940247864,"Columbia, SC",Built-Up Area Proportion,15.366827671442271
+3,Sparse Auto,6.038034603580465,"Columbus, GA-AL",Built-Up Area Proportion,10.56443772321753
+5,Auto Small,8.092349363775686,"Columbus, IN",Built-Up Area Proportion,11.580116181861056
+4,Auto Large,5.018529835475418,"Columbus, OH",Built-Up Area Proportion,17.183296708855593
+3,Sparse Auto,6.196104052943694,"Corpus Christi, TX",Built-Up Area Proportion,12.684092426317717
+1,Sparse Active,3.2568044344773206,"Corvallis, OR",Built-Up Area Proportion,9.053318189565708
+3,Sparse Auto,7.720934569786481,"Crestview-Fort Walton Beach-Destin, FL",Built-Up Area Proportion,12.120884915653605
+5,Auto Small,4.833162484605701,"Cumberland, MD-WV",Built-Up Area Proportion,8.859703100291771
+4,Auto Large,4.665452039086198,"Dallas-Fort Worth-Arlington, TX",Built-Up Area Proportion,25.69725220040253
+5,Auto Small,6.713757328033229,"Dalton, GA",Built-Up Area Proportion,16.133771845539748
+5,Auto Small,5.729877881090719,"Danville, IL",Built-Up Area Proportion,8.567725683686417
+3,Sparse Auto,9.654314156515747,"Daphne-Fairhope-Foley, AL",Built-Up Area Proportion,12.721653135520713
+1,Sparse Active,5.574919113799141,"Davenport-Moline-Rock Island, IA-IL",Built-Up Area Proportion,11.138681928824347
+3,Sparse Auto,4.942568688982381,"Dayton-Kettering, OH",Built-Up Area Proportion,28.563219073046653
+5,Auto Small,7.73070300442992,"Decatur, AL",Built-Up Area Proportion,10.610561056105611
+5,Auto Small,5.6670187986381215,"Decatur, IL",Built-Up Area Proportion,14.480433230197535
+3,Sparse Auto,6.111431445666809,"Deltona-Daytona Beach-Ormond Beach, FL",Built-Up Area Proportion,25.249581787929483
+4,Auto Large,5.387551266032284,"Des Moines-West Des Moines, IA",Built-Up Area Proportion,12.06494379517524
+4,Auto Large,3.9872664188339844,"Detroit-Warren-Dearborn, MI",Built-Up Area Proportion,44.33716764244268
+3,Sparse Auto,6.873509854278803,"Dothan, AL",Built-Up Area Proportion,9.442990049303091
+4,Auto Large,4.830602945612652,"Dover, DE",Built-Up Area Proportion,19.20442149446276
+5,Auto Small,5.22075903239457,"Dubuque, IA",Built-Up Area Proportion,10.224655290225945
+4,Auto Large,7.701986078209474,"Duluth, MN-WI",Built-Up Area Proportion,5.740546397736508
+3,Sparse Auto,5.353667753997634,"Durham-Chapel Hill, NC",Built-Up Area Proportion,15.674682857919722
+5,Auto Small,4.830968100529345,"East Stroudsburg, PA",Built-Up Area Proportion,19.88395691442836
+3,Sparse Auto,7.743743487337159,"Eau Claire, WI",Built-Up Area Proportion,9.050040400695186
+3,Sparse Auto,9.039659053730142,"El Centro, CA",Built-Up Area Proportion,3.247149156203627
+4,Auto Large,5.349598826800237,"El Paso, TX",Built-Up Area Proportion,4.173813329843356
+5,Auto Small,6.794204161989231,"Elizabethtown-Fort Knox, KY",Built-Up Area Proportion,8.99797820561502
+5,Auto Small,6.952711291250893,"Elkhart-Goshen, IN",Built-Up Area Proportion,29.397308044628463
+5,Auto Small,5.104260393181227,"Elmira, NY",Built-Up Area Proportion,12.064426788052456
+3,Sparse Auto,5.5737281201315065,"Enid, OK",Built-Up Area Proportion,6.8848769939275005
+1,Sparse Active,4.307969648379507,"Erie, PA",Built-Up Area Proportion,17.215970133156038
+1,Sparse Active,5.026956204611711,"Eugene-Springfield, OR",Built-Up Area Proportion,4.260862907181341
+3,Sparse Auto,7.118906492100415,"Evansville, IN-KY",Built-Up Area Proportion,12.24222661647388
+3,Sparse Auto,8.012731670845499,"Fargo, ND-MN",Built-Up Area Proportion,7.144104851406105
+3,Sparse Auto,6.32440637612793,"Farmington, NM",Built-Up Area Proportion,1.828233366573024
+3,Sparse Auto,4.329363490882602,"Fayetteville, NC",Built-Up Area Proportion,23.91125136885533
+3,Sparse Auto,4.9190378947445055,"Fayetteville-Springdale-Rogers, AR",Built-Up Area Proportion,10.250485895252456
+1,Sparse Active,13.056576781339958,"Flagstaff, AZ",Built-Up Area Proportion,0.8733095786320841
+7,Dense Active,4.3771015421960335,"Flint, MI",Built-Up Area Proportion,36.75916813188309
+3,Sparse Auto,6.729650647115809,"Florence, SC",Built-Up Area Proportion,17.664512215004745
+5,Auto Small,6.6107105895565885,"Florence-Muscle Shoals, AL",Built-Up Area Proportion,9.74318689103396
+5,Auto Small,7.478514979823569,"Fond du Lac, WI",Built-Up Area Proportion,10.108958393388596
+1,Sparse Active,4.605955170213604,"Fort Collins, CO",Built-Up Area Proportion,5.979975831134735
+3,Sparse Auto,7.438802066656409,"Fort Smith, AR-OK",Built-Up Area Proportion,6.750168954130441
+5,Auto Small,6.581911696270895,"Fort Wayne, IN",Built-Up Area Proportion,17.387431561717168
+4,Auto Large,5.298647007777657,"Fresno, CA",Built-Up Area Proportion,6.027854690679494
+5,Auto Small,6.461529321035506,"Gadsden, AL",Built-Up Area Proportion,17.199699874215785
+3,Sparse Auto,6.87983051948396,"Gainesville, FL",Built-Up Area Proportion,11.640075901189183
+5,Auto Small,6.14147007866239,"Gainesville, GA",Built-Up Area Proportion,25.86960959988808
+5,Auto Small,5.038324654644315,"Gettysburg, PA",Built-Up Area Proportion,13.83617524345066
+1,Sparse Active,5.52198665067417,"Glens Falls, NY",Built-Up Area Proportion,6.53383237425332
+5,Auto Small,4.606188837792648,"Goldsboro, NC",Built-Up Area Proportion,17.93858310790407
+1,Sparse Active,9.883473253442334,"Grand Forks, ND-MN",Built-Up Area Proportion,5.146205972854643
+3,Sparse Auto,10.690637098922567,"Grand Island, NE",Built-Up Area Proportion,6.004679039043426
+1,Sparse Active,4.721965840989233,"Grand Junction, CO",Built-Up Area Proportion,2.8331015869975045
+3,Sparse Auto,4.612096790793935,"Grand Rapids-Kentwood, MI",Built-Up Area Proportion,22.831081603253686
+1,Sparse Active,5.54995413979656,"Grants Pass, OR",Built-Up Area Proportion,6.647412522768981
+1,Sparse Active,5.6130099461611715,"Great Falls, MT",Built-Up Area Proportion,2.544161311514634
+3,Sparse Auto,5.531836783748051,"Green Bay, WI",Built-Up Area Proportion,14.64299839415989
+3,Sparse Auto,5.332766818962245,"Greensboro-High Point, NC",Built-Up Area Proportion,21.23173939100129
+5,Auto Small,4.123972683795411,"Greenville, NC",Built-Up Area Proportion,16.7345210859109
+4,Auto Large,5.309442740547294,"Greenville-Anderson, SC",Built-Up Area Proportion,20.49333249684927
+3,Sparse Auto,7.515494463286443,"Gulfport-Biloxi, MS",Built-Up Area Proportion,22.38004141028258
+5,Auto Small,6.174254098149316,"Hagerstown-Martinsburg, MD-WV",Built-Up Area Proportion,16.866031299193715
+1,Sparse Active,6.347121697586409,"Hanford-Corcoran, CA",Built-Up Area Proportion,6.575346571001166
+3,Sparse Auto,5.9673538352136575,"Harrisburg-Carlisle, PA",Built-Up Area Proportion,17.19952181041048
+3,Sparse Auto,4.563979142380444,"Hartford-East Hartford-Middletown, CT",Built-Up Area Proportion,32.48070695108004
+3,Sparse Auto,7.471478610192212,"Hattiesburg, MS",Built-Up Area Proportion,10.674945938383829
+3,Sparse Auto,5.499577472573777,"Hickory-Lenoir-Morganton, NC",Built-Up Area Proportion,17.010204058181035
+3,Sparse Auto,7.198667567428218,"Hilton Head Island-Bluffton, SC",Built-Up Area Proportion,13.145225366418384
+3,Sparse Auto,7.0264810438690395,"Hinesville, GA",Built-Up Area Proportion,10.712138887771465
+7,Dense Active,5.091160691255167,"Homosassa Springs, FL",Built-Up Area Proportion,30.922905535557803
+5,Auto Small,4.9175546671767725,"Hot Springs, AR",Built-Up Area Proportion,11.623588903293108
+4,Auto Large,4.7749743707774535,"Houston-The Woodlands-Sugar Land, TX",Built-Up Area Proportion,30.91391532404937
+3,Sparse Auto,5.066502888486467,"Huntington-Ashland, WV-KY-OH",Built-Up Area Proportion,10.29477237714787
+3,Sparse Auto,6.69200761875749,"Huntsville, AL",Built-Up Area Proportion,20.35062139372665
+3,Sparse Auto,6.766059974417556,"Idaho Falls, ID",Built-Up Area Proportion,2.135736152271384
+4,Auto Large,6.627093410123633,"Indianapolis-Carmel-Anderson, IN",Built-Up Area Proportion,21.44277297714649
+1,Sparse Active,6.319585647538596,"Iowa City, IA",Built-Up Area Proportion,9.03709814730777
+7,Dense Active,3.2474157477929055,"Ithaca, NY",Built-Up Area Proportion,10.288329539816354
+7,Dense Active,4.878016116062459,"Jackson, MI",Built-Up Area Proportion,18.19649253354455
+4,Auto Large,7.494294727899515,"Jackson, MS",Built-Up Area Proportion,10.3296581485869
+3,Sparse Auto,7.041224184684516,"Jackson, TN",Built-Up Area Proportion,9.747353811635822
+4,Auto Large,6.390870313467058,"Jacksonville, FL",Built-Up Area Proportion,25.84669300516947
+5,Auto Small,4.153461734572535,"Jacksonville, NC",Built-Up Area Proportion,17.520828538550056
+5,Auto Small,6.469200722778697,"Janesville-Beloit, WI",Built-Up Area Proportion,12.844050171122475
+3,Sparse Auto,8.44693409277478,"Jefferson City, MO",Built-Up Area Proportion,6.774369590430696
+5,Auto Small,5.12198168669729,"Johnson City, TN",Built-Up Area Proportion,14.317594119847127
+5,Auto Small,4.315615616611618,"Johnstown, PA",Built-Up Area Proportion,11.533258558862784
+3,Sparse Auto,7.036088029071533,"Jonesboro, AR",Built-Up Area Proportion,8.172696688137572
+3,Sparse Auto,7.928398184582309,"Joplin, MO",Built-Up Area Proportion,11.069881576032586
+5,Auto Small,5.1773541212677,"Kankakee, IL",Built-Up Area Proportion,19.307614235295727
+4,Auto Large,6.0564024793265885,"Kansas City, MO-KS",Built-Up Area Proportion,10.841005993944265
+1,Sparse Active,5.417903540258031,"Kennewick-Richland, WA",Built-Up Area Proportion,15.422026392582511
+3,Sparse Auto,5.575046300408085,"Killeen-Temple, TX",Built-Up Area Proportion,6.138668806343165
+5,Auto Small,5.232441587578223,"Kingston, NY",Built-Up Area Proportion,8.592693229329958
+4,Auto Large,7.154161862868689,"Knoxville, TN",Built-Up Area Proportion,9.480240288346014
+5,Auto Small,5.409910377213027,"Kokomo, IN",Built-Up Area Proportion,16.14219801304733
+5,Auto Small,5.80417549986919,"La Crosse-Onalaska, WI-MN",Built-Up Area Proportion,15.990436921797585
+3,Sparse Auto,6.9527252652987945,"Lafayette-West Lafayette, IN",Built-Up Area Proportion,8.371649794818572
+3,Sparse Auto,8.851246763495178,"Lake Havasu City-Kingman, AZ",Built-Up Area Proportion,9.744640372624968
+3,Sparse Auto,5.759052890469897,"Lakeland-Winter Haven, FL",Built-Up Area Proportion,1.507949005198795
+5,Auto Small,4.618823856636247,"Lancaster, PA",Built-Up Area Proportion,23.789684550392987
+3,Sparse Auto,4.772400254048819,"Lansing-East Lansing, MI",Built-Up Area Proportion,22.662488046405
+3,Sparse Auto,5.088235082185966,"Laredo, TX",Built-Up Area Proportion,17.413171953549515
+4,Auto Large,4.872242041270587,"Las Vegas-Henderson-Paradise, NV",Built-Up Area Proportion,3.473160628304788
+5,Auto Small,4.859687588199185,"Lawrence, KS",Built-Up Area Proportion,5.844566953297042
+3,Sparse Auto,5.067774285188241,"Lawton, OK",Built-Up Area Proportion,12.00440504328904
+5,Auto Small,5.265368068147336,"Lebanon, PA",Built-Up Area Proportion,6.328086222432532
+1,Sparse Active,5.748910398365674,"Lewiston, ID-WA",Built-Up Area Proportion,19.59789527383469
+5,Auto Small,4.3994666308089565,"Lewiston-Auburn, ME",Built-Up Area Proportion,3.865708731079192
+1,Sparse Active,6.179770309039858,"Lexington-Fayette, KY",Built-Up Area Proportion,13.528699003338756
+5,Auto Small,6.237848058151753,"Lima, OH",Built-Up Area Proportion,13.80975396829857
+3,Sparse Auto,5.953505990401925,"Lincoln, NE",Built-Up Area Proportion,18.768050982401952
+4,Auto Large,6.641361536174808,"Little Rock-North Little Rock-Conway, AR",Built-Up Area Proportion,10.973650003882168
+1,Sparse Active,4.760631507499267,"Logan, UT-ID",Built-Up Area Proportion,12.63535415791546
+3,Sparse Auto,7.516795211759245,"Longview, TX",Built-Up Area Proportion,4.557891239734516
+5,Auto Small,7.547837891460836,"Longview, WA",Built-Up Area Proportion,12.865790858035927
+6,Heavyweight Eco-Transit,4.052668537615863,"Los Angeles-Long Beach-Anaheim, CA",Built-Up Area Proportion,8.007730076255584
+4,Auto Large,6.06952489168617,"Louisville/Jefferson County, KY-IN",Built-Up Area Proportion,37.69787162446131
+3,Sparse Auto,5.466046556887146,"Lubbock, TX",Built-Up Area Proportion,15.48299188689129
+3,Sparse Auto,9.410538545450617,"Macon-Bibb County, GA",Built-Up Area Proportion,7.39822595813414
+1,Sparse Active,6.982162693562118,"Madera, CA",Built-Up Area Proportion,10.768041428542862
+4,Auto Large,5.733491610720816,"Madison, WI",Built-Up Area Proportion,4.168187477834986
+5,Auto Small,4.020706867580701,"Manchester-Nashua, NH",Built-Up Area Proportion,10.253427429962136
+3,Sparse Auto,5.39096925929131,"Manhattan, KS",Built-Up Area Proportion,20.8454317892085
+1,Sparse Active,6.559275842872304,"Mankato, MN",Built-Up Area Proportion,6.046682288386922
+5,Auto Small,5.860390502849895,"Mansfield, OH",Built-Up Area Proportion,7.318118644161255
+3,Sparse Auto,3.6532902397690146,"McAllen-Edinburg-Mission, TX",Built-Up Area Proportion,15.413629530038996
+1,Sparse Active,4.996720404986703,"Medford, OR",Built-Up Area Proportion,18.98336649648424
+4,Auto Large,6.340096563936063,"Memphis, TN-MS-AR",Built-Up Area Proportion,5.104715497206225
+3,Sparse Auto,6.835252035406728,"Merced, CA",Built-Up Area Proportion,14.542246270294063
+4,Auto Large,4.792419639857512,"Miami-Fort Lauderdale-Pompano Beach, FL",Built-Up Area Proportion,6.148107221661112
+1,Sparse Active,5.309768590058087,"Midland, MI",Built-Up Area Proportion,24.811882857984067
+3,Sparse Auto,8.34117814763209,"Midland, TX",Built-Up Area Proportion,18.970575172232333
+4,Auto Large,5.017084947461276,"Minneapolis-St. Paul-Bloomington, MN-WI",Built-Up Area Proportion,8.957686281032672
+1,Sparse Active,5.978612627735451,"Missoula, MT",Built-Up Area Proportion,18.5632386260456
+3,Sparse Auto,7.43271774967463,"Mobile, AL",Built-Up Area Proportion,2.3971355494881625
+5,Auto Small,4.023324539527527,"Modesto, CA",Built-Up Area Proportion,22.060475618826963
+5,Auto Small,5.690672745077784,"Monroe, MI",Built-Up Area Proportion,9.844364697696868
+3,Sparse Auto,7.857778654373011,"Montgomery, AL",Built-Up Area Proportion,13.536209315931394
+5,Auto Small,4.798734014289785,"Morgantown, WV",Built-Up Area Proportion,19.68629202193723
+1,Sparse Active,8.018325790104306,"Morristown, TN",Built-Up Area Proportion,10.349905308286784
+1,Sparse Active,6.643112041653492,"Mount Vernon-Anacortes, WA",Built-Up Area Proportion,9.306998970054895
+5,Auto Small,6.913773708485843,"Muncie, IN",Built-Up Area Proportion,16.776725296782132
+5,Auto Small,4.104826339346003,"Muskegon, MI",Built-Up Area Proportion,6.2001012137338565
+3,Sparse Auto,5.498726662778029,"Myrtle Beach-Conway-North Myrtle Beach, SC-NC",Built-Up Area Proportion,16.20150359922956
+1,Sparse Active,4.176548089478618,"Napa, CA",Built-Up Area Proportion,21.797773719312573
+3,Sparse Auto,5.849616425108023,"Naples-Marco Island, FL",Built-Up Area Proportion,25.312381069645618
+4,Auto Large,7.3189682700795915,"Nashville-Davidson--Murfreesboro--Franklin, TN",Built-Up Area Proportion,7.085512738203838
+5,Auto Small,5.637274012279934,"New Bern, NC",Built-Up Area Proportion,20.14607165773047
+7,Dense Active,4.244874329395097,"New Haven-Milford, CT",Built-Up Area Proportion,15.214143031900884
+2,Heavyweight Transit,2.8499220122782414,"New York-Newark-Jersey City, NY-NJ-PA",Built-Up Area Proportion,10.740109980876545
+5,Auto Small,6.483841676444908,"Niles, MI",Built-Up Area Proportion,45.51340073786398
+3,Sparse Auto,5.6768462885212,"North Port-Sarasota-Bradenton, FL",Built-Up Area Proportion,40.1649531962288
+5,Auto Small,5.107018834692801,"Norwich-New London, CT",Built-Up Area Proportion,22.22313119676632
+3,Sparse Auto,6.652215055271797,"Ocala, FL",Built-Up Area Proportion,37.36697648992161
+1,Sparse Active,7.085187495037601,"Ocean City, NJ",Built-Up Area Proportion,19.57450528072241
+5,Auto Small,6.1534497779287936,"Odessa, TX",Built-Up Area Proportion,18.742306784616115
+1,Sparse Active,5.1272945195555195,"Ogden-Clearfield, UT",Built-Up Area Proportion,26.913243259989763
+4,Auto Large,6.8054690807539755,"Oklahoma City, OK",Built-Up Area Proportion,11.34208040452848
+5,Auto Small,4.487710977365074,"Olympia-Lacey-Tumwater, WA",Built-Up Area Proportion,3.12336937077292
+4,Auto Large,5.787172591210157,"Omaha-Council Bluffs, NE-IA",Built-Up Area Proportion,12.807832957507598
+4,Auto Large,5.897086156772827,"Orlando-Kissimmee-Sanford, FL",Built-Up Area Proportion,18.71180201453128
+5,Auto Small,6.881687344925628,"Oshkosh-Neenah, WI",Built-Up Area Proportion,11.160695464589718
+5,Auto Small,5.00580710216788,"Owensboro, KY",Built-Up Area Proportion,30.36185230592579
+1,Sparse Active,3.7858414642226905,"Oxnard-Thousand Oaks-Ventura, CA",Built-Up Area Proportion,15.350212463040055
+3,Sparse Auto,6.256612125306231,"Palm Bay-Melbourne-Titusville, FL",Built-Up Area Proportion,8.782330354547819
+3,Sparse Auto,6.375523767086635,"Panama City, FL",Built-Up Area Proportion,12.325961418152128
+5,Auto Small,4.542870734497769,"Parkersburg-Vienna, WV",Built-Up Area Proportion,29.737573583503785
+3,Sparse Auto,5.986106088772011,"Pensacola-Ferry Pass-Brent, FL",Built-Up Area Proportion,19.82488827986788
+3,Sparse Auto,5.935310596421382,"Peoria, IL",Built-Up Area Proportion,11.213317007675103
+4,Auto Large,3.6057238570274834,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",Built-Up Area Proportion,17.687713853166894
+4,Auto Large,5.035403239554386,"Phoenix-Mesa-Chandler, AZ",Built-Up Area Proportion,10.76217027520845
+3,Sparse Auto,7.925242608654885,"Pine Bluff, AR",Built-Up Area Proportion,40.01381846882736
+4,Auto Large,4.221033439981065,"Pittsburgh, PA",Built-Up Area Proportion,9.543338318289848
+5,Auto Small,4.212509812490091,"Pittsfield, MA",Built-Up Area Proportion,7.486746731781308
+1,Sparse Active,7.800445152024431,"Pocatello, ID",Built-Up Area Proportion,21.30630610363612
+3,Sparse Auto,6.513700045467889,"Port St. Lucie, FL",Built-Up Area Proportion,9.960559653776668
+3,Sparse Auto,5.526886321090759,"Portland-South Portland, ME",Built-Up Area Proportion,4.598622605202887
+4,Auto Large,4.334763974074535,"Portland-Vancouver-Hillsboro, OR-WA",Built-Up Area Proportion,23.13275940944063
+3,Sparse Auto,4.695465471903193,"Poughkeepsie-Newburgh-Middletown, NY",Built-Up Area Proportion,15.818765941798508
+3,Sparse Auto,8.767307677261687,"Prescott Valley-Prescott, AZ",Built-Up Area Proportion,12.717072415870309
+1,Sparse Active,4.609985854342272,"Provo-Orem, UT",Built-Up Area Proportion,1.97656659771046
+1,Sparse Active,4.775314008793338,"Pueblo, CO",Built-Up Area Proportion,36.37696662561172
+3,Sparse Auto,5.845805413879713,"Punta Gorda, FL",Built-Up Area Proportion,4.095502327418291
+5,Auto Small,4.04664829760416,"Racine, WI",Built-Up Area Proportion,4.462073860151528
+4,Auto Large,4.754841854510094,"Raleigh-Cary, NC",Built-Up Area Proportion,30.086039735463
+1,Sparse Active,6.137004142552739,"Rapid City, SD",Built-Up Area Proportion,25.50446849950084
+5,Auto Small,4.471790988865926,"Reading, PA",Built-Up Area Proportion,27.74468120716545
+3,Sparse Auto,5.729710311243077,"Redding, CA",Built-Up Area Proportion,1.825581164954694
+4,Auto Large,4.641729718981716,"Reno, NV",Built-Up Area Proportion,20.48106825426711
+4,Auto Large,5.129832949765807,"Riverside-San Bernardino-Ontario, CA",Built-Up Area Proportion,4.096130521211911
+3,Sparse Auto,6.14407714575323,"Rochester, MN",Built-Up Area Proportion,2.516929321335112
+4,Auto Large,4.401336046047008,"Rochester, NY",Built-Up Area Proportion,5.581345365115169
+5,Auto Small,4.662237057047692,"Rockford, IL",Built-Up Area Proportion,7.434113763432834
+5,Auto Small,6.895664198851254,"Rocky Mount, NC",Built-Up Area Proportion,15.32182695043717
+5,Auto Small,6.298004617782156,"Rome, GA",Built-Up Area Proportion,22.551142013900925
+4,Auto Large,4.426636901442291,"Sacramento-Roseville-Folsom, CA",Built-Up Area Proportion,12.928592034931109
+5,Auto Small,5.199660962124546,"Saginaw, MI",Built-Up Area Proportion,13.333635706375016
+1,Sparse Active,5.103628899408256,"Salem, OR",Built-Up Area Proportion,12.607360629666028
+1,Sparse Active,3.708575089595074,"Salinas, CA",Built-Up Area Proportion,17.57601135612488
+3,Sparse Auto,5.826882766400676,"Salisbury, MD-DE",Built-Up Area Proportion,9.934785237833864
+1,Sparse Active,4.8671541982546,"Salt Lake City, UT",Built-Up Area Proportion,5.035718858858649
+3,Sparse Auto,5.545518151345691,"San Angelo, TX",Built-Up Area Proportion,16.359415461603366
+4,Auto Large,4.7190890952555025,"San Antonio-New Braunfels, TX",Built-Up Area Proportion,4.264162151916328
+4,Auto Large,4.581765135352589,"San Diego-Chula Vista-Carlsbad, CA",Built-Up Area Proportion,4.483114681859993
+4,Auto Large,3.7701718036018974,"San Francisco-Oakland-Berkeley, CA",Built-Up Area Proportion,12.862732460017453
+4,Auto Large,3.7690953266778178,"San Jose-Sunnyvale-Santa Clara, CA",Built-Up Area Proportion,18.71988390423413
+1,Sparse Active,4.045880628884985,"San Luis Obispo-Paso Robles, CA",Built-Up Area Proportion,30.018734919396845
+4,Auto Large,2.7383181298689667,"Santa Cruz-Watsonville, CA",Built-Up Area Proportion,13.37380371532451
+1,Sparse Active,7.5908238633223695,"Santa Fe, NM",Built-Up Area Proportion,6.237768430838743
+1,Sparse Active,4.4817820130529125,"Santa Maria-Santa Barbara, CA",Built-Up Area Proportion,18.18837542065858
+1,Sparse Active,3.9019720501382857,"Santa Rosa-Petaluma, CA",Built-Up Area Proportion,4.169098713695785
+3,Sparse Auto,7.477711917618203,"Savannah, GA",Built-Up Area Proportion,6.03873682812356
+3,Sparse Auto,4.935904516306623,"Scranton--Wilkes-Barre, PA",Built-Up Area Proportion,11.678632007751627
+4,Auto Large,4.016145491034696,"Seattle-Tacoma-Bellevue, WA",Built-Up Area Proportion,19.61125877075848
+7,Dense Active,6.171416522191772,"Sebastian-Vero Beach, FL",Built-Up Area Proportion,14.55918411595441
+3,Sparse Auto,4.933259374200938,"Sebring-Avon Park, FL",Built-Up Area Proportion,19.310729809023467
+5,Auto Small,5.17806469696228,"Sheboygan, WI",Built-Up Area Proportion,22.98592024580737
+3,Sparse Auto,7.761637473094067,"Sherman-Denison, TX",Built-Up Area Proportion,13.011593851468351
+3,Sparse Auto,8.378529719544437,"Sierra Vista-Douglas, AZ",Built-Up Area Proportion,15.586717677817049
+3,Sparse Auto,6.886893822693476,"Sioux City, IA-NE-SD",Built-Up Area Proportion,9.71811888350246
+3,Sparse Auto,5.799980096371984,"Sioux Falls, SD",Built-Up Area Proportion,1.9636959852868647
+1,Sparse Active,5.467465274251144,"South Bend-Mishawaka, IN-MI",Built-Up Area Proportion,6.527596959532857
+5,Auto Small,6.276125083266998,"Spartanburg, SC",Built-Up Area Proportion,7.650675726271136
+3,Sparse Auto,4.426849882297688,"Spokane-Spokane Valley, WA",Built-Up Area Proportion,21.62746195187906
+5,Auto Small,5.824346483841725,"Springfield, IL",Built-Up Area Proportion,18.65409907350704
+1,Sparse Active,4.235993310915118,"Springfield, MA",Built-Up Area Proportion,5.686125320727341
+4,Auto Large,6.47887258388941,"Springfield, MO",Built-Up Area Proportion,12.153433181253378
+5,Auto Small,6.284457485136258,"Springfield, OH",Built-Up Area Proportion,20.977166280511188
+3,Sparse Auto,7.129655516556662,"St. Cloud, MN",Built-Up Area Proportion,10.015599447950372
+1,Sparse Active,6.464416155466091,"St. George, UT",Built-Up Area Proportion,18.2619516478492
+3,Sparse Auto,8.197444662274727,"St. Joseph, MO-KS",Built-Up Area Proportion,8.774675377360118
+4,Auto Large,7.853257951103703,"St. Louis, MO-IL",Built-Up Area Proportion,3.219403845886156
+1,Sparse Active,5.151074614680243,"State College, PA",Built-Up Area Proportion,7.502390063902761
+4,Auto Large,4.868642128229999,"Stockton, CA",Built-Up Area Proportion,17.240724991520796
+3,Sparse Auto,7.333344775936028,"Sumter, SC",Built-Up Area Proportion,8.147595119529406
+3,Sparse Auto,4.578972069283096,"Syracuse, NY",Built-Up Area Proportion,14.84415142092916
+3,Sparse Auto,6.067544880918141,"Tallahassee, FL",Built-Up Area Proportion,18.705910891889708
+4,Auto Large,5.016409330703997,"Tampa-St. Petersburg-Clearwater, FL",Built-Up Area Proportion,13.988992179037384
+3,Sparse Auto,7.644165070464751,"Terre Haute, IN",Built-Up Area Proportion,12.53959526183942
+3,Sparse Auto,9.612002934697832,"Texarkana, TX-AR",Built-Up Area Proportion,49.01269103095107
+7,Dense Active,8.814653934638596,"The Villages, FL",Built-Up Area Proportion,9.715697719834225
+3,Sparse Auto,5.9118254008047355,"Toledo, OH",Built-Up Area Proportion,9.528167404960795
+3,Sparse Auto,6.70375305677546,"Topeka, KS",Built-Up Area Proportion,20.322597246013483
+7,Dense Active,4.336879099474519,"Trenton-Princeton, NJ",Built-Up Area Proportion,21.532516627770026
+4,Auto Large,4.355028155707587,"Tucson, AZ",Built-Up Area Proportion,6.844679032084505
+4,Auto Large,6.339577637637868,"Tulsa, OK",Built-Up Area Proportion,54.25199182070022
+3,Sparse Auto,8.70507916553966,"Tuscaloosa, AL",Built-Up Area Proportion,4.136418029213558
+3,Sparse Auto,6.949742382139691,"Twin Falls, ID",Built-Up Area Proportion,9.601735234932828
+5,Auto Small,6.2007482816460024,"Tyler, TX",Built-Up Area Proportion,8.188815538082178
+3,Sparse Auto,5.057418883558467,"Utica-Rome, NY",Built-Up Area Proportion,3.7117305519203017
+3,Sparse Auto,7.439757348021337,"Valdosta, GA",Built-Up Area Proportion,18.501238490006163
+3,Sparse Auto,9.890181156838809,"Victoria, TX",Built-Up Area Proportion,7.182806129194414
+5,Auto Small,3.971891953277705,"Vineland-Bridgeton, NJ",Built-Up Area Proportion,10.385497126614348
+3,Sparse Auto,4.488096268716279,"Visalia, CA",Built-Up Area Proportion,13.471051414863345
+3,Sparse Auto,7.367966041177016,"Waco, TX",Built-Up Area Proportion,5.069026143694671
+1,Sparse Active,5.234842239487217,"Walla Walla, WA",Built-Up Area Proportion,18.32873179217767
+5,Auto Small,6.169884435593638,"Warner Robins, GA",Built-Up Area Proportion,4.274501606376455
+3,Sparse Auto,5.630949721169618,"Waterloo-Cedar Falls, IA",Built-Up Area Proportion,10.023570091579463
+1,Sparse Active,5.841225490215319,"Watertown-Fort Drum, NY",Built-Up Area Proportion,3.736562659825232
+3,Sparse Auto,7.8403777971121515,"Wausau-Weston, WI",Built-Up Area Proportion,17.36758666916224
+5,Auto Small,3.753406078646004,"Weirton-Steubenville, WV-OH",Built-Up Area Proportion,9.357515012342134
+1,Sparse Active,5.54903872345699,"Wenatchee, WA",Built-Up Area Proportion,8.826611463392434
+5,Auto Small,6.066200395776506,"Wheeling, WV-OH",Built-Up Area Proportion,8.468495997542947
+3,Sparse Auto,6.799822203000577,"Wichita Falls, TX",Built-Up Area Proportion,13.55847174379836
+4,Auto Large,5.676112120059677,"Wichita, KS",Built-Up Area Proportion,3.321578682454524
+5,Auto Small,4.861627230597881,"Williamsport, PA",Built-Up Area Proportion,10.99047897331451
+5,Auto Small,4.6117208538858465,"Wilmington, NC",Built-Up Area Proportion,4.9053854303847055
+3,Sparse Auto,5.512735457830683,"Winston-Salem, NC",Built-Up Area Proportion,8.510020911505158
+3,Sparse Auto,4.52818621846808,"Worcester, MA-CT",Built-Up Area Proportion,7.444214615350679
+3,Sparse Auto,4.88595041494122,"Yakima, WA",Built-Up Area Proportion,20.91416596057877
+5,Auto Small,4.242958869040292,"York-Hanover, PA",Built-Up Area Proportion,19.615868542669464
+3,Sparse Auto,5.224639584543608,"Youngstown-Warren-Boardman, OH-PA",Built-Up Area Proportion,20.344176397452944
+5,Auto Small,3.036598816830966,"Yuba City, CA",Built-Up Area Proportion,4.979486631870429
+3,Sparse Auto,5.533761312024776,"Yuma, AZ",Built-Up Area Proportion,22.20617755195001

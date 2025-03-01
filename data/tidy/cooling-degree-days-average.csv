@@ -1,0 +1,370 @@
+MSA,Cooling Degree Days
+"Abilene, TX",2383.0
+"Akron, OH",823.0
+"Albany, GA",2546.75
+"Albany-Lebanon, OR",163.0
+"Albany-Schenectady-Troy, NY",529.4
+"Albuquerque, NM",938.75
+"Allentown-Bethlehem-Easton, PA-NJ",730.75
+"Altoona, PA",662.0
+"Amarillo, TX",1769.2
+"Ames, IA",941.5
+"Ann Arbor, MI",683.0
+"Anniston-Oxford, AL",1798.0
+"Appleton, WI",605.0
+"Asheville, NC",609.25
+"Athens-Clarke County, GA",1799.25
+"Atlanta-Sandy Springs-Alpharetta, GA",1714.2068965517242
+"Atlantic City-Hammonton, NJ",1155.0
+"Auburn-Opelika, AL",1936.0
+"Augusta-Richmond County, GA-SC",2169.714285714286
+"Austin-Round Rock-Georgetown, TX",3060.4
+"Bakersfield, CA",2036.0
+"Baltimore-Columbia-Towson, MD",1218.3333333333333
+"Bangor, ME",310.0
+"Barnstable Town, MA",656.0
+"Battle Creek, MI",710.0
+"Bay City, MI",709.0
+"Beaumont-Port Arthur, TX",2990.0
+"Beckley, WV",678.5
+"Bellingham, WA",33.0
+"Bend, OR",140.0
+"Billings, MT",375.3333333333333
+"Binghamton, NY",501.5
+"Birmingham-Hoover, AL",1898.0
+"Bismarck, ND",578.0
+"Blacksburg-Christiansburg, VA",729.3333333333334
+"Bloomington, IL",974.0
+"Bloomington, IN",976.0
+"Bloomsburg-Berwick, PA",742.0
+"Boise City, ID",563.6
+"Boston-Cambridge-Newton, MA-NH",696.5714285714286
+"Boulder, CO",239.0
+"Bowling Green, KY",1382.75
+"Bremerton-Silverdale-Port Orchard, WA",181.0
+"Bridgeport-Stamford-Norwalk, CT",866.0
+"Brownsville-Harlingen, TX",4558.0
+"Brunswick, GA",2840.3333333333335
+"Buffalo-Cheektowaga, NY",639.0
+"Burlington, NC",1367.0
+"Burlington-South Burlington, VT",473.0
+"Canton-Massillon, OH",812.5
+"Cape Coral-Fort Myers, FL",4457.0
+"Cape Girardeau, MO-IL",1380.6666666666667
+"Carbondale-Marion, IL",1297.6666666666667
+"Carson City, NV",634.0
+"Casper, WY",440.0
+"Cedar Rapids, IA",774.3333333333334
+"Chambersburg-Waynesboro, PA",934.0
+"Champaign-Urbana, IL",994.5
+"Charleston, WV",1068.8
+"Charleston-North Charleston, SC",2427.0
+"Charlotte-Concord-Gastonia, NC-SC",1551.909090909091
+"Charlottesville, VA",1128.75
+"Chattanooga, TN-GA",1459.6666666666667
+"Cheyenne, WY",492.0
+"Chicago-Naperville-Elgin, IL-IN-WI",884.8571428571429
+"Chico, CA",1730.0
+"Cincinnati, OH-KY-IN",1092.4375
+"Clarksville, TN-KY",1471.75
+"Cleveland, TN",1463.0
+"Cleveland-Elyria, OH",749.2
+"Coeur d'Alene, ID",223.0
+"College Station-Bryan, TX",2880.3333333333335
+"Colorado Springs, CO",328.5
+"Columbia, MO",1260.6666666666667
+"Columbia, SC",1917.6666666666667
+"Columbus, GA-AL",2073.4285714285716
+"Columbus, IN",1002.0
+"Columbus, OH",906.4
+"Corpus Christi, TX",3966.5
+"Corvallis, OR",293.0
+"Crestview-Fort Walton Beach-Destin, FL",2790.5
+"Cumberland, MD-WV",879.0
+"Dallas-Fort Worth-Arlington, TX",2447.6363636363635
+"Dalton, GA",1575.5
+"Danville, IL",919.0
+"Daphne-Fairhope-Foley, AL",2728.0
+"Davenport-Moline-Rock Island, IA-IL",963.25
+"Dayton-Kettering, OH",1041.6666666666667
+"Decatur, AL",1631.5
+"Decatur, IL",1063.0
+"Deltona-Daytona Beach-Ormond Beach, FL",3721.5
+"Denver-Aurora-Lakewood, CO",513.0
+"Des Moines-West Des Moines, IA",1002.6666666666666
+"Detroit-Warren-Dearborn, MI",762.8333333333334
+"Dothan, AL",2604.0
+"Dover, DE",1291.0
+"Dubuque, IA",735.0
+"Duluth, MN-WI",284.25
+"Durham-Chapel Hill, NC",1428.8
+"East Stroudsburg, PA",457.0
+"Eau Claire, WI",542.5
+"El Centro, CA",4746.0
+"El Paso, TX",2429.0
+"Elizabethtown-Fort Knox, KY",1146.6666666666667
+"Elkhart-Goshen, IN",810.0
+"Elmira, NY",559.0
+"Enid, OK",1747.0
+"Erie, PA",566.0
+"Eugene-Springfield, OR",168.0
+"Evansville, IN-KY",1355.0
+"Fargo, ND-MN",621.0
+"Farmington, NM",984.0
+"Fayetteville, NC",1789.6666666666667
+"Fayetteville-Springdale-Rogers, AR",1327.3333333333333
+"Flagstaff, AZ",1108.0
+"Flint, MI",725.0
+"Florence, SC",2112.0
+"Florence-Muscle Shoals, AL",1670.0
+"Fond du Lac, WI",627.0
+"Fort Collins, CO",136.0
+"Fort Smith, AR-OK",1667.75
+"Fort Wayne, IN",799.5
+"Fresno, CA",1062.0
+"Gadsden, AL",1752.0
+"Gainesville, FL",3386.0
+"Gainesville, GA",1411.0
+"Gettysburg, PA",1014.0
+"Glens Falls, NY",409.0
+"Goldsboro, NC",1750.0
+"Grand Forks, ND-MN",537.0
+"Grand Island, NE",1131.0
+"Grand Junction, CO",648.0
+"Grand Rapids-Kentwood, MI",660.0
+"Grants Pass, OR",418.0
+"Great Falls, MT",230.0
+"Greeley, CO",815.0
+"Green Bay, WI",478.0
+"Greensboro-High Point, NC",1342.0
+"Greenville, NC",1756.0
+"Greenville-Anderson, SC",1585.75
+"Gulfport-Biloxi, MS",2683.5
+"Hagerstown-Martinsburg, MD-WV",1013.3333333333334
+"Hanford-Corcoran, CA",2384.0
+"Harrisburg-Carlisle, PA",967.3333333333334
+"Harrisonburg, VA",804.0
+"Hartford-East Hartford-Middletown, CT",756.3333333333334
+"Hattiesburg, MS",2443.0
+"Hickory-Lenoir-Morganton, NC",1163.75
+"Hilton Head Island-Bluffton, SC",2576.5
+"Hinesville, GA",2783.0
+"Homosassa Springs, FL",3866.0
+"Hot Springs, AR",1635.0
+"Houston-The Woodlands-Sugar Land, TX",3328.5555555555557
+"Huntington-Ashland, WV-KY-OH",1137.4285714285713
+"Huntsville, AL",1592.5
+"Idaho Falls, ID",252.33333333333334
+"Indianapolis-Carmel-Anderson, IN",910.9090909090909
+"Iowa City, IA",864.0
+"Ithaca, NY",498.0
+"Jackson, MI",652.0
+"Jackson, MS",2364.8571428571427
+"Jackson, TN",1600.5
+"Jacksonville, FL",3240.2
+"Jacksonville, NC",1871.0
+"Janesville-Beloit, WI",754.0
+"Jefferson City, MO",1341.5
+"Johnson City, TN",803.3333333333334
+"Johnstown, PA",498.0
+"Jonesboro, AR",1753.0
+"Joplin, MO",1490.5
+"Kalamazoo-Portage, MI",758.0
+"Kankakee, IL",947.0
+"Kansas City, MO-KS",1288.857142857143
+"Kennewick-Richland, WA",775.5
+"Killeen-Temple, TX",2788.6666666666665
+"Kingsport-Bristol, TN-VA",1012.25
+"Kingston, NY",563.0
+"Knoxville, TN",1250.625
+"Kokomo, IN",831.0
+"La Crosse-Onalaska, WI-MN",688.5
+"Lafayette-West Lafayette, IN",864.75
+"Lake Havasu City-Kingman, AZ",2568.0
+"Lakeland-Winter Haven, FL",4064.0
+"Lancaster, PA",1056.0
+"Lansing-East Lansing, MI",703.5
+"Laredo, TX",3962.0
+"Las Vegas-Henderson-Paradise, NV",3025.0
+"Lawrence, KS",1370.0
+"Lawton, OK",2073.5
+"Lebanon, PA",980.0
+"Lewiston, ID-WA",417.5
+"Lewiston-Auburn, ME",375.0
+"Lexington-Fayette, KY",1168.5
+"Lima, OH",954.0
+"Lincoln, NE",1106.5
+"Little Rock-North Little Rock-Conway, AR",1728.5
+"Logan, UT-ID",304.5
+"Longview, TX",2252.25
+"Longview, WA",134.0
+"Los Angeles-Long Beach-Anaheim, CA",1556.0
+"Louisville/Jefferson County, KY-IN",1193.5
+"Lubbock, TX",2036.6666666666667
+"Lynchburg, VA",1168.25
+"Macon-Bibb County, GA",2208.4
+"Madera, CA",1122.0
+"Madison, WI",691.0
+"Manchester-Nashua, NH",560.0
+"Manhattan, KS",1365.0
+"Mankato, MN",789.5
+"Mansfield, OH",773.0
+"McAllen-Edinburg-Mission, TX",4672.0
+"Medford, OR",446.0
+"Memphis, TN-MS-AR",1854.375
+"Merced, CA",1829.0
+"Miami-Fort Lauderdale-Pompano Beach, FL",4657.666666666667
+"Michigan City-La Porte, IN",869.0
+"Midland, MI",728.0
+"Midland, TX",2576.0
+"Milwaukee-Waukesha, WI",646.0
+"Minneapolis-St. Paul-Bloomington, MN-WI",684.6
+"Missoula, MT",94.0
+"Mobile, AL",2608.5
+"Modesto, CA",1720.0
+"Monroe, MI",933.0
+"Montgomery, AL",2409.0
+"Morgantown, WV",711.5
+"Morristown, TN",1276.0
+"Mount Vernon-Anacortes, WA",39.0
+"Muncie, IN",935.0
+"Muskegon, MI",649.0
+"Myrtle Beach-Conway-North Myrtle Beach, SC-NC",2009.5
+"Napa, CA",1324.0
+"Naples-Marco Island, FL",4401.0
+"Nashville-Davidson--Murfreesboro--Franklin, TN",1478.3076923076924
+"New Bern, NC",1833.6666666666667
+"New Haven-Milford, CT",767.0
+"New York-Newark-Jersey City, NY-NJ-PA",1060.1304347826087
+"Niles, MI",831.0
+"North Port-Sarasota-Bradenton, FL",4014.5
+"Norwich-New London, CT",734.0
+"Ocala, FL",3676.0
+"Ocean City, NJ",1167.0
+"Odessa, TX",2629.0
+"Ogden-Clearfield, UT",600.5
+"Oklahoma City, OK",1806.7142857142858
+"Olympia-Lacey-Tumwater, WA",155.0
+"Omaha-Council Bluffs, NE-IA",1157.625
+"Orlando-Kissimmee-Sanford, FL",4019.5
+"Oshkosh-Neenah, WI",661.0
+"Owensboro, KY",1260.0
+"Oxnard-Thousand Oaks-Ventura, CA",825.0
+"Palm Bay-Melbourne-Titusville, FL",3997.0
+"Panama City, FL",3118.0
+"Parkersburg-Vienna, WV",1028.0
+"Pensacola-Ferry Pass-Brent, FL",2757.0
+"Peoria, IL",1011.5
+"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",1179.3636363636363
+"Phoenix-Mesa-Chandler, AZ",4058.0
+"Pine Bluff, AR",1856.6666666666667
+"Pittsburgh, PA",751.2857142857143
+"Pittsfield, MA",417.0
+"Pocatello, ID",363.5
+"Port St. Lucie, FL",4358.0
+"Portland-South Portland, ME",416.0
+"Portland-Vancouver-Hillsboro, OR-WA",203.0
+"Poughkeepsie-Newburgh-Middletown, NY",784.0
+"Prescott Valley-Prescott, AZ",1890.0
+"Providence-Warwick, RI-MA",796.5
+"Provo-Orem, UT",799.5
+"Pueblo, CO",1080.0
+"Punta Gorda, FL",4310.0
+"Racine, WI",717.0
+"Raleigh-Cary, NC",1632.3333333333333
+"Rapid City, SD",740.5
+"Reading, PA",991.0
+"Redding, CA",1152.0
+"Reno, NV",712.0
+"Richmond, VA",1449.2857142857142
+"Riverside-San Bernardino-Ontario, CA",3319.5
+"Roanoke, VA",936.4
+"Rochester, MN",634.75
+"Rochester, NY",611.8333333333334
+"Rockford, IL",828.5
+"Rocky Mount, NC",1632.0
+"Rome, GA",1687.0
+"Sacramento-Roseville-Folsom, CA",1387.75
+"Saginaw, MI",755.0
+"Salem, OR",217.5
+"Salinas, CA",876.0
+"Salisbury, MD-DE",1437.0
+"Salt Lake City, UT",968.5
+"San Angelo, TX",2690.6666666666665
+"San Antonio-New Braunfels, TX",3134.875
+"San Diego-Chula Vista-Carlsbad, CA",1752.0
+"San Francisco-Oakland-Berkeley, CA",684.8
+"San Jose-Sunnyvale-Santa Clara, CA",1107.0
+"San Luis Obispo-Paso Robles, CA",1078.0
+"Santa Cruz-Watsonville, CA",456.0
+"Santa Fe, NM",579.0
+"Santa Maria-Santa Barbara, CA",708.0
+"Santa Rosa-Petaluma, CA",588.0
+"Savannah, GA",2760.6666666666665
+"Scranton--Wilkes-Barre, PA",570.3333333333334
+"Seattle-Tacoma-Bellevue, WA",63.0
+"Sebastian-Vero Beach, FL",3989.0
+"Sebring-Avon Park, FL",4056.0
+"Sheboygan, WI",547.0
+"Sherman-Denison, TX",2216.0
+"Sierra Vista-Douglas, AZ",1990.0
+"Sioux City, IA-NE-SD",1023.5
+"Sioux Falls, SD",901.5
+"South Bend-Mishawaka, IN-MI",792.5
+"Spartanburg, SC",1572.0
+"Spokane-Spokane Valley, WA",310.5
+"Springfield, IL",1057.5
+"Springfield, MA",612.6666666666666
+"Springfield, MO",1258.4
+"Springfield, OH",927.0
+"St. Cloud, MN",593.5
+"St. George, UT",1544.0
+"St. Joseph, MO-KS",1193.75
+"St. Louis, MO-IL",1287.0666666666666
+"State College, PA",625.0
+"Staunton, VA",731.0
+"Stockton, CA",1872.0
+"Sumter, SC",2056.0
+"Syracuse, NY",537.6666666666666
+"Tallahassee, FL",2974.0
+"Tampa-St. Petersburg-Clearwater, FL",4098.5
+"Terre Haute, IN",1056.4
+"Texarkana, TX-AR",2019.3333333333333
+"The Villages, FL",3880.0
+"Toledo, OH",1009.75
+"Topeka, KS",1345.2
+"Trenton-Princeton, NJ",1114.0
+"Tucson, AZ",3436.0
+"Tulsa, OK",1773.142857142857
+"Tuscaloosa, AL",2086.75
+"Twin Falls, ID",580.5
+"Tyler, TX",2289.0
+"Utica-Rome, NY",395.5
+"Valdosta, GA",2610.75
+"Vallejo, CA",1492.0
+"Victoria, TX",3793.0
+"Vineland-Bridgeton, NJ",1194.0
+"Virginia Beach-Norfolk-Newport News, VA-NC",1586.8
+"Visalia, CA",896.0
+"Waco, TX",2716.0
+"Walla Walla, WA",744.0
+"Warner Robins, GA",2326.5
+"Washington-Arlington-Alexandria, DC-VA-MD-WV",1198.8333333333333
+"Waterloo-Cedar Falls, IA",825.3333333333334
+"Watertown-Fort Drum, NY",516.0
+"Wausau-Weston, WI",414.0
+"Weirton-Steubenville, WV-OH",795.0
+"Wenatchee, WA",316.5
+"Wheeling, WV-OH",822.3333333333334
+"Wichita Falls, TX",2293.6666666666665
+"Wichita, KS",1589.0
+"Williamsport, PA",610.0
+"Wilmington, NC",1953.5
+"Winchester, VA-WV",884.5
+"Winston-Salem, NC",1261.8
+"Worcester, MA-CT",654.0
+"Yakima, WA",254.0
+"York-Hanover, PA",1050.0
+"Youngstown-Warren-Boardman, OH-PA",643.0
+"Yuba City, CA",1969.5
+"Yuma, AZ",4526.0
