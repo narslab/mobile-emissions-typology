@@ -47,7 +47,7 @@ San Francisco. Local regression trend lines are shown in blue, with shaded areas
 ## Usage
 
  **Emissions Prediction Modeling:**  
-   Use the models provided to estimate emissions for different MSAs:
+   Use the models provided to predict emissions for different MSAs, grouping a MSA to the specific type:
 
    ```bash
    XGboost-prediction-model.ipynb
