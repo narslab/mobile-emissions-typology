@@ -1,0 +1,386 @@
+MSA,GDP
+"Abilene, TX ",9448299
+"Akron, OH ",42289042
+"Albany, GA ",7309594
+"Albany-Lebanon, OR ",5671303
+"Albany-Schenectady-Troy, NY ",78294954
+"Albuquerque, NM ",57533723
+"Alexandria, LA ",7710641
+"Allentown-Bethlehem-Easton, PA-NJ ",51062860
+"Altoona, PA ",7043508
+"Amarillo, TX ",16545254
+"Ames, IA ",8884378
+"Anchorage, AK ",32368515
+"Ann Arbor, MI ",34008519
+"Anniston-Oxford, AL ",5993886
+"Appleton, WI ",16058588
+"Asheville, NC ",24166048
+"Athens-Clarke County, GA ",12961126
+"Atlanta-Sandy Springs-Alpharetta, GA ",472266125
+"Atlantic City-Hammonton, NJ ",16336159
+"Auburn-Opelika, AL ",8330773
+"Augusta-Richmond County, GA-SC ",36184254
+"Austin-Round Rock-Georgetown, TX ",190452006
+"Bakersfield, CA ",54122694
+"Baltimore-Columbia-Towson, MD ",248316770
+"Bangor, ME ",8386858
+"Barnstable Town, MA ",15677698
+"Baton Rouge, LA ",59498970
+"Battle Creek, MI ",7855141
+"Bay City, MI ",4255806
+"Beaumont-Port Arthur, TX ",23615808
+"Beckley, WV ",4991241
+"Bellingham, WA ",15603598
+"Bend, OR ",12267151
+"Billings, MT ",11257827
+"Binghamton, NY ",13089474
+"Birmingham-Hoover, AL ",74337618
+"Bismarck, ND ",8791944
+"Blacksburg-Christiansburg, VA  *",9537872
+"Bloomington, IL ",14510977
+"Bloomington, IN ",9948349
+"Bloomsburg-Berwick, PA ",5067818
+"Boise City, ID ",43961650
+"Boston-Cambridge-Newton, MA-NH ",527846226
+"Boulder, CO  *",33767709
+"Bowling Green, KY ",8692455
+"Bremerton-Silverdale-Port Orchard, WA ",19402536
+"Bridgeport-Stamford-Norwalk, CT ",95272579
+"Brownsville-Harlingen, TX ",14449866
+"Brunswick, GA ",5745176
+"Buffalo-Cheektowaga, NY ",81440232
+"Burlington, NC ",7286494
+"Burlington-South Burlington, VT ",16774409
+"California-Lexington Park, MD ",12126420
+"Canton-Massillon, OH ",19776672
+"Cape Coral-Fort Myers, FL ",39902997
+"Cape Girardeau, MO-IL ",5038978
+"Carbondale-Marion, IL ",7451691
+"Carson City, NV ",4828772
+"Casper, WY ",5825918
+"Cedar Rapids, IA ",20477905
+"Chambersburg-Waynesboro, PA ",7241076
+"Champaign-Urbana, IL ",15738844
+"Charleston, WV ",15162479
+"Charleston-North Charleston, SC ",54702909
+"Charlotte-Concord-Gastonia, NC-SC ",206195242
+"Charlottesville, VA  *",18201512
+"Chattanooga, TN-GA ",36678281
+"Cheyenne, WY ",7601656
+"Chicago-Naperville-Elgin, IL-IN-WI ",762681068
+"Chico, CA ",11041403
+"Cincinnati, OH-KY-IN ",170588874
+"Clarksville, TN-KY ",18671020
+"Cleveland, TN ",5690398
+"Cleveland-Elyria, OH ",150978456
+"Coeur d'Alene, ID ",8481320
+"College Station-Bryan, TX ",17167664
+"Colorado Springs, CO ",51717400
+"Columbia, MO ",13925484
+"Columbia, SC ",54671139
+"Columbus, GA-AL ",20202763
+"Columbus, IN ",7169903
+"Columbus, OH ",161899214
+"Corpus Christi, TX ",24984661
+"Corvallis, OR ",6016424
+"Crestview-Fort Walton Beach-Destin, FL ",22500273
+"Cumberland, MD-WV ",4979406
+"Dallas-Fort Worth-Arlington, TX ",591881312
+"Dalton, GA ",7639154
+"Danville, IL ",3787537
+"Daphne-Fairhope-Foley, AL ",9689371
+"Davenport-Moline-Rock Island, IA-IL ",25079317
+"Dayton-Kettering, OH ",55157171
+"Decatur, AL ",7368030
+"Decatur, IL ",7279476
+"Deltona-Daytona Beach-Ormond Beach, FL ",25709358
+"Denver-Aurora-Lakewood, CO  *",258288977
+"Des Moines-West Des Moines, IA ",64171260
+"Detroit-Warren-Dearborn, MI ",283157302
+"Dothan, AL ",8054966
+"Dover, DE ",11075169
+"Dubuque, IA ",7679471
+"Duluth, MN-WI ",16546604
+"Durham-Chapel Hill, NC ",62696786
+"East Stroudsburg, PA ",9607142
+"Eau Claire, WI ",10480025
+"El Centro, CA ",11241240
+"El Paso, TX ",44305417
+"Elizabethtown-Fort Knox, KY ",8479291
+"Elkhart-Goshen, IN ",16809776
+"Elmira, NY ",4458522
+"Enid, OK ",3188161
+"Erie, PA ",13330354
+"Eugene-Springfield, OR ",20232872
+"Evansville, IN-KY ",20128555
+"Fairbanks, AK ",8050688
+"Fargo, ND-MN ",17576032
+"Farmington, NM ",6471476
+"Fayetteville, NC ",33475049
+"Fayetteville-Springdale-Rogers, AR ",33178749
+"Flagstaff, AZ ",9100103
+"Flint, MI ",17955316
+"Florence, SC ",11759206
+"Florence-Muscle Shoals, AL ",6377877
+"Fond du Lac, WI ",5873077
+"Fort Collins, CO ",25214734
+"Fort Smith, AR-OK ",11293969
+"Fort Wayne, IN ",24760309
+"Fresno, CA ",55168915
+"Gadsden, AL ",3476114
+"Gainesville, FL ",21347877
+"Gainesville, GA ",13324094
+"Gettysburg, PA ",4358843
+"Glens Falls, NY ",7701647
+"Goldsboro, NC ",6348440
+"Grand Forks, ND-MN ",6885936
+"Grand Island, NE ",4970262
+"Grand Junction, CO ",7990815
+"Grand Rapids-Kentwood, MI ",68768469
+"Grants Pass, OR ",3457663
+"Great Falls, MT ",4810551
+"Greeley, CO  *",18971666
+"Green Bay, WI ",23358263
+"Greensboro-High Point, NC ",45814290
+"Greenville, NC ",12192493
+"Greenville-Anderson, SC ",53866046
+"Gulfport-Biloxi, MS ",22764827
+"Hagerstown-Martinsburg, MD-WV ",13564906
+"Hammond, LA ",5403344
+"Hanford-Corcoran, CA ",9679841
+"Harrisburg-Carlisle, PA ",47467813
+"Harrisonburg, VA  *",9033459
+"Hartford-East Hartford-Middletown, CT ",110978500
+"Hattiesburg, MS ",7721151
+"Hickory-Lenoir-Morganton, NC ",17241789
+"Hilton Head Island-Bluffton, SC ",12923703
+"Hinesville, GA ",6439586
+"Homosassa Springs, FL ",4853035
+"Hot Springs, AR ",4039515
+"Houma-Thibodaux, LA ",10058481
+"Houston-The Woodlands-Sugar Land, TX ",536372663
+"Huntington-Ashland, WV-KY-OH ",16890175
+"Huntsville, AL ",39525348
+"Idaho Falls, ID ",10330873
+"Indianapolis-Carmel-Anderson, IN ",164715089
+"Iowa City, IA ",15304404
+"Ithaca, NY ",6756128
+"Jackson, MI ",7483237
+"Jackson, MS ",34344319
+"Jackson, TN ",10241623
+"Jacksonville, FL ",103826095
+"Jacksonville, NC ",14841698
+"Janesville-Beloit, WI ",8758812
+"Jefferson City, MO ",10394633
+"Johnson City, TN ",9830665
+"Johnstown, PA ",5597512
+"Jonesboro, AR ",6588577
+"Joplin, MO ",8399547
+"Kahului-Wailuku-Lahaina, HI ",10008680
+"Kalamazoo-Portage, MI ",17292061
+"Kankakee, IL ",7022747
+"Kansas City, MO-KS ",160572025
+"Kennewick-Richland, WA ",18627312
+"Killeen-Temple, TX ",28041731
+"Kingsport-Bristol, TN-VA  *",15427121
+"Kingston, NY ",9263227
+"Knoxville, TN ",53498611
+"Kokomo, IN ",4574436
+"La Crosse-Onalaska, WI-MN ",9478267
+"Lafayette, LA ",23922489
+"Lafayette-West Lafayette, IN ",14088315
+"Lake Charles, LA ",14719679
+"Lake Havasu City-Kingman, AZ ",6923285
+"Lakeland-Winter Haven, FL ",32489372
+"Lancaster, PA ",32132352
+"Lansing-East Lansing, MI ",33090213
+"Laredo, TX ",12938879
+"Las Cruces, NM ",10388459
+"Las Vegas-Henderson-Paradise, NV ",137547882
+"Lawrence, KS ",6790190
+"Lawton, OK ",8058913
+"Lebanon, PA ",6970289
+"Lewiston, ID-WA ",3428552
+"Lewiston-Auburn, ME ",5807880
+"Lexington-Fayette, KY ",35972245
+"Lima, OH ",8352629
+"Lincoln, NE ",25595311
+"Little Rock-North Little Rock-Conway, AR ",47478489
+"Logan, UT-ID ",7758260
+"Longview, TX ",15720648
+"Longview, WA ",6282769
+"Los Angeles-Long Beach-Anaheim, CA ",1135421878
+"Louisville/Jefferson County, KY-IN ",84457315
+"Lubbock, TX ",18609542
+"Lynchburg, VA  *",11778767
+"Macon-Bibb County, GA ",11981608
+"Madera, CA ",7604149
+"Madison, WI ",60778348
+"Manchester-Nashua, NH ",31311246
+"Manhattan, KS ",10579529
+"Mankato, MN ",6562180
+"Mansfield, OH ",5354476
+"McAllen-Edinburg-Mission, TX ",28254927
+"Medford, OR ",11247244
+"Memphis, TN-MS-AR ",90066296
+"Merced, CA ",11428445
+"Miami-Fort Lauderdale-Pompano Beach, FL ",412900083
+"Michigan City-La Porte, IN ",4698427
+"Midland, MI ",6160501
+"Midland, TX ",23859990
+"Milwaukee-Waukesha, WI ",113594718
+"Minneapolis-St. Paul-Bloomington, MN-WI ",302072844
+"Missoula, MT ",7107095
+"Mobile, AL ",24926602
+"Modesto, CA ",27120256
+"Monroe, LA ",9413766
+"Monroe, MI ",6376529
+"Montgomery, AL ",23747629
+"Morgantown, WV ",9848493
+"Morristown, TN ",6161758
+"Mount Vernon-Anacortes, WA ",8085909
+"Muncie, IN ",5122779
+"Muskegon, MI ",6854257
+"Myrtle Beach-Conway-North Myrtle Beach, SC-NC ",22490898
+"Napa, CA ",12433826
+"Naples-Marco Island, FL ",23192083
+"Nashville-Davidson--Murfreesboro--Franklin, TN ",158109688
+"New Bern, NC ",8012754
+"New Haven-Milford, CT ",59046292
+"New Orleans-Metairie, LA ",83271604
+"New York-Newark-Jersey City, NY-NJ-PA ",2025634058
+"Niles, MI ",8736602
+"North Port-Sarasota-Bradenton, FL ",43368616
+"Norwich-New London, CT ",22806434
+"Ocala, FL ",12773768
+"Ocean City, NJ ",6640397
+"Odessa, TX ",11712484
+"Ogden-Clearfield, UT ",38564472
+"Oklahoma City, OK ",90754370
+"Olympia-Lacey-Tumwater, WA ",19475612
+"Omaha-Council Bluffs, NE-IA ",77627880
+"Orlando-Kissimmee-Sanford, FL ",161181830
+"Oshkosh-Neenah, WI ",12148291
+"Owensboro, KY ",6320481
+"Oxnard-Thousand Oaks-Ventura, CA ",60649465
+"Palm Bay-Melbourne-Titusville, FL ",31417639
+"Panama City, FL ",10990634
+"Parkersburg-Vienna, WV ",4500319
+"Pensacola-Ferry Pass-Brent, FL ",27160806
+"Peoria, IL ",23376711
+"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD ",485847524
+"Phoenix-Mesa-Chandler, AZ ",317697392
+"Pine Bluff, AR ",4177544
+"Pittsburgh, PA ",167551668
+"Pittsfield, MA ",8038399
+"Pocatello, ID ",4274631
+"Port St. Lucie, FL ",21649842
+"Portland-South Portland, ME ",40140445
+"Portland-Vancouver-Hillsboro, OR-WA ",193045911
+"Poughkeepsie-Newburgh-Middletown, NY ",42037184
+"Prescott Valley-Prescott, AZ ",9120159
+"Providence-Warwick, RI-MA ",101637862
+"Provo-Orem, UT ",35787405
+"Pueblo, CO ",7629024
+"Punta Gorda, FL ",7017252
+"Racine, WI ",9801983
+"Raleigh-Cary, NC ",106986704
+"Rapid City, SD ",8432318
+"Reading, PA ",22705393
+"Redding, CA ",10097547
+"Reno, NV ",35538918
+"Richmond, VA  *",105264739
+"Riverside-San Bernardino-Ontario, CA ",228740442
+"Roanoke, VA  *",18813114
+"Rochester, MN ",15628747
+"Rochester, NY ",72325812
+"Rockford, IL ",17040202
+"Rocky Mount, NC ",7689265
+"Rome, GA ",4633051
+"Sacramento-Roseville-Folsom, CA ",183451816
+"Saginaw, MI ",9713506
+"Salem, OR ",25001326
+"Salinas, CA ",33629435
+"Salisbury, MD-DE ",25362339
+"Salt Lake City, UT ",120025527
+"San Angelo, TX ",8360379
+"San Antonio-New Braunfels, TX ",156883687
+"San Diego-Chula Vista-Carlsbad, CA ",293622693
+"San Francisco-Oakland-Berkeley, CA ",660263176
+"San Jose-Sunnyvale-Santa Clara, CA ",361287757
+"San Luis Obispo-Paso Robles, CA ",20458266
+"Santa Cruz-Watsonville, CA ",18507711
+"Santa Fe, NM ",8904094
+"Santa Maria-Santa Barbara, CA ",35513183
+"Santa Rosa-Petaluma, CA ",34715634
+"Savannah, GA ",26155853
+"Scranton--Wilkes-Barre, PA ",30413097
+"Seattle-Tacoma-Bellevue, WA ",481736232
+"Sebastian-Vero Beach, FL ",7933467
+"Sebring-Avon Park, FL ",2947975
+"Sheboygan, WI ",7793537
+"Sherman-Denison, TX ",5772885
+"Shreveport-Bossier City, LA ",23257718
+"Sierra Vista-Douglas, AZ ",7282079
+"Sioux City, IA-NE-SD ",9871746
+"Sioux Falls, SD ",24991123
+"South Bend-Mishawaka, IN-MI ",17022562
+"Spartanburg, SC ",19120459
+"Spokane-Spokane Valley, WA ",34411428
+"Springfield, IL ",13815743
+"Springfield, MA ",41192172
+"Springfield, MO ",24198665
+"Springfield, OH ",5363333
+"St. Cloud, MN ",12442996
+"St. George, UT ",8487255
+"St. Joseph, MO-KS ",6894704
+"St. Louis, MO-IL ",191891956
+"State College, PA ",12908455
+"Staunton, VA  *",5969983
+"Stockton, CA ",38177705
+"Sumter, SC ",6625144
+"Syracuse, NY ",48446096
+"Tallahassee, FL ",23830845
+"Tampa-St. Petersburg-Clearwater, FL ",192269410
+"Terre Haute, IN ",8867854
+"Texarkana, TX-AR ",6938427
+"The Villages, FL ",4678542
+"Toledo, OH ",40574704
+"Topeka, KS ",14892058
+"Trenton-Princeton, NJ ",44829460
+"Tucson, AZ ",57168715
+"Tulsa, OK ",57031176
+"Tuscaloosa, AL ",14115777
+"Twin Falls, ID ",5855510
+"Tyler, TX ",13002892
+United States (Metropolitan Portion) *,21534278580
+"Urban Honolulu, HI ",79522075
+"Utica-Rome, NY ",16406031
+"Valdosta, GA ",7729599
+"Vallejo, CA ",35970293
+"Victoria, TX ",5286399
+"Vineland-Bridgeton, NJ ",7946208
+"Virginia Beach-Norfolk-Newport News, VA-NC  *",128224291
+"Visalia, CA ",22358749
+"Waco, TX ",15285963
+"Walla Walla, WA ",4105998
+"Warner Robins, GA ",12233930
+"Washington-Arlington-Alexandria, DC-VA-MD-WV  *",705095015
+"Waterloo-Cedar Falls, IA ",11356380
+"Watertown-Fort Drum, NY ",9891009
+"Wausau-Weston, WI ",11329867
+"Weirton-Steubenville, WV-OH ",5681379
+"Wenatchee, WA ",7846657
+"Wheeling, WV-OH ",9584739
+"Wichita Falls, TX ",8060202
+"Wichita, KS ",40741180
+"Williamsport, PA ",6529848
+"Wilmington, NC ",18538077
+"Winchester, VA-WV  *",8865743
+"Winston-Salem, NC ",37184229
+"Worcester, MA-CT ",57736191
+"Yakima, WA ",12871827
+"York-Hanover, PA ",24082525
+"Youngstown-Warren-Boardman, OH-PA ",23410595
+"Yuba City, CA ",9258388
+"Yuma, AZ ",9961854
