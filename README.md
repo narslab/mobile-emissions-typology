@@ -21,12 +21,17 @@ In this reasearch, we present a novel typology of 349 MSAs in the United States 
 
 
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/c7a4f727-7c1e-40fe-8bea-5ad463cdff0c" alt="Scatterplot" width="400"/>
+  <img src="hhttps://github.com/user-attachments/assets/2fd972b3-6b4f-4122-bfee-cf384eb19f76" alt="Cluster map" width="400"/>
 </p>
-![scatterplot](https://github.com/user-attachments/assets/c7a4f727-7c1e-40fe-8bea-5ad463cdff0c)
-![map](https://github.com/user-attachments/assets/2fd972b3-6b4f-4122-bfee-cf384eb19f76)
 
 
-**
+*Scatter plots of PMGE against the log scale of 6 most important indicators as
+extracted from the SHAP analysis. NY, LA, and SF are short for New York, Log Angeles, and
+San Francisco. Local regression trend lines are shown in blue, with shaded areas representing
+95% confidence intervals. Typology map of metro areas, with notable principal cities labeled.
+*
 
 ## Repository Structure
 
