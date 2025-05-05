@@ -23,7 +23,7 @@ In this reasearch, we present a novel typology of 349 MSAs in the United States 
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/c7a4f727-7c1e-40fe-8bea-5ad463cdff0c" alt="Scatterplot" width="400"/>
-  <img src="hhttps://github.com/user-attachments/assets/2fd972b3-6b4f-4122-bfee-cf384eb19f76" alt="Cluster map" width="400"/>
+  <img src="https://github.com/user-attachments/assets/49105710-c1a4-4b00-8ad0-9084b769040e" alt="Cluster map" width="400"/>
 </p>
 
 
