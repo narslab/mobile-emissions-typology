@@ -20,10 +20,10 @@ In this reasearch, we present a novel typology of 349 MSAs in the United States 
 - Generated comprehensive analysis and visualizations for emissions distribution, factor loadings, typology, and emissions prediction. 
 
 
-<p align="center">
-  <img src="https://github.com/mobile-emissions-typology/figures/scatterplot.jpg" alt="Diesel Consumption" width="400"/>
-  <img src="https://github.com/user-attachments/assets/71f133b7-a909-4479-8fb7-6c42ba853a51" alt="GHG Emissions" width="400"/>
+
 </p>
+![scatterplot](https://github.com/user-attachments/assets/c7a4f727-7c1e-40fe-8bea-5ad463cdff0c)
+![map](https://github.com/user-attachments/assets/2fd972b3-6b4f-4122-bfee-cf384eb19f76)
 
 
 **
